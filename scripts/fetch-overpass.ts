@@ -1,6 +1,6 @@
 import { load } from "js-yaml";
 import { existsSync, readFileSync, writeFileSync } from "fs";
-import glob from "glob";
+import { globSync } from "glob";
 import osmtogeojson from "osmtogeojson";
 import { basename, parse } from "path";
 import { FeatureCollection } from "geojson";
@@ -91,7 +91,7 @@ const buildOverpassQuery = async (
   }
   if (layer.osm_ids_dir) {
     subject = "nwr";
-    const yamlFiles = glob.sync(
+    const yamlFiles = globSync(
       `./missions/${missionName}/${layer.osm_ids_dir}/**/[!_]*.yml`
     );
     if (yamlFiles.length > 0) {
@@ -133,7 +133,7 @@ const buildOverpassQuery = async (
 };
 
 // main
-const configFilePaths = glob.sync(`./missions/**/overpass.yml`);
+const configFilePaths = globSync(`./missions/**/overpass.yml`);
 if (configFilePaths.length > 0) {
   for await (const configFilePath of configFilePaths) {
     console.log("configFilePath: ", configFilePath);
