@@ -2,9 +2,9 @@
 
 ### What?
 
-- MUNDO is an acronym for "Model United Nations Development Operations"
+- MUNDO is an acronym for "Model United Nations Development and Operations"
 - MUNDO is a Model United Nations focusing on UN peacekeeping operations and the UNDP
-- mundo-maps simulates the development and operation of geospatial information systems in the United Nations
+- mundo-maps is focusing simulates the development and operation of geospatial information systems in the United Nations
 - mundo-maps is based on OpenStreetMap, ReliefWeb and other Open Data
 
 ### Why?

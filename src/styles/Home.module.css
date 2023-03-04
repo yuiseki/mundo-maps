@@ -4,11 +4,17 @@
 }
 
 .header {
-  margin-top: 100px;
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+
+.content {
+  display: flex;
 }
 
 .missions {
-  margin: 25px;
+  margin: 0;
+  width: 20vw;
 }
 
 .list {

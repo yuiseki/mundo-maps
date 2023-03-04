@@ -87,7 +87,12 @@ body {
 
 body {
   color: rgba(var(--foreground-rgba));
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blue(2px);
+}
+
+h2 {
+  margin: 20px 0;
 }
 
 a {
