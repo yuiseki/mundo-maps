@@ -115,28 +115,30 @@ export const MapHeader: React.FC<{
           )}
         </h3>
       </div>
-      <div
-        style={{
-          whiteSpace: "nowrap",
-          paddingLeft: "20px",
-          fontFamily: "sans-serif, emoji",
-        }}
-      >
-        🗺{" "}
-        <select
+      {missionName && (
+        <div
           style={{
-            height: "1.8em",
-            maxWidth: "130px",
-            textOverflow: "ellipsis",
-            fontSize: "0.8em",
+            whiteSpace: "nowrap",
+            paddingLeft: "20px",
             fontFamily: "sans-serif, emoji",
           }}
-          value={mapStyleJsonUrl}
-          onChange={onSelectMapStyleJsonUrl}
         >
-          <BaseMapStyleOptions />
-        </select>
-      </div>
+          🗺{" "}
+          <select
+            style={{
+              height: "1.8em",
+              maxWidth: "130px",
+              textOverflow: "ellipsis",
+              fontSize: "0.8em",
+              fontFamily: "sans-serif, emoji",
+            }}
+            value={mapStyleJsonUrl}
+            onChange={onSelectMapStyleJsonUrl}
+          >
+            <BaseMapStyleOptions />
+          </select>
+        </div>
+      )}
       {missionName &&
         ConcernLayers.map((concernLayerOption) => {
           return (
