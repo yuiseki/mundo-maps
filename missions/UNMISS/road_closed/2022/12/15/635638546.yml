@@ -1,0 +1,5 @@
+properties:
+  incident:date:start: 2022-12-15
+  incident:type: road_closed
+  incident:source:url: https://reliefweb.int/map/south-sudan/south-sudan-physical-access-constraints-15-dec-2022
+  incident:detail: Road is NOT Passable

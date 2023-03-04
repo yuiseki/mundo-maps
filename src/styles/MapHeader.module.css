@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(4px);
+  z-index: 10000;
+  font-family: "sans-serif, emoji";
+}
+
+.logoWrap {
+  padding-left: 10px;
+  text-align: center;
+}
+
+.titleWrap {
+  white-space: nowrap;
+  padding-left: 10px;
+  font-weight: 400;
+}

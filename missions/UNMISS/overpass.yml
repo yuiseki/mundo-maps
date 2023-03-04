@@ -1,0 +1,42 @@
+area:
+  name:en: South Sudan
+  relation: 1656678
+  level: 2
+layers:
+  - name: government
+    nwr:
+      - government:
+      - office: government
+      - office: quango
+  - name: hospital
+    way:
+      - amenity: hospital
+  - name: incidents
+    osm_ids_dir: incidents
+  - name: military
+    way:
+      - landuse: military
+  - name: operator
+    nwr:
+      - operator: United Nations
+      - operator: UNMISS
+  - name: power
+    way:
+      - power:
+      - industrial: oil
+      - industrial: gas
+  - name: refugee_site
+    nwr:
+      - amenity: shelter
+      - amenity: refugee_site
+      - emergency: assembly_point
+      - social_facility: shelter
+  - name: road_closed
+    osm_ids_dir: road_closed
+  - name: social_facility
+    nwr:
+      - social_facility:
+  - name: water
+    nwr:
+      - amenity: water_point
+      - man_made: water_well

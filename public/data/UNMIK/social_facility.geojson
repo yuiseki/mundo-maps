@@ -1,0 +1,223 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/380981559",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "addr:street": "Ilir Konushevci",
+        "amenity": "social_facility",
+        "building": "yes",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "way/380981559"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1624055,
+              42.6700325
+            ],
+            [
+              21.1625457,
+              42.6698739
+            ],
+            [
+              21.1627121,
+              42.6699577
+            ],
+            [
+              21.1625749,
+              42.6701118
+            ],
+            [
+              21.1624055,
+              42.6700325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/759440858",
+      "properties": {
+        "addr:housenumber": "70",
+        "addr:street": "Ismail Seferaj",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Shtëpia e të Moshuarve",
+        "social_facility": "Nursing Home",
+        "social_facility:for": "senior",
+        "id": "way/759440858"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8104825,
+              42.3137047
+            ],
+            [
+              20.8105496,
+              42.3135261
+            ],
+            [
+              20.8105174,
+              42.3135142
+            ],
+            [
+              20.8104825,
+              42.3134766
+            ],
+            [
+              20.8104664,
+              42.313427
+            ],
+            [
+              20.8105818,
+              42.3130501
+            ],
+            [
+              20.8108071,
+              42.3130819
+            ],
+            [
+              20.8107239,
+              42.3133734
+            ],
+            [
+              20.8111209,
+              42.3134389
+            ],
+            [
+              20.8110699,
+              42.3136035
+            ],
+            [
+              20.8107615,
+              42.3135499
+            ],
+            [
+              20.8107052,
+              42.3137404
+            ],
+            [
+              20.8104825,
+              42.3137047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/888765376",
+      "properties": {
+        "addr:city": "Istog",
+        "addr:housenumber": "45",
+        "addr:postcode": "31000",
+        "addr:street": "Smail Bicaj",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Shtepia e te moshuarve Flora",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "wheelchair": "limited",
+        "id": "way/888765376"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4731887,
+              42.7777535
+            ],
+            [
+              20.4733013,
+              42.7775035
+            ],
+            [
+              20.473768,
+              42.777598
+            ],
+            [
+              20.4737198,
+              42.7777889
+            ],
+            [
+              20.4731887,
+              42.7777535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/889884157",
+      "properties": {
+        "addr:city": "Gurrakoc",
+        "addr:housenumber": "26",
+        "addr:postcode": "31020",
+        "addr:street": "Xhafer Mehmetaj",
+        "amenity": "social_facility",
+        "building": "yes",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "wheelchair": "limited",
+        "id": "way/889884157"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4746444,
+              42.725146
+            ],
+            [
+              20.4747168,
+              42.7249765
+            ],
+            [
+              20.4749716,
+              42.7250396
+            ],
+            [
+              20.4748938,
+              42.7252011
+            ],
+            [
+              20.4746444,
+              42.725146
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10311950600",
+      "properties": {
+        "amenity": "social_facility",
+        "social_facility": "shelter",
+        "social_facility:for": "homeless",
+        "id": "node/10311950600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3905572,
+          42.5039575
+        ]
+      }
+    }
+  ]
+}

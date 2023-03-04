@@ -1,0 +1,14 @@
+area:
+  name:en: Taito
+  relation: 1758888
+  level: 7
+layers:
+  - name: hospital
+    way:
+      - amenity: hospital
+  - name: toilets
+    nwr:
+      - amenity: toilets
+  - name: police
+    nwr:
+      - amenity: police

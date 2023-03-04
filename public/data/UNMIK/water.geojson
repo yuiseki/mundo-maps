@@ -1,0 +1,834 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/684600780",
+      "properties": {
+        "amenity": "water_point",
+        "fee": "no",
+        "name": "Qeshmja e Hanumshahe Beqirit",
+        "id": "way/684600780"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4905212,
+              42.4223207
+            ],
+            [
+              21.4905462,
+              42.4222731
+            ],
+            [
+              21.4906065,
+              42.4222903
+            ],
+            [
+              21.4905815,
+              42.4223379
+            ],
+            [
+              21.4905212,
+              42.4223207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/718110788",
+      "properties": {
+        "man_made": "water_well",
+        "id": "way/718110788"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4475213,
+              42.3064899
+            ],
+            [
+              21.4475267,
+              42.3065004
+            ],
+            [
+              21.4475269,
+              42.3065116
+            ],
+            [
+              21.4475219,
+              42.3065221
+            ],
+            [
+              21.4475124,
+              42.3065308
+            ],
+            [
+              21.4474994,
+              42.3065366
+            ],
+            [
+              21.4474845,
+              42.3065387
+            ],
+            [
+              21.4474643,
+              42.3065352
+            ],
+            [
+              21.4474521,
+              42.3065285
+            ],
+            [
+              21.4474438,
+              42.3065191
+            ],
+            [
+              21.4474404,
+              42.3065083
+            ],
+            [
+              21.4474422,
+              42.3064971
+            ],
+            [
+              21.4474467,
+              42.3064896
+            ],
+            [
+              21.4474567,
+              42.3064812
+            ],
+            [
+              21.44747,
+              42.3064759
+            ],
+            [
+              21.447485,
+              42.3064742
+            ],
+            [
+              21.4474998,
+              42.3064764
+            ],
+            [
+              21.4475127,
+              42.3064822
+            ],
+            [
+              21.4475213,
+              42.3064899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/734145192",
+      "properties": {
+        "man_made": "water_well",
+        "id": "way/734145192"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.442926,
+              42.4707618
+            ],
+            [
+              21.4429285,
+              42.4707619
+            ],
+            [
+              21.4429308,
+              42.4707627
+            ],
+            [
+              21.4429326,
+              42.4707639
+            ],
+            [
+              21.4429339,
+              42.4707656
+            ],
+            [
+              21.4429343,
+              42.4707675
+            ],
+            [
+              21.4429338,
+              42.4707693
+            ],
+            [
+              21.4429326,
+              42.470771
+            ],
+            [
+              21.4429306,
+              42.4707722
+            ],
+            [
+              21.4429282,
+              42.4707729
+            ],
+            [
+              21.4429257,
+              42.470773
+            ],
+            [
+              21.4429232,
+              42.4707725
+            ],
+            [
+              21.4429212,
+              42.4707714
+            ],
+            [
+              21.4429198,
+              42.4707699
+            ],
+            [
+              21.442919,
+              42.4707682
+            ],
+            [
+              21.4429191,
+              42.4707663
+            ],
+            [
+              21.44292,
+              42.4707646
+            ],
+            [
+              21.4429215,
+              42.4707632
+            ],
+            [
+              21.4429236,
+              42.4707622
+            ],
+            [
+              21.442926,
+              42.4707618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/948453839",
+      "properties": {
+        "drinking_water": "yes",
+        "man_made": "water_well",
+        "pump": "no",
+        "id": "way/948453839"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.7395445,
+              42.3644228
+            ],
+            [
+              20.7395773,
+              42.3643177
+            ],
+            [
+              20.7397761,
+              42.364398
+            ],
+            [
+              20.7396582,
+              42.3644792
+            ],
+            [
+              20.7395445,
+              42.3644228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2929270382",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/2929270382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1936632,
+          42.5983846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3064966515",
+      "properties": {
+        "man_made": "water_well",
+        "name": "Burim i ujit",
+        "id": "node/3064966515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9728728,
+          42.9206801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4362166689",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/4362166689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0731015,
+          42.6385932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4575657698",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/4575657698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9620806,
+          42.9944957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4605502268",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/4605502268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6300644,
+          42.0029316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4781698361",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/4781698361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1585743,
+          42.659159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4955120422",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/4955120422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8355631,
+          42.7955972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4955120423",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/4955120423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8359741,
+          42.7960538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4984600921",
+      "properties": {
+        "amenity": "water_point",
+        "name": "Ujëmbledhësi",
+        "name:en": "Ujëmbledhësi",
+        "name:sq": "Ujëmbledhësi",
+        "name:sr": "Ujëmbledhësi",
+        "id": "node/4984600921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8359416,
+          42.7957598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5040838123",
+      "properties": {
+        "addr:street": "Skënderbeu",
+        "amenity": "water_point",
+        "name": "Burimi",
+        "name:sq": "Burimi",
+        "id": "node/5040838123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1361349,
+          42.7215323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5111517521",
+      "properties": {
+        "amenity": "water_point",
+        "id": "node/5111517521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0420163,
+          42.7456566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5135820922",
+      "properties": {
+        "amenity": "water_point",
+        "name": "Uje Bajgore",
+        "id": "node/5135820922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0337534,
+          42.9696669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5255286936",
+      "properties": {
+        "man_made": "water_well",
+        "name": "Burimi i Moravës së Binçës",
+        "operator": "Burimi i Moravës së Binçës",
+        "id": "node/5255286936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3391242,
+          42.2543841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5564729826",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/5564729826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.265857,
+          42.6571809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5564775421",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/5564775421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2611716,
+          42.6600926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5595325422",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/5595325422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.225218,
+          42.5784849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6810217099",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/6810217099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3548054,
+          42.4741613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6810217100",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/6810217100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3547517,
+          42.4743548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6810217101",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/6810217101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3541027,
+          42.4745536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6810217102",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/6810217102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.352858,
+          42.4739763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7294454586",
+      "properties": {
+        "addr:street": "Adem Stanqiqi",
+        "amenity": "water_point",
+        "name": "Uji Maja e Zezë",
+        "id": "node/7294454586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5466921,
+          42.2594379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7820777557",
+      "properties": {
+        "access": "customers",
+        "man_made": "water_well",
+        "pump": "manual",
+        "id": "node/7820777557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3968824,
+          42.5753042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8475016020",
+      "properties": {
+        "amenity": "water_point",
+        "name": "Qeshmja e burojes",
+        "id": "node/8475016020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.667982,
+          42.6951527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8551648194",
+      "properties": {
+        "man_made": "water_well",
+        "ref": "VPD Drill",
+        "id": "node/8551648194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7234896,
+          42.4610445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9084793138",
+      "properties": {
+        "access": "yes",
+        "man_made": "water_well",
+        "pump": "powered",
+        "id": "node/9084793138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.971584,
+          42.7721699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9084800795",
+      "properties": {
+        "drinking_water": "yes",
+        "man_made": "water_well",
+        "operator": "Suad Miftari",
+        "pump": "manual",
+        "id": "node/9084800795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9679979,
+          42.7687727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9091313032",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/9091313032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2993234,
+          42.6567659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9091313427",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/9091313427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2943406,
+          42.6604231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9092681214",
+      "properties": {
+        "access": "yes",
+        "drinking_water": "yes",
+        "man_made": "water_well",
+        "pump": "no",
+        "ref": "Qeshmja e Vërnices",
+        "id": "node/9092681214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9690114,
+          42.7914727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9094342626",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/9094342626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2942533,
+          42.6602754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9094371020",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/9094371020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2942178,
+          42.6602444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9094371029",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/9094371029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2305928,
+          42.6652836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9098651525",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/9098651525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.432058,
+          42.3852117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9103438853",
+      "properties": {
+        "man_made": "water_well",
+        "id": "node/9103438853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4196882,
+          42.3630027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9348519419",
+      "properties": {
+        "addr:street": "Qëndresa",
+        "amenity": "water_point",
+        "name": "Xhamia e Lubishtës",
+        "id": "node/9348519419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4092867,
+          42.2910395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9912527017",
+      "properties": {
+        "addr:street": "Eris Çabra",
+        "amenity": "water_point",
+        "id": "node/9912527017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7711446,
+          42.9018591
+        ]
+      }
+    }
+  ]
+}

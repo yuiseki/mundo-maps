@@ -1,0 +1,2877 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/123829004",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia",
+        "id": "way/123829004"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.6576073,
+              42.3970405
+            ],
+            [
+              20.6575318,
+              42.3969395
+            ],
+            [
+              20.6577155,
+              42.3968712
+            ],
+            [
+              20.6577774,
+              42.3969988
+            ],
+            [
+              20.6576073,
+              42.3970405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125494559",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia Rajonale e Prishtinës",
+        "id": "way/125494559"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1593198,
+              42.662334
+            ],
+            [
+              21.1591053,
+              42.6619052
+            ],
+            [
+              21.1593453,
+              42.6618403
+            ],
+            [
+              21.1594213,
+              42.6619923
+            ],
+            [
+              21.1593564,
+              42.6620099
+            ],
+            [
+              21.1594949,
+              42.6622866
+            ],
+            [
+              21.1593198,
+              42.662334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133776805",
+      "properties": {
+        "addr:city": "Hani i Elezit",
+        "addr:housenumber": "377",
+        "addr:postcode": "71510",
+        "addr:street": "Adem Jashari",
+        "amenity": "police",
+        "building": "roof",
+        "name": "Vendkalimi kufitar Han i Elezit",
+        "name:de": "Grenzübergang Han i Elezit",
+        "name:en": "Border Crossing Han i Elezit",
+        "id": "way/133776805"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.302203,
+              42.1421166
+            ],
+            [
+              21.3022581,
+              42.1421175
+            ],
+            [
+              21.3023927,
+              42.1421198
+            ],
+            [
+              21.3026297,
+              42.1421239
+            ],
+            [
+              21.3026809,
+              42.1421248
+            ],
+            [
+              21.3026694,
+              42.1424928
+            ],
+            [
+              21.302619,
+              42.1424919
+            ],
+            [
+              21.3025339,
+              42.1424905
+            ],
+            [
+              21.3025348,
+              42.1424617
+            ],
+            [
+              21.3023742,
+              42.1424589
+            ],
+            [
+              21.3022421,
+              42.1424567
+            ],
+            [
+              21.3021924,
+              42.1424558
+            ],
+            [
+              21.302203,
+              42.1421166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146366101",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia Kufitare",
+        "name:en": "Border Police",
+        "id": "way/146366101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.2887158,
+              42.7588325
+            ],
+            [
+              20.2886114,
+              42.7588057
+            ],
+            [
+              20.28869,
+              42.7586411
+            ],
+            [
+              20.2887943,
+              42.7586679
+            ],
+            [
+              20.2887158,
+              42.7588325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146611134",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia HQ",
+        "id": "way/146611134"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8688826,
+              42.8889139
+            ],
+            [
+              20.869054,
+              42.8886416
+            ],
+            [
+              20.8692171,
+              42.8886624
+            ],
+            [
+              20.8689741,
+              42.8889851
+            ],
+            [
+              20.8688826,
+              42.8889139
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147330682",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor",
+        "id": "way/147330682"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8742584,
+              42.8898876
+            ],
+            [
+              20.8745783,
+              42.89003
+            ],
+            [
+              20.8744749,
+              42.8901548
+            ],
+            [
+              20.8741549,
+              42.8900125
+            ],
+            [
+              20.8742584,
+              42.8898876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173150542",
+      "properties": {
+        "addr:city": "Prizren",
+        "addr:postcode": "20000",
+        "amenity": "police",
+        "building": "yes",
+        "id": "way/173150542"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.7303461,
+              42.2107397
+            ],
+            [
+              20.7303444,
+              42.2106508
+            ],
+            [
+              20.7306671,
+              42.2106473
+            ],
+            [
+              20.7306636,
+              42.210466
+            ],
+            [
+              20.7308118,
+              42.2104644
+            ],
+            [
+              20.7308171,
+              42.2107347
+            ],
+            [
+              20.7303461,
+              42.2107397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204309455",
+      "properties": {
+        "addr:city": "Vushtrri",
+        "addr:postcode": "42000",
+        "addr:street": "Çamëria",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor Vushtrri",
+        "opening_hours": "24/7",
+        "operator": "Stacioni Policor Vushtrri",
+        "id": "way/204309455"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.9652559,
+              42.8250719
+            ],
+            [
+              20.9654838,
+              42.8250884
+            ],
+            [
+              20.9654586,
+              42.8252755
+            ],
+            [
+              20.9652307,
+              42.825259
+            ],
+            [
+              20.9652559,
+              42.8250719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223844173",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor",
+        "name:sq": "Stacioni i Policisë",
+        "name:sr": "полицијска станица",
+        "name:sr-Latn": "policijska stanica",
+        "id": "way/223844173"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.6530768,
+              42.0608735
+            ],
+            [
+              20.6531594,
+              42.0607345
+            ],
+            [
+              20.6533011,
+              42.0607809
+            ],
+            [
+              20.6532186,
+              42.0609199
+            ],
+            [
+              20.6530768,
+              42.0608735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231908614",
+      "properties": {
+        "amenity": "police",
+        "barrier": "border_control",
+        "building": "yes",
+        "name": "Vendkalimi kufitar Glloboqicë",
+        "name:de": "Grenzübergang Glloboqicë",
+        "name:en": "Border Crossing Glloboqicë",
+        "name_alt": "Vendkalimi kufitar Glloboçicë",
+        "id": "way/231908614"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1869024,
+              42.1640827
+            ],
+            [
+              21.1867273,
+              42.1638541
+            ],
+            [
+              21.1868261,
+              42.1638125
+            ],
+            [
+              21.1868983,
+              42.1637821
+            ],
+            [
+              21.187069,
+              42.1637103
+            ],
+            [
+              21.1871508,
+              42.1636759
+            ],
+            [
+              21.1873259,
+              42.1639045
+            ],
+            [
+              21.1872408,
+              42.1639403
+            ],
+            [
+              21.1870015,
+              42.164041
+            ],
+            [
+              21.1869024,
+              42.1640827
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/252281237",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor Orllan",
+        "id": "way/252281237"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.3380169,
+              42.8168842
+            ],
+            [
+              21.3380774,
+              42.8167902
+            ],
+            [
+              21.3383496,
+              42.8168846
+            ],
+            [
+              21.3382891,
+              42.8169786
+            ],
+            [
+              21.3380169,
+              42.8168842
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285558312",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "id": "way/285558312"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.7323146,
+              42.2146569
+            ],
+            [
+              20.7323078,
+              42.2145534
+            ],
+            [
+              20.7326052,
+              42.2145426
+            ],
+            [
+              20.7326121,
+              42.2146461
+            ],
+            [
+              20.7323146,
+              42.2146569
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303382353",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "id": "way/303382353"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8743992,
+              42.8907779
+            ],
+            [
+              20.8739702,
+              42.8906117
+            ],
+            [
+              20.8740525,
+              42.8904616
+            ],
+            [
+              20.8744719,
+              42.8906377
+            ],
+            [
+              20.8743992,
+              42.8907779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314807672",
+      "properties": {
+        "addr:city": "Junik",
+        "addr:postcode": "51050",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor",
+        "id": "way/314807672"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.2756722,
+              42.4762393
+            ],
+            [
+              20.2757881,
+              42.4763412
+            ],
+            [
+              20.2756133,
+              42.4764597
+            ],
+            [
+              20.2755482,
+              42.4763877
+            ],
+            [
+              20.2755258,
+              42.4764042
+            ],
+            [
+              20.2755868,
+              42.4764447
+            ],
+            [
+              20.2755462,
+              42.4764627
+            ],
+            [
+              20.2754364,
+              42.4763862
+            ],
+            [
+              20.2756722,
+              42.4762393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/335730479",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor",
+        "id": "way/335730479"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.7326669,
+              42.2148632
+            ],
+            [
+              20.7323471,
+              42.2148664
+            ],
+            [
+              20.7323443,
+              42.2147107
+            ],
+            [
+              20.7326641,
+              42.2147076
+            ],
+            [
+              20.7326669,
+              42.2148632
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343921470",
+      "properties": {
+        "addr:city": "Suharekë",
+        "addr:housenumber": "171",
+        "addr:postcode": "23000",
+        "addr:street": "Brigada 123",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor",
+        "id": "way/343921470"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8324046,
+              42.3621375
+            ],
+            [
+              20.8322057,
+              42.3623293
+            ],
+            [
+              20.8319145,
+              42.3621645
+            ],
+            [
+              20.8320334,
+              42.3620498
+            ],
+            [
+              20.8321844,
+              42.3621353
+            ],
+            [
+              20.8322645,
+              42.3620582
+            ],
+            [
+              20.8324046,
+              42.3621375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371585470",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor Rajonal Gjakovë",
+        "id": "way/371585470"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4409527,
+              42.3759747
+            ],
+            [
+              20.4411379,
+              42.3759389
+            ],
+            [
+              20.4412325,
+              42.3762059
+            ],
+            [
+              20.4410473,
+              42.3762418
+            ],
+            [
+              20.4409527,
+              42.3759747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371721065",
+      "properties": {
+        "addr:city": "Obiliq",
+        "addr:housenumber": "67",
+        "addr:postcode": "15000",
+        "addr:street": "HASAN PRISHTINA",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni i Policisë",
+        "opening_hours": "24/7",
+        "phone": "+38338561600",
+        "id": "way/371721065"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0697063,
+              42.6868763
+            ],
+            [
+              21.0694611,
+              42.6865507
+            ],
+            [
+              21.0696401,
+              42.6864806
+            ],
+            [
+              21.0698713,
+              42.6868061
+            ],
+            [
+              21.0697063,
+              42.6868763
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373648240",
+      "properties": {
+        "addr:city": "Kaçanik",
+        "addr:housenumber": "6",
+        "addr:postcode": "71000",
+        "addr:street": "Hasan Prishtina",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2022-12-12",
+        "name": "Stacioni Policor - Kaçanik",
+        "phone": "192",
+        "polling_station": "no",
+        "website": "http://www.kosovopolice.com",
+        "id": "way/373648240"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.2581134,
+              42.2282344
+            ],
+            [
+              21.258086,
+              42.2282092
+            ],
+            [
+              21.2580836,
+              42.2281833
+            ],
+            [
+              21.2581102,
+              42.228175
+            ],
+            [
+              21.2580927,
+              42.2281443
+            ],
+            [
+              21.258112,
+              42.2281383
+            ],
+            [
+              21.2581292,
+              42.2281684
+            ],
+            [
+              21.2581927,
+              42.2281485
+            ],
+            [
+              21.2581787,
+              42.2281238
+            ],
+            [
+              21.2582137,
+              42.2281129
+            ],
+            [
+              21.2582215,
+              42.2281265
+            ],
+            [
+              21.2585795,
+              42.228015
+            ],
+            [
+              21.2586166,
+              42.2280804
+            ],
+            [
+              21.2585945,
+              42.2280872
+            ],
+            [
+              21.2586064,
+              42.2281084
+            ],
+            [
+              21.2585613,
+              42.2281224
+            ],
+            [
+              21.2585728,
+              42.2281427
+            ],
+            [
+              21.258532,
+              42.2281553
+            ],
+            [
+              21.2585206,
+              42.228135
+            ],
+            [
+              21.2583966,
+              42.2281732
+            ],
+            [
+              21.2584069,
+              42.2281917
+            ],
+            [
+              21.2583591,
+              42.2282064
+            ],
+            [
+              21.2583516,
+              42.2281931
+            ],
+            [
+              21.2582315,
+              42.2282299
+            ],
+            [
+              21.2582403,
+              42.2282456
+            ],
+            [
+              21.2581864,
+              42.2282621
+            ],
+            [
+              21.2581732,
+              42.2282385
+            ],
+            [
+              21.2581477,
+              42.2282463
+            ],
+            [
+              21.2581371,
+              42.2282272
+            ],
+            [
+              21.2581134,
+              42.2282344
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381468194",
+      "properties": {
+        "addr:city": "Fushë Kosovë",
+        "addr:street": "Rruga e Llapit",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacion Policor i Trafikut",
+        "id": "way/381468194"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0820639,
+              42.6363839
+            ],
+            [
+              21.0820696,
+              42.6362407
+            ],
+            [
+              21.0823299,
+              42.6362555
+            ],
+            [
+              21.0823314,
+              42.6362828
+            ],
+            [
+              21.0823571,
+              42.6362828
+            ],
+            [
+              21.0823643,
+              42.6362523
+            ],
+            [
+              21.0826475,
+              42.6362639
+            ],
+            [
+              21.0826361,
+              42.636387
+            ],
+            [
+              21.0823657,
+              42.6363702
+            ],
+            [
+              21.0823543,
+              42.6363365
+            ],
+            [
+              21.0823314,
+              42.6363376
+            ],
+            [
+              21.0823285,
+              42.6363902
+            ],
+            [
+              21.0820639,
+              42.6363839
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396799660",
+      "properties": {
+        "amenity": "police",
+        "barrier": "border_control",
+        "building": "yes",
+        "name": "Vendkalimi kufitar \"Dheu i Bardhë\"",
+        "id": "way/396799660"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.6412504,
+              42.5064438
+            ],
+            [
+              21.6411723,
+              42.5062675
+            ],
+            [
+              21.6415923,
+              42.5061664
+            ],
+            [
+              21.6416704,
+              42.5063426
+            ],
+            [
+              21.6412504,
+              42.5064438
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/406074373",
+      "properties": {
+        "amenity": "police",
+        "building": "roof",
+        "layer": "2",
+        "name": "Vendkalimi kufitar Merdarë",
+        "name:de": "Grenzübergang Merdare",
+        "name:en": "Merdare Border Crossing",
+        "name:sq": "Vendkalimi kufitar Merdarë",
+        "name:sr": "Гранични прелаз Мердаре",
+        "name:sr-Latn": "Granični prelaz Merdare",
+        "id": "way/406074373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.2431303,
+              42.9369425
+            ],
+            [
+              21.2431276,
+              42.9369812
+            ],
+            [
+              21.2431248,
+              42.9370207
+            ],
+            [
+              21.2428465,
+              42.9370102
+            ],
+            [
+              21.242849,
+              42.9369744
+            ],
+            [
+              21.242851,
+              42.9369462
+            ],
+            [
+              21.2427243,
+              42.9369414
+            ],
+            [
+              21.2427286,
+              42.9368808
+            ],
+            [
+              21.242734,
+              42.9368051
+            ],
+            [
+              21.242739,
+              42.9367349
+            ],
+            [
+              21.2427448,
+              42.9366525
+            ],
+            [
+              21.2427493,
+              42.93659
+            ],
+            [
+              21.242753,
+              42.9365375
+            ],
+            [
+              21.2427564,
+              42.9364898
+            ],
+            [
+              21.2427605,
+              42.9364319
+            ],
+            [
+              21.2425945,
+              42.9364256
+            ],
+            [
+              21.2425969,
+              42.9363929
+            ],
+            [
+              21.2426004,
+              42.9363432
+            ],
+            [
+              21.2428261,
+              42.9363518
+            ],
+            [
+              21.2428224,
+              42.9364033
+            ],
+            [
+              21.2428205,
+              42.9364303
+            ],
+            [
+              21.2434376,
+              42.9364537
+            ],
+            [
+              21.2434391,
+              42.9364319
+            ],
+            [
+              21.2434425,
+              42.936384
+            ],
+            [
+              21.2437577,
+              42.936396
+            ],
+            [
+              21.2437543,
+              42.9364453
+            ],
+            [
+              21.243752,
+              42.9364773
+            ],
+            [
+              21.2438746,
+              42.9364819
+            ],
+            [
+              21.2438689,
+              42.9365629
+            ],
+            [
+              21.2438632,
+              42.9366432
+            ],
+            [
+              21.2438598,
+              42.9366915
+            ],
+            [
+              21.2438533,
+              42.9367835
+            ],
+            [
+              21.2438503,
+              42.9368267
+            ],
+            [
+              21.243849,
+              42.9368453
+            ],
+            [
+              21.2438445,
+              42.9369094
+            ],
+            [
+              21.2438403,
+              42.9369693
+            ],
+            [
+              21.2431303,
+              42.9369425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438417982",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia e Kosovës",
+        "id": "way/438417982"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1505884,
+              42.6540851
+            ],
+            [
+              21.1507158,
+              42.6538425
+            ],
+            [
+              21.1509768,
+              42.6539169
+            ],
+            [
+              21.1509502,
+              42.6539655
+            ],
+            [
+              21.1511418,
+              42.6540196
+            ],
+            [
+              21.1510336,
+              42.6542064
+            ],
+            [
+              21.1505884,
+              42.6540851
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444770438",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia e Republikës së Kosovës",
+        "name:sr-Latn": "Policija Republike Kosova",
+        "id": "way/444770438"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0229878,
+              42.2378002
+            ],
+            [
+              21.0230142,
+              42.2376851
+            ],
+            [
+              21.023173,
+              42.2377051
+            ],
+            [
+              21.023225,
+              42.2377116
+            ],
+            [
+              21.0231986,
+              42.2378267
+            ],
+            [
+              21.0229878,
+              42.2378002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/450216676",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni i Policiës",
+        "name:sr": "Policijska Stanica",
+        "id": "way/450216676"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.3554195,
+              42.3208993
+            ],
+            [
+              21.3554785,
+              42.3207684
+            ],
+            [
+              21.3555214,
+              42.3207803
+            ],
+            [
+              21.3555697,
+              42.3206811
+            ],
+            [
+              21.3558277,
+              42.3207743
+            ],
+            [
+              21.3557698,
+              42.320876
+            ],
+            [
+              21.3556398,
+              42.3208215
+            ],
+            [
+              21.3555701,
+              42.3209482
+            ],
+            [
+              21.3554195,
+              42.3208993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/460298293",
+      "properties": {
+        "addr:city": "Gjilan",
+        "addr:postcode": "60000",
+        "addr:street": "Mulla Idrizi",
+        "amenity": "police",
+        "building": "yes",
+        "description": "need more info.\nnevojiten me shume te dhena",
+        "name": "Stacioni Policor",
+        "opening_hours": "24/7",
+        "phone": "192",
+        "website": "www.kosovopolice.com",
+        "id": "way/460298293"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4703348,
+              42.462781
+            ],
+            [
+              21.4700858,
+              42.4630339
+            ],
+            [
+              21.4699761,
+              42.4629751
+            ],
+            [
+              21.4702251,
+              42.4627222
+            ],
+            [
+              21.4703348,
+              42.462781
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/460298329",
+      "properties": {
+        "addr:city": "Gjilan",
+        "addr:postcode": "60000",
+        "addr:street": "Mulla Idrizi",
+        "amenity": "police",
+        "building": "yes",
+        "email": "info@kosovopolice.com",
+        "name": "Drejtoria Rajonale e Policisë",
+        "opening_hours": "Mo-Su 08:00-16:00",
+        "phone": "+383280 330 188: +383280 330 061",
+        "website": "http://www.kosovopolice.com/sq/drp-gjilan",
+        "wheelchair": "yes",
+        "id": "way/460298329"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4700308,
+              42.4630804
+            ],
+            [
+              21.4697756,
+              42.463201
+            ],
+            [
+              21.4697152,
+              42.4632295
+            ],
+            [
+              21.4696112,
+              42.4631097
+            ],
+            [
+              21.4699268,
+              42.4629606
+            ],
+            [
+              21.4700308,
+              42.4630804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/464198832",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia e Republikes se Kosovës",
+        "name:sr": "Policija Republika Kosova",
+        "id": "way/464198832"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8630765,
+              42.899831
+            ],
+            [
+              20.8629073,
+              42.8997643
+            ],
+            [
+              20.863257,
+              42.8993307
+            ],
+            [
+              20.8634194,
+              42.8994007
+            ],
+            [
+              20.8631439,
+              42.8997392
+            ],
+            [
+              20.8630765,
+              42.899831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/472927186",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia e Kosovës",
+        "name:sr": "Полиција",
+        "id": "way/472927186"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1921811,
+              42.6016202
+            ],
+            [
+              21.1922299,
+              42.601419
+            ],
+            [
+              21.1923776,
+              42.6014384
+            ],
+            [
+              21.1923289,
+              42.6016396
+            ],
+            [
+              21.1921811,
+              42.6016202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/538830757",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "layer": "1",
+        "name": "Vendkalimi Kufitare - Republika e Kosovës",
+        "id": "way/538830757"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.5558852,
+              42.7352086
+            ],
+            [
+              21.5558771,
+              42.7350944
+            ],
+            [
+              21.5561301,
+              42.7350847
+            ],
+            [
+              21.5561382,
+              42.7351989
+            ],
+            [
+              21.5558852,
+              42.7352086
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/571266459",
+      "properties": {
+        "addr:city": "Janjevë",
+        "addr:postcode": "14050",
+        "addr:street": "Rr. Ruzhdi Janjeva",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policisë Janjevë",
+        "id": "way/571266459"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.2474455,
+              42.5734853
+            ],
+            [
+              21.2473793,
+              42.5733776
+            ],
+            [
+              21.2475287,
+              42.5733288
+            ],
+            [
+              21.247592,
+              42.5734401
+            ],
+            [
+              21.2474455,
+              42.5734853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/596621417",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policijska stanica",
+        "name:sq": "Stacioni i policisë",
+        "name:sr": "Полицијска станица",
+        "operator": "Policija Kosova",
+        "id": "way/596621417"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8406597,
+              42.9059241
+            ],
+            [
+              20.8407564,
+              42.9060372
+            ],
+            [
+              20.8405313,
+              42.9061405
+            ],
+            [
+              20.8404345,
+              42.9060275
+            ],
+            [
+              20.8406597,
+              42.9059241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/726910230",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor",
+        "id": "way/726910230"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.5773989,
+              42.5795286
+            ],
+            [
+              21.577453,
+              42.5794201
+            ],
+            [
+              21.5777469,
+              42.5794997
+            ],
+            [
+              21.5776927,
+              42.5796081
+            ],
+            [
+              21.5773989,
+              42.5795286
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/758816691",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni i Policisë",
+        "id": "way/758816691"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1920011,
+              42.9116956
+            ],
+            [
+              21.1918542,
+              42.9116489
+            ],
+            [
+              21.1918765,
+              42.9116117
+            ],
+            [
+              21.1918825,
+              42.9116126
+            ],
+            [
+              21.191958,
+              42.9114735
+            ],
+            [
+              21.1919356,
+              42.9114662
+            ],
+            [
+              21.1919622,
+              42.9114221
+            ],
+            [
+              21.1921117,
+              42.9114671
+            ],
+            [
+              21.1921373,
+              42.9114752
+            ],
+            [
+              21.1920754,
+              42.9115997
+            ],
+            [
+              21.1920524,
+              42.9115997
+            ],
+            [
+              21.1920011,
+              42.9116956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/768658360",
+      "properties": {
+        "amenity": "police",
+        "barrier": "border_control",
+        "building": "yes",
+        "name": "Vendkalimi Kufitar Stançiç - Bellanoc / Белановце",
+        "id": "way/768658360"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.5493901,
+              42.2533558
+            ],
+            [
+              21.5495469,
+              42.2533281
+            ],
+            [
+              21.5495678,
+              42.2534011
+            ],
+            [
+              21.5495866,
+              42.2534665
+            ],
+            [
+              21.5497005,
+              42.2534504
+            ],
+            [
+              21.5497233,
+              42.2535524
+            ],
+            [
+              21.5494421,
+              42.2536132
+            ],
+            [
+              21.5494091,
+              42.2535068
+            ],
+            [
+              21.5494451,
+              42.2534986
+            ],
+            [
+              21.5494202,
+              42.253434
+            ],
+            [
+              21.5493901,
+              42.2533558
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/865694370",
+      "properties": {
+        "addr:city": "Lipjan",
+        "addr:housenumber": "38",
+        "addr:postcode": "14000",
+        "addr:street": "Haradin Bajrami",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor Lipjan",
+        "id": "way/865694370"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1228479,
+              42.5196108
+            ],
+            [
+              21.1226531,
+              42.5197488
+            ],
+            [
+              21.1224637,
+              42.5196039
+            ],
+            [
+              21.1226593,
+              42.5194649
+            ],
+            [
+              21.1227304,
+              42.5195199
+            ],
+            [
+              21.1228479,
+              42.5196108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/882335633",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "id": "way/882335633"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.6693427,
+              43.0484526
+            ],
+            [
+              20.6692504,
+              43.0483596
+            ],
+            [
+              20.6694453,
+              43.0482563
+            ],
+            [
+              20.6695375,
+              43.0483493
+            ],
+            [
+              20.6693427,
+              43.0484526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/886691134",
+      "properties": {
+        "addr:city": "Istog",
+        "addr:housenumber": "166",
+        "addr:postcode": "31000",
+        "addr:street": "Fadil Ferati",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor Istog",
+        "opening_hours": "24/7",
+        "opening_hours:covid19": "same",
+        "operator": "Istog",
+        "id": "way/886691134"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4898847,
+              42.7815558
+            ],
+            [
+              20.4899008,
+              42.7814409
+            ],
+            [
+              20.4901967,
+              42.7814632
+            ],
+            [
+              20.4901806,
+              42.7815781
+            ],
+            [
+              20.4900592,
+              42.781569
+            ],
+            [
+              20.4898847,
+              42.7815558
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/902742377",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Drejtoria Rajonale Kufitare \"Veri\"",
+        "name:en": "Regional Border Directorate \"North\"",
+        "name:sq": "Drejtoria Rajonale Kufitare \"Veri\"",
+        "id": "way/902742377"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1677426,
+              42.8234354
+            ],
+            [
+              21.167874,
+              42.8233528
+            ],
+            [
+              21.1682039,
+              42.8236302
+            ],
+            [
+              21.1680939,
+              42.823701
+            ],
+            [
+              21.1677426,
+              42.8234354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/919799253",
+      "properties": {
+        "addr:city": "Vushtrri",
+        "addr:postcode": "42000",
+        "addr:street": "Çamëria",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Shkolla e Policise",
+        "opening_hours": "24/7",
+        "operator": "Shkolla e Policise",
+        "id": "way/919799253"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.9640434,
+              42.8259938
+            ],
+            [
+              20.9639447,
+              42.8257599
+            ],
+            [
+              20.9637524,
+              42.8258035
+            ],
+            [
+              20.9636986,
+              42.8256756
+            ],
+            [
+              20.9638529,
+              42.8256407
+            ],
+            [
+              20.9637522,
+              42.8254015
+            ],
+            [
+              20.9638655,
+              42.8253758
+            ],
+            [
+              20.9638962,
+              42.8254488
+            ],
+            [
+              20.9639417,
+              42.8254199
+            ],
+            [
+              20.9641827,
+              42.8259189
+            ],
+            [
+              20.9641329,
+              42.8259318
+            ],
+            [
+              20.9641207,
+              42.8259763
+            ],
+            [
+              20.9640434,
+              42.8259938
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/929242480",
+      "properties": {
+        "addr:city": "Muçivërc",
+        "addr:housenumber": "17",
+        "addr:postcode": "62070",
+        "addr:street": "Veteranët e UÇK-së",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Stacioni Policor Muçivërc",
+        "operator": "Ministria e Punëve të Brendshme",
+        "id": "way/929242480"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.6584146,
+              42.5598257
+            ],
+            [
+              21.6584858,
+              42.5596526
+            ],
+            [
+              21.6585716,
+              42.5596717
+            ],
+            [
+              21.658566,
+              42.5596852
+            ],
+            [
+              21.6585946,
+              42.5596915
+            ],
+            [
+              21.6585413,
+              42.559821
+            ],
+            [
+              21.6585071,
+              42.5598134
+            ],
+            [
+              21.6584946,
+              42.5598436
+            ],
+            [
+              21.6584146,
+              42.5598257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1053729587",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "id": "way/1053729587"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.3002245,
+              42.1524543
+            ],
+            [
+              21.3004606,
+              42.1524785
+            ],
+            [
+              21.3004331,
+              42.1525896
+            ],
+            [
+              21.3001958,
+              42.1525716
+            ],
+            [
+              21.3002245,
+              42.1524543
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1080939198",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1080939198"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4405632,
+              42.3760965
+            ],
+            [
+              20.4407401,
+              42.3760735
+            ],
+            [
+              20.4407957,
+              42.376307
+            ],
+            [
+              20.4406188,
+              42.37633
+            ],
+            [
+              20.4405632,
+              42.3760965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1080944960",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "id": "way/1080944960"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4422932,
+              42.3760393
+            ],
+            [
+              20.4421403,
+              42.3760195
+            ],
+            [
+              20.4421376,
+              42.3759324
+            ],
+            [
+              20.4421376,
+              42.3758848
+            ],
+            [
+              20.442202,
+              42.3758848
+            ],
+            [
+              20.442202,
+              42.3758452
+            ],
+            [
+              20.4421162,
+              42.3757897
+            ],
+            [
+              20.4417192,
+              42.3758888
+            ],
+            [
+              20.4416763,
+              42.3757619
+            ],
+            [
+              20.4419284,
+              42.3757184
+            ],
+            [
+              20.4419284,
+              42.3756748
+            ],
+            [
+              20.4421966,
+              42.3756391
+            ],
+            [
+              20.4422342,
+              42.3757065
+            ],
+            [
+              20.4423039,
+              42.3757421
+            ],
+            [
+              20.4424005,
+              42.3757897
+            ],
+            [
+              20.4423683,
+              42.3759641
+            ],
+            [
+              20.44232,
+              42.3759641
+            ],
+            [
+              20.4422932,
+              42.3760393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/371567572",
+      "properties": {
+        "amenity": "police",
+        "name": "Burgu i Dubravës/ Dubrava Jail",
+        "id": "node/371567572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5521048,
+          42.7869177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445132555",
+      "properties": {
+        "addr:postcode": "70000",
+        "addr:street": "Reçaku",
+        "amenity": "police",
+        "email": "info@kosovopolice.com",
+        "name": "Drejtoria Rajonale e Policisë - Ferizaj",
+        "name:de": "Regionale Polizeidirektion - Ferizaj",
+        "name:en": "Regional Directorate of Police in Ferizaj",
+        "name:sq": "Drejtoria Rajonale e Policisë - Ferizaj",
+        "opening_hours": "24/7",
+        "phone": "080019999",
+        "website": "http://www.kosovopolice.com/en/rdp-ferizaj",
+        "id": "node/445132555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1467141,
+          42.3743399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595459349",
+      "properties": {
+        "amenity": "police",
+        "name": "Stacioni Policor nr. 2",
+        "id": "node/595459349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1676112,
+          42.659122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1005447624",
+      "properties": {
+        "amenity": "police",
+        "description": "Police Station",
+        "name": "Stacioni Policor",
+        "id": "node/1005447624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.296329,
+          42.6624049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1744609044",
+      "properties": {
+        "amenity": "police",
+        "name": "Stacioni Nr.1",
+        "id": "node/1744609044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1593137,
+          42.6619664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2105745995",
+      "properties": {
+        "amenity": "police",
+        "name": "Stacioni Policis Zhur",
+        "id": "node/2105745995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6152701,
+          42.1674568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164150699",
+      "properties": {
+        "amenity": "police",
+        "name": "Policia e Kosoves",
+        "name:sr": "Полиција Косова",
+        "name:sr-Latn": "Policija Kosova",
+        "id": "node/2164150699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1597795,
+          42.6626051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2185508852",
+      "properties": {
+        "amenity": "police",
+        "name": "Drejtoria e Përgjithshme e Policisë",
+        "id": "node/2185508852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1600419,
+          42.6629399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2334900311",
+      "properties": {
+        "amenity": "police",
+        "name": "Stacioni Policor",
+        "id": "node/2334900311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8967347,
+          42.6252097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3728363243",
+      "properties": {
+        "addr:city": "Magurë",
+        "addr:postcode": "14060",
+        "addr:street": "Shpëtim Robaj",
+        "amenity": "police",
+        "name": "Shërbimi Policor i Kosovës",
+        "id": "node/3728363243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.008482,
+          42.5367095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3751699036",
+      "properties": {
+        "addr:city": "Gjakovë",
+        "addr:street": "Skenderbeu",
+        "amenity": "police",
+        "name": "Drejtoria rajonale e policise - Gjakove",
+        "opening_hours": "24/7",
+        "id": "node/3751699036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4418125,
+          42.3758015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4307432189",
+      "properties": {
+        "addr:street": "Rasim Dushi",
+        "amenity": "police",
+        "name": "Rasim Dushi",
+        "id": "node/4307432189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5837471,
+          42.6276872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4359006689",
+      "properties": {
+        "amenity": "police",
+        "name": "Stacioni Policor i Fushë Kosovës",
+        "name:sq": "Stacioni Policor i Fushë Kosovës",
+        "id": "node/4359006689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0850619,
+          42.6346962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4620372397",
+      "properties": {
+        "amenity": "police",
+        "id": "node/4620372397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5700488,
+          42.6401035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4761886122",
+      "properties": {
+        "amenity": "police",
+        "name": "Sherbimi Korrektues",
+        "name:en": "Prison",
+        "name:sq": "Qendra Paraburgimit Lipjan",
+        "name:sr": "Sherbimi Korrektues",
+        "id": "node/4761886122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1044918,
+          42.5144187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4770829323",
+      "properties": {
+        "amenity": "police",
+        "name": "Stacioni Policor Jugu Nr.4",
+        "name:sq": "Stacioni Policor Jugu Nr.4",
+        "id": "node/4770829323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1551968,
+          42.6473499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4912768421",
+      "properties": {
+        "amenity": "police",
+        "id": "node/4912768421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.138426,
+          42.7418449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5167800721",
+      "properties": {
+        "amenity": "police",
+        "name": "lebane",
+        "id": "node/5167800721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1395526,
+          42.7409168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5388004021",
+      "properties": {
+        "amenity": "police",
+        "name": "Stacioni Policor Çabër",
+        "id": "node/5388004021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.779461,
+          42.9016857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5912733486",
+      "properties": {
+        "amenity": "police",
+        "name": "shtepia",
+        "name:sq": "Shtepi",
+        "id": "node/5912733486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0995939,
+          42.4086415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5954913593",
+      "properties": {
+        "addr:city": "Kline",
+        "addr:postcode": "32000",
+        "addr:street": "Sadik Rama",
+        "amenity": "police",
+        "name": "Policia",
+        "name:en": "Police Station",
+        "name:sq": "Stacioni i Policise",
+        "opening_hours": "24/7",
+        "phone": "192",
+        "id": "node/5954913593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5758724,
+          42.6094587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6251267585",
+      "properties": {
+        "amenity": "police",
+        "name": "Stacioni Policor",
+        "name:en": "Station Police - Stacioni Policor Prizren",
+        "id": "node/6251267585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7302141,
+          42.2103402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7099745985",
+      "properties": {
+        "amenity": "police",
+        "id": "node/7099745985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9073877,
+          42.8328683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7343269644",
+      "properties": {
+        "addr:housenumber": "158",
+        "addr:street": "Sheh Mihedini",
+        "amenity": "police",
+        "name": "Policia",
+        "id": "node/7343269644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6576926,
+          42.3969835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7456796085",
+      "properties": {
+        "amenity": "police",
+        "name": "Prizren",
+        "id": "node/7456796085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7698957,
+          42.2489911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8168881017",
+      "properties": {
+        "addr:housenumber": "166",
+        "addr:postcode": "41000",
+        "addr:street": "28 Nëntori",
+        "amenity": "police",
+        "name": "Stacioni Policor Skenderaj",
+        "opening_hours": "24/7",
+        "id": "node/8168881017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7889142,
+          42.7443086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9009992667",
+      "properties": {
+        "amenity": "police",
+        "name": "Policia e trafikut",
+        "name:en": "Traffic Police",
+        "name:sq": "Policia e trafikut",
+        "name:sr-Latn": "Saobracajna policija",
+        "id": "node/9009992667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.298666,
+          42.664382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9024663162",
+      "properties": {
+        "amenity": "police",
+        "id": "node/9024663162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2694844,
+          42.6611437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9025103118",
+      "properties": {
+        "amenity": "police",
+        "name:en": "Carabinieri Italiani",
+        "id": "node/9025103118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8659183,
+          42.8915569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9025113219",
+      "properties": {
+        "amenity": "police",
+        "name:en": "Carabinieri Italiani",
+        "id": "node/9025113219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8661493,
+          42.8909582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9094371028",
+      "properties": {
+        "amenity": "police",
+        "id": "node/9094371028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3001958,
+          42.664453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9098651318",
+      "properties": {
+        "amenity": "police",
+        "id": "node/9098651318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2988177,
+          42.6642338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9158327577",
+      "properties": {
+        "addr:street": "Safet Latifi",
+        "amenity": "police",
+        "name": "Nenstatcioni Policor - Ratkoc",
+        "operator": "Kosovo Police",
+        "id": "node/9158327577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5381686,
+          42.4112346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9990949335",
+      "properties": {
+        "addr:street": "Vojske Jugoslavije",
+        "amenity": "police",
+        "contact:phone": "+3812883624",
+        "name": "Policijska stanica Leposavić",
+        "name:sr": "Полицијска станица",
+        "id": "node/9990949335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.800083,
+          43.1049251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10199640187",
+      "properties": {
+        "addr:street": "Toni Bler",
+        "amenity": "police",
+        "name": "Stacioni Policor Veri",
+        "id": "node/10199640187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1509816,
+          42.6651432
+        ]
+      }
+    }
+  ]
+}

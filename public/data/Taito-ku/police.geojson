@@ -1,0 +1,1131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/98468920",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "花川戸交番",
+        "name:en": "Koban",
+        "source": "Bing, 2007-04",
+        "id": "way/98468920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7979732,
+              35.710755
+            ],
+            [
+              139.7980486,
+              35.7107124
+            ],
+            [
+              139.7980862,
+              35.7107562
+            ],
+            [
+              139.7980108,
+              35.7107988
+            ],
+            [
+              139.7979732,
+              35.710755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144791580",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "上野警察署稲荷町交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "storeys": "3",
+        "id": "way/144791580"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7826472,
+              35.7114736
+            ],
+            [
+              139.7826642,
+              35.7115351
+            ],
+            [
+              139.7826278,
+              35.7115417
+            ],
+            [
+              139.7826108,
+              35.7114802
+            ],
+            [
+              139.7826472,
+              35.7114736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/145647124",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "蔵前警察署",
+        "name:en": "Kuramae Police Station",
+        "source": "Bing",
+        "wikidata": "Q11621891",
+        "id": "way/145647124"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7901026,
+              35.7012928
+            ],
+            [
+              139.7898796,
+              35.7014017
+            ],
+            [
+              139.7896944,
+              35.7011518
+            ],
+            [
+              139.7899175,
+              35.7010428
+            ],
+            [
+              139.7901026,
+              35.7012928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/145667033",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "第六方面本部",
+        "name:en": "The 6th District Headquarters",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/145667033"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7977215,
+              35.724583
+            ],
+            [
+              139.7979105,
+              35.7243503
+            ],
+            [
+              139.7980456,
+              35.7244226
+            ],
+            [
+              139.7978566,
+              35.7246553
+            ],
+            [
+              139.7977215,
+              35.724583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158817747",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "source": "bing",
+        "id": "way/158817747"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7941442,
+              35.7046135
+            ],
+            [
+              139.7941948,
+              35.7045915
+            ],
+            [
+              139.794223,
+              35.7046343
+            ],
+            [
+              139.7941724,
+              35.7046563
+            ],
+            [
+              139.7941442,
+              35.7046135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173154794",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "浅草警察署雷門交番",
+        "name:en": "Koban",
+        "name:ja": "浅草警察署雷門交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/173154794"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7964625,
+              35.7110515
+            ],
+            [
+              139.7964209,
+              35.7110542
+            ],
+            [
+              139.7964149,
+              35.7109934
+            ],
+            [
+              139.7964565,
+              35.7109907
+            ],
+            [
+              139.7964625,
+              35.7110515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196306507",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "上野警察署台東交番",
+        "roof:shape": "flat",
+        "source": "Bing",
+        "id": "way/196306507"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.776184,
+              35.7024729
+            ],
+            [
+              139.7761789,
+              35.7024191
+            ],
+            [
+              139.7762292,
+              35.7024159
+            ],
+            [
+              139.7762343,
+              35.7024698
+            ],
+            [
+              139.7762167,
+              35.7024709
+            ],
+            [
+              139.776184,
+              35.7024729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198109381",
+      "properties": {
+        "addr:block_number": "18",
+        "addr:housenumber": "19",
+        "addr:neighbourhood": "2丁目",
+        "addr:quarter": "小島",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "蔵前警察署小島二丁目交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "no",
+        "id": "way/198109381"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7848522,
+              35.7065719
+            ],
+            [
+              139.7848958,
+              35.7065699
+            ],
+            [
+              139.7848984,
+              35.7066012
+            ],
+            [
+              139.7848869,
+              35.7066169
+            ],
+            [
+              139.7848787,
+              35.706628
+            ],
+            [
+              139.7848578,
+              35.7066295
+            ],
+            [
+              139.7848522,
+              35.7065719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217420934",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "上野警察署池之端交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/217420934"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7686699,
+              35.7124339
+            ],
+            [
+              139.7687508,
+              35.7124452
+            ],
+            [
+              139.7687433,
+              35.7124807
+            ],
+            [
+              139.7686623,
+              35.7124694
+            ],
+            [
+              139.7686699,
+              35.7124339
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231169802",
+      "properties": {
+        "addr:block_number": "26",
+        "addr:housenumber": "12",
+        "addr:neighbourhood": "4丁目",
+        "addr:quarter": "松が谷",
+        "amenity": "police",
+        "building": "yes",
+        "name": "下谷警察署 入谷東交番",
+        "name:en": "Shitaya Police Station Iriyaazuma Police Box",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/231169802"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7884,
+              35.7182999
+            ],
+            [
+              139.7883616,
+              35.7182212
+            ],
+            [
+              139.7883992,
+              35.7182091
+            ],
+            [
+              139.7884376,
+              35.7182878
+            ],
+            [
+              139.7884,
+              35.7182999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231439651",
+      "properties": {
+        "addr:block_number": "8",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "4丁目",
+        "addr:quarter": "台東",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "上野警察署御徒町交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/231439651"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7763809,
+              35.7059613
+            ],
+            [
+              139.7763761,
+              35.7059079
+            ],
+            [
+              139.7764458,
+              35.7059038
+            ],
+            [
+              139.7764506,
+              35.7059572
+            ],
+            [
+              139.7763809,
+              35.7059613
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/332624615",
+      "properties": {
+        "addr:block_number": "1",
+        "addr:housenumber": "65",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "上野警察署公園前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/332624615"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7737864,
+              35.7109354
+            ],
+            [
+              139.7737273,
+              35.7108248
+            ],
+            [
+              139.7737681,
+              35.7108104
+            ],
+            [
+              139.7737843,
+              35.7108047
+            ],
+            [
+              139.7737981,
+              35.7108306
+            ],
+            [
+              139.7738433,
+              35.7109153
+            ],
+            [
+              139.7737864,
+              35.7109354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/402875409",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "building:colour": "grey",
+        "building:levels": "2",
+        "building:material": "metal",
+        "building:use": "government",
+        "height": "10m",
+        "layer": "-1",
+        "name": "上野警察署動物園前交番",
+        "name:en": "Ueno police station zoo front police box",
+        "name:ja-Latn": "Ueno Keisatsusho Dōbutsuen mae Kōban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "roof:material": "metal",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "artwork",
+        "id": "way/402875409"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7745414,
+              35.7153726
+            ],
+            [
+              139.7746019,
+              35.7153493
+            ],
+            [
+              139.7746312,
+              35.7153994
+            ],
+            [
+              139.7745708,
+              35.7154228
+            ],
+            [
+              139.7745414,
+              35.7153726
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/541890817",
+      "properties": {
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "下谷警察署入谷西交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/541890817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7834863,
+              35.7190066
+            ],
+            [
+              139.7835619,
+              35.7189678
+            ],
+            [
+              139.7836015,
+              35.7190187
+            ],
+            [
+              139.7835259,
+              35.7190575
+            ],
+            [
+              139.7834863,
+              35.7190066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1148821018",
+      "properties": {
+        "amenity": "police",
+        "name": "田原町交番",
+        "name:en": "Taharacho Koban",
+        "id": "node/1148821018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7918201,
+          35.7116111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765910",
+      "properties": {
+        "amenity": "police",
+        "name": "上野警察署",
+        "name:en": "Ueno Police Station",
+        "name:es": "Estación de policía Ueno",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11360456",
+        "id": "node/1420765910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779459,
+          35.712346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765911",
+      "properties": {
+        "amenity": "police",
+        "name": "上野警察署上野駅交番",
+        "name:en": "Koban",
+        "name:es": "Policía",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776626,
+          35.712318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765918",
+      "properties": {
+        "addr:housenumber": "13",
+        "amenity": "police",
+        "name": "上野警察署黒門交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "limited",
+        "id": "node/1420765918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772291,
+          35.7066715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765959",
+      "properties": {
+        "amenity": "police",
+        "name": "下谷警察署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11361340",
+        "id": "node/1420765959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7879508,
+          35.7259025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765960",
+      "properties": {
+        "amenity": "police",
+        "name": "下谷警察署三ノ輪交番",
+        "name:en": "Koban",
+        "name:ja": "下谷警察署三ノ輪交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7905247,
+          35.7284096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765963",
+      "properties": {
+        "amenity": "police",
+        "name": "下谷警察署 初音交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647883,
+          35.7243282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765964",
+      "properties": {
+        "amenity": "police",
+        "name": "天王寺駐在所",
+        "name:en": "Tennoji Chuzaisho (Police Box)",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7706233,
+          35.7251579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765965",
+      "properties": {
+        "amenity": "police",
+        "name": "下谷警察署 清水坂 地域安全センター",
+        "name:ja_rm": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7698964,
+          35.7171354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765966",
+      "properties": {
+        "amenity": "police",
+        "name": "下谷警察署 谷中交番",
+        "name:en": "Shitaya Police Station Yanaka Koban",
+        "name:ja-Latn": "Shitaya Police Station Yanaka Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7706448,
+          35.7218719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765967",
+      "properties": {
+        "amenity": "police",
+        "name": "下谷警察署鶯谷駅前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7778544,
+          35.7228986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788015",
+      "properties": {
+        "amenity": "police",
+        "name": "浅草警察署",
+        "name:en": "Asakusa Police Station",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11557240",
+        "id": "node/1420788015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.797846,
+          35.718984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788020",
+      "properties": {
+        "amenity": "police",
+        "name": "浅草警察署公園六区交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420788020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7934642,
+          35.7137827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788033",
+      "properties": {
+        "amenity": "police",
+        "name": "浅草警察署 東浅草交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420788033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8013729,
+          35.7229992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788042",
+      "properties": {
+        "amenity": "police",
+        "name": "浅草警察署 橋場交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420788042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8045611,
+          35.7264194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788047",
+      "properties": {
+        "amenity": "police",
+        "name": "浅草警察署 聖天町交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420788047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.802013,
+          35.715596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788057",
+      "properties": {
+        "amenity": "police",
+        "name": "浅草警察署 西浅草三丁目交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420788057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7924136,
+          35.7171625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788062",
+      "properties": {
+        "amenity": "police",
+        "name": "浅草警察署観音前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420788062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.797313,
+          35.7140387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420797310",
+      "properties": {
+        "amenity": "police",
+        "name": "蔵前警察署浅草橋五丁目交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420797310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7829303,
+          35.6992196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420797314",
+      "properties": {
+        "amenity": "police",
+        "name": "蔵前警察署 田原町交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420797314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7884119,
+          35.7105111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420797315",
+      "properties": {
+        "amenity": "police",
+        "name": "蔵前警察署菊屋橋交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420797315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.791736,
+          35.711679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420797326",
+      "properties": {
+        "amenity": "police",
+        "name": "蔵前警察署蔵前二丁目交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420797326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.794184,
+          35.7046217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420797327",
+      "properties": {
+        "amenity": "police",
+        "name": "蔵前警察署須賀橋交番",
+        "name:en": "Sugabashi Police Box, Kuramae Police",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420797327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7883814,
+          35.700147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9175936542",
+      "properties": {
+        "amenity": "police",
+        "name": "浅草警察署 日本堤交番",
+        "id": "node/9175936542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8000153,
+          35.7274185
+        ]
+      }
+    }
+  ]
+}

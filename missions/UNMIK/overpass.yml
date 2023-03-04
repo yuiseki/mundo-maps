@@ -1,0 +1,44 @@
+area:
+  name:en: Kosovo
+  relation: 2088990
+  level: 2
+layers:
+  - name: government
+    nwr:
+      - government:
+      - office: government
+      - office: quango
+  - name: hospital
+    way:
+      - amenity: hospital
+  - name: police
+    nwr:
+      - amenity: police
+  - name: military
+    way:
+      - landuse: military
+  - name: operator
+    nwr:
+      - operator: United Nations
+      - operator: UNMIK
+      - operator: UNPOL
+      - operator: KFOR
+      - operator: EULEX
+  - name: power
+    way:
+      - power:
+      - industrial: oil
+      - industrial: gas
+  - name: refugee_site
+    nwr:
+      - amenity: shelter
+      - amenity: refugee_site
+      - emergency: assembly_point
+      - social_facility: shelter
+  - name: social_facility
+    nwr:
+      - social_facility:
+  - name: water
+    nwr:
+      - amenity: water_point
+      - man_made: water_well

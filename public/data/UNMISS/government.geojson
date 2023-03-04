@@ -1,0 +1,2234 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/13079424",
+      "properties": {
+        "building": "yes",
+        "name": "Parliament - Eastern Equatoria",
+        "office": "government",
+        "type": "multipolygon",
+        "id": "relation/13079424"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                32.5776145,
+                4.4066639
+              ],
+              [
+                32.5776218,
+                4.4066986
+              ],
+              [
+                32.5775641,
+                4.4067106
+              ],
+              [
+                32.5775568,
+                4.4066759
+              ],
+              [
+                32.5776145,
+                4.4066639
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                32.5777701,
+                4.4066505
+              ],
+              [
+                32.5777747,
+                4.4067018
+              ],
+              [
+                32.5776862,
+                4.4067098
+              ],
+              [
+                32.5776815,
+                4.4066585
+              ],
+              [
+                32.5777701,
+                4.4066505
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                32.577405,
+                4.4075341
+              ],
+              [
+                32.5773118,
+                4.4075322
+              ],
+              [
+                32.5773176,
+                4.407254
+              ],
+              [
+                32.5774108,
+                4.4072559
+              ],
+              [
+                32.577405,
+                4.4075341
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                32.5785947,
+                4.4074282
+              ],
+              [
+                32.5785346,
+                4.4074324
+              ],
+              [
+                32.5785241,
+                4.4072846
+              ],
+              [
+                32.5785842,
+                4.4072804
+              ],
+              [
+                32.5785947,
+                4.4074282
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                32.5778101,
+                4.4069125
+              ],
+              [
+                32.5780051,
+                4.4068985
+              ],
+              [
+                32.5780158,
+                4.4070474
+              ],
+              [
+                32.5778209,
+                4.4070613
+              ],
+              [
+                32.5778101,
+                4.4069125
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                32.5778381,
+                4.4073022
+              ],
+              [
+                32.5778254,
+                4.4071201
+              ],
+              [
+                32.5780779,
+                4.4071027
+              ],
+              [
+                32.5780906,
+                4.4072847
+              ],
+              [
+                32.5778381,
+                4.4073022
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153653533",
+      "properties": {
+        "building": "yes",
+        "name": "Central Equatoria State Headquarter",
+        "office": "government",
+        "id": "way/153653533"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6093379,
+              4.8534254
+            ],
+            [
+              31.6093419,
+              4.8535262
+            ],
+            [
+              31.6088301,
+              4.8535462
+            ],
+            [
+              31.6088261,
+              4.8534464
+            ],
+            [
+              31.6088896,
+              4.8534439
+            ],
+            [
+              31.6088881,
+              4.8534042
+            ],
+            [
+              31.6090466,
+              4.8533961
+            ],
+            [
+              31.609044,
+              4.8533298
+            ],
+            [
+              31.609119,
+              4.8533268
+            ],
+            [
+              31.6091215,
+              4.8533889
+            ],
+            [
+              31.6092669,
+              4.8533851
+            ],
+            [
+              31.6092686,
+              4.8534281
+            ],
+            [
+              31.6093379,
+              4.8534254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207097999",
+      "properties": {
+        "building": "public",
+        "name": "Ministry Education",
+        "office": "government",
+        "id": "way/207097999"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6095566,
+              4.8539847
+            ],
+            [
+              31.6095603,
+              4.8540756
+            ],
+            [
+              31.6094153,
+              4.8540815
+            ],
+            [
+              31.6094115,
+              4.8539906
+            ],
+            [
+              31.6095566,
+              4.8539847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217513338",
+      "properties": {
+        "building": "yes",
+        "name": "Ministry of Finance",
+        "office": "government",
+        "id": "way/217513338"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.5670763,
+              6.2201795
+            ],
+            [
+              31.5670121,
+              6.2200895
+            ],
+            [
+              31.5670669,
+              6.2200509
+            ],
+            [
+              31.5671311,
+              6.2201408
+            ],
+            [
+              31.5670763,
+              6.2201795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217513340",
+      "properties": {
+        "building": "public",
+        "name": "State Governor Office",
+        "office": "government",
+        "id": "way/217513340"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.5547886,
+              6.2039114
+            ],
+            [
+              31.5548449,
+              6.2038277
+            ],
+            [
+              31.5550271,
+              6.2039487
+            ],
+            [
+              31.5550115,
+              6.2039718
+            ],
+            [
+              31.5548846,
+              6.2038875
+            ],
+            [
+              31.5548438,
+              6.2039481
+            ],
+            [
+              31.5547886,
+              6.2039114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225684067",
+      "properties": {
+        "building": "yes",
+        "name": "Yei Commissioner Office",
+        "office": "government",
+        "id": "way/225684067"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.6779275,
+              4.091882
+            ],
+            [
+              30.6779201,
+              4.0917037
+            ],
+            [
+              30.6783567,
+              4.0916856
+            ],
+            [
+              30.678364,
+              4.0918617
+            ],
+            [
+              30.6782718,
+              4.0918655
+            ],
+            [
+              30.6782683,
+              4.0917818
+            ],
+            [
+              30.6780074,
+              4.0917926
+            ],
+            [
+              30.678011,
+              4.0918786
+            ],
+            [
+              30.6779275,
+              4.091882
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254111213",
+      "properties": {
+        "building": "yes",
+        "name": "Ministry of Social Affairs",
+        "office": "government",
+        "id": "way/254111213"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.7866006,
+              9.2410417
+            ],
+            [
+              29.7866198,
+              9.2409049
+            ],
+            [
+              29.7867044,
+              9.2409164
+            ],
+            [
+              29.7867089,
+              9.2408843
+            ],
+            [
+              29.7868368,
+              9.2409017
+            ],
+            [
+              29.7868322,
+              9.2409342
+            ],
+            [
+              29.7869137,
+              9.2409453
+            ],
+            [
+              29.7868932,
+              9.241092
+            ],
+            [
+              29.7868107,
+              9.2410807
+            ],
+            [
+              29.7868227,
+              9.240995
+            ],
+            [
+              29.7866933,
+              9.2409774
+            ],
+            [
+              29.7866827,
+              9.2410529
+            ],
+            [
+              29.7866006,
+              9.2410417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255352212",
+      "properties": {
+        "addr:city": "Bentiu",
+        "building": "yes",
+        "government": "government",
+        "name": "Unity State Government",
+        "office": "government",
+        "id": "way/255352212"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.7956776,
+              9.2514419
+            ],
+            [
+              29.7957038,
+              9.2512881
+            ],
+            [
+              29.7957936,
+              9.2513031
+            ],
+            [
+              29.7957994,
+              9.2512693
+            ],
+            [
+              29.7959101,
+              9.2512877
+            ],
+            [
+              29.7959049,
+              9.2513184
+            ],
+            [
+              29.7959868,
+              9.251332
+            ],
+            [
+              29.7959613,
+              9.2514814
+            ],
+            [
+              29.795877,
+              9.2514674
+            ],
+            [
+              29.7958866,
+              9.2514111
+            ],
+            [
+              29.7957715,
+              9.251392
+            ],
+            [
+              29.7957607,
+              9.2514557
+            ],
+            [
+              29.7956776,
+              9.2514419
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255367663",
+      "properties": {
+        "addr:city": "Bentiu",
+        "building": "yes",
+        "name": "Ministry of Engineering Affairs",
+        "office": "government",
+        "id": "way/255367663"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.7969005,
+              9.2443229
+            ],
+            [
+              29.7969056,
+              9.2442816
+            ],
+            [
+              29.796813,
+              9.2442704
+            ],
+            [
+              29.7968334,
+              9.2441065
+            ],
+            [
+              29.7969191,
+              9.2441169
+            ],
+            [
+              29.7969096,
+              9.2441929
+            ],
+            [
+              29.7970364,
+              9.2442082
+            ],
+            [
+              29.797045,
+              9.2441392
+            ],
+            [
+              29.7971271,
+              9.2441491
+            ],
+            [
+              29.7971066,
+              9.244314
+            ],
+            [
+              29.7970126,
+              9.2443026
+            ],
+            [
+              29.7970084,
+              9.244336
+            ],
+            [
+              29.7969005,
+              9.2443229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255385585",
+      "properties": {
+        "building": "yes",
+        "name": "Ministry of Education",
+        "name:en": "Ministry of Education",
+        "office": "government",
+        "id": "way/255385585"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.7905197,
+              9.2469412
+            ],
+            [
+              29.7905364,
+              9.2467845
+            ],
+            [
+              29.7906355,
+              9.2467948
+            ],
+            [
+              29.7906387,
+              9.2467651
+            ],
+            [
+              29.7907496,
+              9.2467766
+            ],
+            [
+              29.7907458,
+              9.246812
+            ],
+            [
+              29.7908382,
+              9.2468216
+            ],
+            [
+              29.7908222,
+              9.2469708
+            ],
+            [
+              29.790727,
+              9.2469609
+            ],
+            [
+              29.7907352,
+              9.2468848
+            ],
+            [
+              29.7906187,
+              9.2468727
+            ],
+            [
+              29.7906104,
+              9.2469507
+            ],
+            [
+              29.7905197,
+              9.2469412
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255559205",
+      "properties": {
+        "building": "yes",
+        "name": "Ministry of Agriculture & Forest",
+        "office": "government",
+        "id": "way/255559205"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.8054648,
+              9.2640179
+            ],
+            [
+              29.8054865,
+              9.2638689
+            ],
+            [
+              29.8055895,
+              9.2638836
+            ],
+            [
+              29.8055788,
+              9.2639568
+            ],
+            [
+              29.8056881,
+              9.2639723
+            ],
+            [
+              29.8056993,
+              9.2638951
+            ],
+            [
+              29.8057844,
+              9.2639076
+            ],
+            [
+              29.8057627,
+              9.2640626
+            ],
+            [
+              29.8056658,
+              9.2640488
+            ],
+            [
+              29.8056572,
+              9.2641079
+            ],
+            [
+              29.8055486,
+              9.2640925
+            ],
+            [
+              29.8055576,
+              9.264031
+            ],
+            [
+              29.8054648,
+              9.2640179
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255668848",
+      "properties": {
+        "building": "yes",
+        "name": "State Assembly",
+        "office": "government",
+        "id": "way/255668848"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.7925233,
+              9.2556533
+            ],
+            [
+              29.7925805,
+              9.2555363
+            ],
+            [
+              29.7926869,
+              9.255587
+            ],
+            [
+              29.7927286,
+              9.2555018
+            ],
+            [
+              29.7928071,
+              9.2555392
+            ],
+            [
+              29.7927728,
+              9.2556093
+            ],
+            [
+              29.7928765,
+              9.2556587
+            ],
+            [
+              29.7928118,
+              9.2557909
+            ],
+            [
+              29.7925233,
+              9.2556533
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255772199",
+      "properties": {
+        "building": "yes",
+        "name": "Ministry of Health",
+        "office": "government",
+        "id": "way/255772199"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.7907633,
+              9.2563847
+            ],
+            [
+              29.790823,
+              9.2562809
+            ],
+            [
+              29.7908813,
+              9.2563136
+            ],
+            [
+              29.7908626,
+              9.2563461
+            ],
+            [
+              29.7909412,
+              9.2563902
+            ],
+            [
+              29.7909002,
+              9.2564615
+            ],
+            [
+              29.7907633,
+              9.2563847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299868077",
+      "properties": {
+        "name": "Women's League",
+        "office": "government",
+        "id": "way/299868077"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.1417882,
+              8.2970773
+            ],
+            [
+              30.1417932,
+              8.2968294
+            ],
+            [
+              30.1420836,
+              8.2968364
+            ],
+            [
+              30.142077,
+              8.2970808
+            ],
+            [
+              30.1417882,
+              8.2970773
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299959477",
+      "properties": {
+        "building": "yes",
+        "name": "Relief and Rehabilitation Commission",
+        "name:ar": "لجنة الإغاثة وإعادة التأهيل",
+        "office": "government",
+        "short_name": "RRC",
+        "id": "way/299959477"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.5816856,
+              4.8519473
+            ],
+            [
+              31.581683,
+              4.8515573
+            ],
+            [
+              31.581772,
+              4.8515567
+            ],
+            [
+              31.5817747,
+              4.8519467
+            ],
+            [
+              31.5816856,
+              4.8519473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300521218",
+      "properties": {
+        "building": "office",
+        "name": "AECOM (Local Council)",
+        "office": "government",
+        "id": "way/300521218"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.009823,
+              8.319703
+            ],
+            [
+              30.0099822,
+              8.3196624
+            ],
+            [
+              30.0099997,
+              8.3197294
+            ],
+            [
+              30.0098405,
+              8.31977
+            ],
+            [
+              30.009823,
+              8.319703
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/306336143",
+      "properties": {
+        "building": "yes",
+        "name": "Far Reaching Ministries",
+        "office": "government",
+        "id": "way/306336143"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.0706998,
+              3.5895633
+            ],
+            [
+              32.0706394,
+              3.589491
+            ],
+            [
+              32.0708848,
+              3.5892715
+            ],
+            [
+              32.0709398,
+              3.5893237
+            ],
+            [
+              32.0708996,
+              3.5893759
+            ],
+            [
+              32.0708366,
+              3.5894441
+            ],
+            [
+              32.0706998,
+              3.5895633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314995800",
+      "properties": {
+        "addr:city": "Gumbo",
+        "addr:street": "Nile Street",
+        "building": "yes",
+        "name": "Ministry of Telecommunications and Postal Services",
+        "office": "government",
+        "id": "way/314995800"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6318782,
+              4.8103292
+            ],
+            [
+              31.632002,
+              4.8104115
+            ],
+            [
+              31.6320192,
+              4.8104231
+            ],
+            [
+              31.6320458,
+              4.810435
+            ],
+            [
+              31.6320807,
+              4.810441
+            ],
+            [
+              31.6321114,
+              4.8104415
+            ],
+            [
+              31.6321441,
+              4.8104386
+            ],
+            [
+              31.6321857,
+              4.8104254
+            ],
+            [
+              31.6323154,
+              4.8103941
+            ],
+            [
+              31.632357,
+              4.8105924
+            ],
+            [
+              31.6322661,
+              4.8106106
+            ],
+            [
+              31.6322335,
+              4.8106341
+            ],
+            [
+              31.6321739,
+              4.8106647
+            ],
+            [
+              31.6321323,
+              4.8106779
+            ],
+            [
+              31.6320996,
+              4.8106808
+            ],
+            [
+              31.6320689,
+              4.8106803
+            ],
+            [
+              31.632034,
+              4.8106743
+            ],
+            [
+              31.6320074,
+              4.8106624
+            ],
+            [
+              31.6319902,
+              4.8106508
+            ],
+            [
+              31.6317594,
+              4.8104958
+            ],
+            [
+              31.6318782,
+              4.8103292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/369623026",
+      "properties": {
+        "alt_name": "JVVM",
+        "building": "yes",
+        "name": "Joint Verification and Validation Mechanism",
+        "office": "government",
+        "id": "way/369623026"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.609253,
+              4.8571583
+            ],
+            [
+              31.6091538,
+              4.8571771
+            ],
+            [
+              31.6091463,
+              4.8571381
+            ],
+            [
+              31.6090865,
+              4.8571494
+            ],
+            [
+              31.6090713,
+              4.8570693
+            ],
+            [
+              31.6092304,
+              4.8570392
+            ],
+            [
+              31.609253,
+              4.8571583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/816400978",
+      "properties": {
+        "building": "yes",
+        "name": "Immigration",
+        "office": "government",
+        "id": "way/816400978"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.0732895,
+              3.5736125
+            ],
+            [
+              32.073269,
+              3.5734532
+            ],
+            [
+              32.0736043,
+              3.5734103
+            ],
+            [
+              32.0736247,
+              3.5735697
+            ],
+            [
+              32.0732895,
+              3.5736125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/889382817",
+      "properties": {
+        "building": "yes",
+        "office": "government",
+        "id": "way/889382817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.5008632,
+              4.205951
+            ],
+            [
+              33.5009062,
+              4.2056327
+            ],
+            [
+              33.5014897,
+              4.2052621
+            ],
+            [
+              33.5016955,
+              4.2057424
+            ],
+            [
+              33.5014962,
+              4.2060794
+            ],
+            [
+              33.5011261,
+              4.2061811
+            ],
+            [
+              33.5008632,
+              4.205951
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1004295211",
+      "properties": {
+        "addr:city": "Juba",
+        "name": "State Ministry of Gender Social Welfare, Central Equatoria State",
+        "office": "government",
+        "id": "way/1004295211"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6035549,
+              4.8522268
+            ],
+            [
+              31.6038755,
+              4.851461
+            ],
+            [
+              31.6044772,
+              4.8517255
+            ],
+            [
+              31.6047603,
+              4.8513517
+            ],
+            [
+              31.6048067,
+              4.8521924
+            ],
+            [
+              31.6035549,
+              4.8522268
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1004358814",
+      "properties": {
+        "addr:city": "Juba",
+        "addr:street": "Ministries Road",
+        "government": "tax",
+        "name": "Taxation",
+        "office": "government",
+        "operator": "National Revenue Authority",
+        "id": "way/1004358814"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6132998,
+              4.8525562
+            ],
+            [
+              31.6131839,
+              4.851996
+            ],
+            [
+              31.6136129,
+              4.8519125
+            ],
+            [
+              31.6137091,
+              4.8524629
+            ],
+            [
+              31.6132998,
+              4.8525562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1014154401",
+      "properties": {
+        "addr:city": "Juba",
+        "addr:street": "Bilpam Road",
+        "building": "yes",
+        "government": "military",
+        "name": "Ministry of Defense",
+        "office": "government",
+        "id": "way/1014154401"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.5963791,
+              4.9102313
+            ],
+            [
+              31.5963738,
+              4.9101731
+            ],
+            [
+              31.5964764,
+              4.9100938
+            ],
+            [
+              31.5966274,
+              4.9100538
+            ],
+            [
+              31.5966964,
+              4.9100938
+            ],
+            [
+              31.5968544,
+              4.9100291
+            ],
+            [
+              31.5968982,
+              4.910135
+            ],
+            [
+              31.5967694,
+              4.9101879
+            ],
+            [
+              31.5968488,
+              4.9103798
+            ],
+            [
+              31.5971938,
+              4.9102379
+            ],
+            [
+              31.5972528,
+              4.9103803
+            ],
+            [
+              31.596811,
+              4.9105623
+            ],
+            [
+              31.5968349,
+              4.9106195
+            ],
+            [
+              31.5966532,
+              4.9106949
+            ],
+            [
+              31.5966346,
+              4.9106508
+            ],
+            [
+              31.5961737,
+              4.9108442
+            ],
+            [
+              31.5961153,
+              4.9107062
+            ],
+            [
+              31.5964956,
+              4.9105463
+            ],
+            [
+              31.5963949,
+              4.9103088
+            ],
+            [
+              31.5962589,
+              4.910366
+            ],
+            [
+              31.5962286,
+              4.9102947
+            ],
+            [
+              31.5963791,
+              4.9102313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1019201504",
+      "properties": {
+        "building": "yes",
+        "office": "government",
+        "id": "way/1019201504"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.1710359,
+              10.4334602
+            ],
+            [
+              32.1701066,
+              10.4334694
+            ],
+            [
+              32.1700552,
+              10.4316621
+            ],
+            [
+              32.1719045,
+              10.4316162
+            ],
+            [
+              32.1719559,
+              10.4334395
+            ],
+            [
+              32.1710359,
+              10.4334602
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1980036524",
+      "properties": {
+        "building": "public",
+        "name": "Ministry Telecommunications",
+        "office": "government",
+        "id": "node/1980036524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6176332,
+          4.8538482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1980036556",
+      "properties": {
+        "building": "public",
+        "name": "National Bureau of Statistics",
+        "office": "government",
+        "id": "node/1980036556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6071879,
+          4.8528717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1980071146",
+      "properties": {
+        "building": "public",
+        "name": "Ministry Housing",
+        "office": "government",
+        "id": "node/1980071146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6188927,
+          4.8512314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1997701107",
+      "properties": {
+        "name": "SPLA/SPLM Headquarters",
+        "office": "government",
+        "id": "node/1997701107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5965195,
+          4.8394456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267947741",
+      "properties": {
+        "name": "Bor State Council",
+        "office": "government",
+        "id": "node/2267947741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5546156,
+          6.2050443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267947743",
+      "properties": {
+        "government": "ministry",
+        "name": "Ministry of Justice",
+        "office": "government",
+        "id": "node/2267947743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5555801,
+          6.2048706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267947746",
+      "properties": {
+        "name": "UNHCR Bor",
+        "office": "quango",
+        "operator": "UNHCR",
+        "id": "node/2267947746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5649126,
+          6.1947779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2565330302",
+      "properties": {
+        "name": "Directorate of Nationality, Passports & Immigration",
+        "office": "government",
+        "id": "node/2565330302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5868333,
+          4.8580505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2657077114",
+      "properties": {
+        "name": "Ministry of Housing",
+        "name:ar": "وزارة الإسكان",
+        "office": "government",
+        "id": "node/2657077114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5727492,
+          4.4021993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2912937647",
+      "properties": {
+        "name": "Ministry Affairs",
+        "office": "government",
+        "id": "node/2912937647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5943188,
+          4.8583024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3029731651",
+      "properties": {
+        "name": "commissioner office",
+        "office": "government",
+        "id": "node/3029731651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1418431,
+          8.3047926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3248128929",
+      "properties": {
+        "addr:city": "Yei",
+        "name": "Ministry of the Interior - Immigration Office",
+        "office": "government",
+        "id": "node/3248128929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6775545,
+          4.0977807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3632770039",
+      "properties": {
+        "addr:city": "Kaya",
+        "addr:country": "SS",
+        "country": "SS",
+        "name": "Ministry of the Interior - Immigration Office",
+        "office": "government",
+        "id": "node/3632770039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.883078,
+          3.5404207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4312667284",
+      "properties": {
+        "addr:city": "Aroyo",
+        "government": "administrative",
+        "name": "County Commission",
+        "office": "government",
+        "id": "node/4312667284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8523883,
+          8.6675032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4588931997",
+      "properties": {
+        "name": "German Leprosy &TB Relief Association",
+        "office": "government",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "id": "node/4588931997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6125782,
+          4.8334134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4782457492",
+      "properties": {
+        "name": "Northern Upper Nile State Government",
+        "office": "government",
+        "id": "node/4782457492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7998454,
+          11.7451213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4782457493",
+      "properties": {
+        "name": "Renk County/Payam",
+        "office": "government",
+        "id": "node/4782457493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7992409,
+          11.7452185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4782457494",
+      "properties": {
+        "name": "Renk Ministry of Labour",
+        "office": "government",
+        "id": "node/4782457494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8018663,
+          11.7468261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4782457495",
+      "properties": {
+        "name": "Renk RRC",
+        "office": "government",
+        "id": "node/4782457495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8028767,
+          11.7494229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4782457496",
+      "properties": {
+        "name": "Ministry of Health",
+        "office": "government",
+        "id": "node/4782457496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7997281,
+          11.7482128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4782457497",
+      "properties": {
+        "name": "Renk EPI Centre",
+        "office": "government",
+        "id": "node/4782457497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7991597,
+          11.748098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4930448325",
+      "properties": {
+        "fixme": "survey needed",
+        "name": "SPLM office",
+        "office": "government",
+        "id": "node/4930448325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1408288,
+          8.3029403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5414592221",
+      "properties": {
+        "name": "Aweil East state HQ",
+        "office": "government",
+        "id": "node/5414592221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5868406,
+          9.0117666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6090098786",
+      "properties": {
+        "name": "National Olympic Committee",
+        "office": "government",
+        "id": "node/6090098786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6007341,
+          4.841227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6308480984",
+      "properties": {
+        "name": "Immigration Dept Alien Registration",
+        "office": "government",
+        "id": "node/6308480984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6108279,
+          4.8330959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6494910480",
+      "properties": {
+        "name": "Payam office",
+        "office": "government",
+        "id": "node/6494910480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0092771,
+          7.0506489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6494910481",
+      "properties": {
+        "name": "County office",
+        "office": "government",
+        "id": "node/6494910481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0090398,
+          7.0509776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6977650248",
+      "properties": {
+        "name": "PABX",
+        "office": "government",
+        "id": "node/6977650248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59562,
+          4.87005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6977696555",
+      "properties": {
+        "name": "Vink energy LTD",
+        "office": "government",
+        "id": "node/6977696555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6200444,
+          4.8576801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6977739044",
+      "properties": {
+        "addr:street": "Hallie Selassie Road",
+        "description": "Port administration",
+        "government": "ministry",
+        "name": "Ministry of Transport",
+        "office": "government",
+        "id": "node/6977739044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.619052,
+          4.8561941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7172914212",
+      "properties": {
+        "addr:city": "Wanjuk",
+        "addr:street": "Wanjuk-Gorthim road",
+        "name": "(SMOH-Aweil East state)",
+        "office": "government",
+        "id": "node/7172914212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5839032,
+          8.9982041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7896325851",
+      "properties": {
+        "government": "administrative",
+        "name": "Commissioner Uror County",
+        "office": "government",
+        "source": "MSFsurvey",
+        "source:date": "2016-10",
+        "id": "node/7896325851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8912573,
+          7.9048487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7992206386",
+      "properties": {
+        "name": "Office of vicepresedinte",
+        "office": "government",
+        "id": "node/7992206386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.58345,
+          4.8643554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8559808517",
+      "properties": {
+        "name": "Ministry of Information",
+        "office": "government",
+        "id": "node/8559808517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5748902,
+          4.4080894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8559808617",
+      "properties": {
+        "name": "Torit Municipal",
+        "office": "government",
+        "id": "node/8559808617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5714147,
+          4.4098766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8559908119",
+      "properties": {
+        "name": "Eastern Equatoria State Secretariat",
+        "office": "government",
+        "id": "node/8559908119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5753723,
+          4.4086502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8996988817",
+      "properties": {
+        "name": "Ikotos County Headquater",
+        "office": "government",
+        "id": "node/8996988817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1025966,
+          4.0746517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8997003917",
+      "properties": {
+        "name": "Lafon Administration office",
+        "office": "government",
+        "id": "node/8997003917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4764358,
+          5.0275855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9014986066",
+      "properties": {
+        "name": "wildlife office",
+        "office": "government",
+        "id": "node/9014986066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6781215,
+          4.0924019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9014986071",
+      "properties": {
+        "name": "yei paliament and governers office",
+        "office": "government",
+        "id": "node/9014986071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.673253,
+          4.0912885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9204239017",
+      "properties": {
+        "name": "National Bureau of Standards",
+        "office": "government",
+        "id": "node/9204239017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6198438,
+          4.8560072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9301617424",
+      "properties": {
+        "addr:street": "Bennys Avenue",
+        "name": "Juba City Council Juba Natural Bari",
+        "office": "government",
+        "id": "node/9301617424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5884983,
+          4.8669038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9311393117",
+      "properties": {
+        "email": "mmayiiknyok@gmail.com",
+        "name": "Government offices",
+        "office": "government",
+        "phone": "+211916016590",
+        "id": "node/9311393117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8211206,
+          9.3907948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9609164643",
+      "properties": {
+        "government": "administrative",
+        "name": "SPLM Secretariate",
+        "office": "government",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "id": "node/9609164643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6700503,
+          4.0905267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9879209918",
+      "properties": {
+        "addr:street": "Malualkon Way",
+        "name:en": "State Ministry of General Education",
+        "office": "government",
+        "id": "node/9879209918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3969179,
+          8.7687062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10570436119",
+      "properties": {
+        "government": "ministry",
+        "name": "Bureau of Religious Affairs",
+        "office": "government",
+        "id": "node/10570436119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6169377,
+          4.8549661
+        ]
+      }
+    }
+  ]
+}

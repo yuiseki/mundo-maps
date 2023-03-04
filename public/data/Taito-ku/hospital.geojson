@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/99156121",
+      "properties": {
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:levels": "4",
+        "healthcare": "hospital",
+        "name": "浅草寺病院",
+        "name:en": "Sensoji Hospital",
+        "id": "way/99156121"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7969109,
+              35.7156289
+            ],
+            [
+              139.7969994,
+              35.7158598
+            ],
+            [
+              139.7963825,
+              35.7160209
+            ],
+            [
+              139.7962993,
+              35.7157857
+            ],
+            [
+              139.7969109,
+              35.7156289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175058726",
+      "properties": {
+        "addr:block_number": "23",
+        "addr:neighbourhood": "3丁目",
+        "addr:quarter": "東上野",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:levels": "5",
+        "healthcare": "hospital",
+        "name": "全仁会上野病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/175058726"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7792111,
+              35.7114299
+            ],
+            [
+              139.7792008,
+              35.7113923
+            ],
+            [
+              139.7790753,
+              35.7114151
+            ],
+            [
+              139.7790647,
+              35.7113767
+            ],
+            [
+              139.7790401,
+              35.7112875
+            ],
+            [
+              139.7792664,
+              35.7112463
+            ],
+            [
+              139.779312,
+              35.7114116
+            ],
+            [
+              139.7792111,
+              35.7114299
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230478092",
+      "properties": {
+        "amenity": "hospital",
+        "building": "hospital",
+        "name": "台東病院",
+        "name:en": "Taito Hospital",
+        "wikidata": "Q11525275",
+        "wikipedia": "ja:東京都台東区立台東病院",
+        "id": "way/230478092"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.792448,
+              35.7230883
+            ],
+            [
+              139.7923931,
+              35.7226393
+            ],
+            [
+              139.7924814,
+              35.7226322
+            ],
+            [
+              139.7924681,
+              35.7225596
+            ],
+            [
+              139.7925264,
+              35.7225039
+            ],
+            [
+              139.7925083,
+              35.7224847
+            ],
+            [
+              139.7925577,
+              35.7224317
+            ],
+            [
+              139.792913,
+              35.7226493
+            ],
+            [
+              139.7929287,
+              35.7227756
+            ],
+            [
+              139.7927874,
+              35.7229195
+            ],
+            [
+              139.7928093,
+              35.7230547
+            ],
+            [
+              139.792448,
+              35.7230883
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/871794846",
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ライフ・エクステンション研究所付属永寿総合病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11346511",
+        "id": "way/871794846"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7801109,
+              35.7098768
+            ],
+            [
+              139.7798244,
+              35.7099319
+            ],
+            [
+              139.7794319,
+              35.7100073
+            ],
+            [
+              139.7792843,
+              35.7100357
+            ],
+            [
+              139.7791788,
+              35.7095681
+            ],
+            [
+              139.7800317,
+              35.7094592
+            ],
+            [
+              139.7801109,
+              35.7098768
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

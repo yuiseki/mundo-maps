@@ -1,11 +1,11 @@
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
-  --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
-    'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
-    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
+  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
+    "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
+    "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
-  --foreground-rgb: 0, 0, 0;
+  --foreground-rgba: 0, 0, 0, 0.8;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 
@@ -42,7 +42,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground-rgb: 255, 255, 255;
+    --foreground-rgba: 255, 255, 255, 0.8;
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
 
@@ -86,18 +86,34 @@ body {
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: rgba(var(--foreground-rgba));
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 a {
-  color: inherit;
+  color: rgba(var(--foreground-rgba));
   text-decoration: none;
+}
+
+@font-face {
+  font-family: emoji;
+  /*
+    https://xem.github.io/unicode13/emoji.html
+  */
+  src: url(/Twemoji.ttf);
+  /*
+    https://github.com/mozilla/twemoji-colr/issues/56
+  */
+  unicode-range: U+00A9-E007F;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+label {
+  user-select: none;
+  cursor: pointer;
 }
 
 @media (prefers-color-scheme: dark) {

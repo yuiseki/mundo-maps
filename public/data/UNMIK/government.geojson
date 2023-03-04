@@ -1,0 +1,4562 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/97946638",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housename": "Ministria e Arsimit, E Shkencës Dhe E Teknologjisë",
+        "addr:postcode": "10000",
+        "addr:street": "Agim Ramadani",
+        "alt_name": "Ministry of Education",
+        "building": "office",
+        "contact:website": "http://www.masht-gov.net/",
+        "government": "ministry",
+        "int_name": "Ministry of Education, Sciences and Technology",
+        "name": "Ministria e Arsimit, Shkencës Teknologjisë dhe Inovacionit (MASHTI)",
+        "name:en": "Ministry of Education, Science, Technology and Innovation",
+        "name:sq": "Ministria e Arsimit, Shkencës Teknologjisë dhe Inovacionit (MASHTI)",
+        "name:sr-Latn": "Ministarstvo za Obrazovanja, Nauke, Tehnologije i Inovacije",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "way/97946638"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1649759,
+              42.6595958
+            ],
+            [
+              21.1649079,
+              42.6592585
+            ],
+            [
+              21.1654535,
+              42.6591947
+            ],
+            [
+              21.1654914,
+              42.659398
+            ],
+            [
+              21.1654467,
+              42.6594013
+            ],
+            [
+              21.1654528,
+              42.6594386
+            ],
+            [
+              21.1652148,
+              42.6594672
+            ],
+            [
+              21.1652224,
+              42.6595315
+            ],
+            [
+              21.1650391,
+              42.659592
+            ],
+            [
+              21.1649759,
+              42.6595958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/104163450",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housenumber": "305",
+        "addr:postcode": "10000",
+        "addr:street": "Agim Ramadani",
+        "building": "public",
+        "contact:website": "http://www.ashak.org/",
+        "government": "yes",
+        "name": "Akademia e Shkencave dhe e Arteve e Kosovës",
+        "name:en": "Kosovo Academy of Sciences and Arts",
+        "wikidata": "Q116376",
+        "id": "way/104163450"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1650983,
+              42.6601061
+            ],
+            [
+              21.1650159,
+              42.6597635
+            ],
+            [
+              21.165301,
+              42.6597802
+            ],
+            [
+              21.1653206,
+              42.6598906
+            ],
+            [
+              21.1654113,
+              42.659872
+            ],
+            [
+              21.1654654,
+              42.6600663
+            ],
+            [
+              21.1650983,
+              42.6601061
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105552985",
+      "properties": {
+        "addr:housename": "KEK building",
+        "building": "office",
+        "name": "KEDS",
+        "office": "government",
+        "id": "way/105552985"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1580972,
+              42.6551037
+            ],
+            [
+              21.1584242,
+              42.6550502
+            ],
+            [
+              21.158429,
+              42.6550662
+            ],
+            [
+              21.1585222,
+              42.6550509
+            ],
+            [
+              21.1585941,
+              42.6552884
+            ],
+            [
+              21.1584724,
+              42.6553083
+            ],
+            [
+              21.1584945,
+              42.6553813
+            ],
+            [
+              21.1583843,
+              42.6553994
+            ],
+            [
+              21.1581961,
+              42.6554302
+            ],
+            [
+              21.1580972,
+              42.6551037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123828458",
+      "properties": {
+        "addr:housenumber": "3",
+        "addr:street": "Dëshmorët e Pashtrikut",
+        "amenity": "courthouse",
+        "building": "yes",
+        "name": "Gjykata",
+        "office": "government",
+        "id": "way/123828458"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.6576932,
+              42.3977149
+            ],
+            [
+              20.6576654,
+              42.3976321
+            ],
+            [
+              20.6576489,
+              42.3975829
+            ],
+            [
+              20.6579983,
+              42.3975189
+            ],
+            [
+              20.6580427,
+              42.3976508
+            ],
+            [
+              20.6576932,
+              42.3977149
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124899242",
+      "properties": {
+        "building": "yes",
+        "building:levels": "17",
+        "government": "legislative",
+        "name": "Ndërtesa Qeveritare (Ish-Rilindja)",
+        "office": "government",
+        "id": "way/124899242"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1558807,
+              42.6596019
+            ],
+            [
+              21.1558527,
+              42.6595026
+            ],
+            [
+              21.1558186,
+              42.6594441
+            ],
+            [
+              21.155781,
+              42.6593153
+            ],
+            [
+              21.1560199,
+              42.6592749
+            ],
+            [
+              21.1560577,
+              42.659399
+            ],
+            [
+              21.1561909,
+              42.6593807
+            ],
+            [
+              21.1562744,
+              42.6596404
+            ],
+            [
+              21.1559114,
+              42.6597036
+            ],
+            [
+              21.1558807,
+              42.6596019
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124914982",
+      "properties": {
+        "abbr_name": "BQK",
+        "abbr_name_1": "CBK",
+        "addr:city": "Prishtinë: Kosovë",
+        "addr:housenumber": "33",
+        "addr:postcode": "10000",
+        "addr:street": "Garibaldi",
+        "building": "yes",
+        "email": "info@bqk-kos.org",
+        "government": "regulatory_authority",
+        "name": "Banka Qendrore e Republikës së Kosovës",
+        "name:en": "Central Bank of the Republic of Kosovo",
+        "name:sr": "Централна банка Републике Косово",
+        "name:sr-Latn": "Centralna banka Republike Kosovo",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+38338222055",
+        "website": "https://www.bqk-kos.org",
+        "wheelchair": "yes",
+        "wikidata": "Q79800851",
+        "id": "way/124914982"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1584485,
+              42.6601014
+            ],
+            [
+              21.1584064,
+              42.6600372
+            ],
+            [
+              21.1584666,
+              42.6600284
+            ],
+            [
+              21.1584515,
+              42.6599598
+            ],
+            [
+              21.1584004,
+              42.659962
+            ],
+            [
+              21.1584094,
+              42.6598802
+            ],
+            [
+              21.1590206,
+              42.6597962
+            ],
+            [
+              21.1590531,
+              42.6597917
+            ],
+            [
+              21.1590952,
+              42.6598514
+            ],
+            [
+              21.1590411,
+              42.6598647
+            ],
+            [
+              21.1590591,
+              42.6599178
+            ],
+            [
+              21.1591133,
+              42.6599134
+            ],
+            [
+              21.1591013,
+              42.6600041
+            ],
+            [
+              21.1590739,
+              42.6600082
+            ],
+            [
+              21.1590362,
+              42.6600138
+            ],
+            [
+              21.1584485,
+              42.6601014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124954431",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housenumber": "116",
+        "addr:postcode": "10000",
+        "addr:street": "Perandori Justinian",
+        "building": "yes",
+        "government": "ministry",
+        "name": "Ministria e Zhvillimit Rajonal (MZHR)",
+        "name:en": "Ministry of Regional Development",
+        "name:sq": "Ministria e Zhvillimit Rajonal (MZHR)",
+        "name:sr-Latn": "Ministarstvo za Regionalni Razvoj",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "website": "https://mzhr.rks-gov.net/language/sq/",
+        "id": "way/124954431"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1569995,
+              42.6568819
+            ],
+            [
+              21.1570242,
+              42.6568284
+            ],
+            [
+              21.1569494,
+              42.6568096
+            ],
+            [
+              21.1569744,
+              42.6567556
+            ],
+            [
+              21.1572863,
+              42.6568337
+            ],
+            [
+              21.1572463,
+              42.6569202
+            ],
+            [
+              21.1571713,
+              42.6569014
+            ],
+            [
+              21.1571615,
+              42.6569224
+            ],
+            [
+              21.1569995,
+              42.6568819
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125485840",
+      "properties": {
+        "addr:city": "Prishtinë: Kosovë",
+        "addr:housename": "Government of the Republic of Kosovo",
+        "addr:postcode": "10000",
+        "addr:street": "Ndërtesa e Qeverisë, Sheshi “ Nëna Terezë",
+        "building": "yes",
+        "building:levels": "16",
+        "government": "government",
+        "int_name": "Government of the Republic of Kosovo",
+        "name": "Qeveria e Republikës së Kosovës",
+        "name:de": "Regierung der Republik Kosovo",
+        "name:en": "Government of the Republic of Kosovo",
+        "name:sr": "Влада Републике Косово",
+        "name:sr-Latn": "Vlada Republike Kosovo",
+        "office": "government",
+        "website": "www.kryeministri-ks.net",
+        "wikidata": "Q3773957",
+        "wikipedia": "fr:Gouvernement du Kosovo",
+        "id": "way/125485840"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1634864,
+              42.6646816
+            ],
+            [
+              21.163494,
+              42.6644814
+            ],
+            [
+              21.1633026,
+              42.6644774
+            ],
+            [
+              21.1633193,
+              42.6642245
+            ],
+            [
+              21.1633857,
+              42.6642271
+            ],
+            [
+              21.1633938,
+              42.6641135
+            ],
+            [
+              21.1635954,
+              42.6641213
+            ],
+            [
+              21.163599,
+              42.6640703
+            ],
+            [
+              21.1636045,
+              42.6640014
+            ],
+            [
+              21.1637196,
+              42.6640064
+            ],
+            [
+              21.1637154,
+              42.6640592
+            ],
+            [
+              21.163713,
+              42.6640914
+            ],
+            [
+              21.1637702,
+              42.6640854
+            ],
+            [
+              21.1637671,
+              42.6641471
+            ],
+            [
+              21.1637618,
+              42.6642557
+            ],
+            [
+              21.1637435,
+              42.6646851
+            ],
+            [
+              21.1636848,
+              42.6646838
+            ],
+            [
+              21.1634864,
+              42.6646816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125485855",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:street": "Agim Ramadani",
+        "building": "yes",
+        "government": "parliament",
+        "name": "Kuvendi i Republikës së Kosovës",
+        "name:de": "Parlament der Republik Kosovo",
+        "name:en": "Parliament of the Republic of Kosovo",
+        "name:sr": "Скупштина Републике Косово",
+        "name:sr-Latn": "Skupština Republike Kosovo",
+        "office": "government",
+        "website": "http://www.kuvendikosoves.org/",
+        "id": "way/125485855"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1643286,
+              42.664313
+            ],
+            [
+              21.1643221,
+              42.6646039
+            ],
+            [
+              21.1644899,
+              42.6646059
+            ],
+            [
+              21.1645804,
+              42.664607
+            ],
+            [
+              21.1645789,
+              42.664673
+            ],
+            [
+              21.1649647,
+              42.6646777
+            ],
+            [
+              21.1649616,
+              42.6648175
+            ],
+            [
+              21.1644765,
+              42.6648116
+            ],
+            [
+              21.1644687,
+              42.6651606
+            ],
+            [
+              21.1649059,
+              42.6651659
+            ],
+            [
+              21.1649418,
+              42.6652386
+            ],
+            [
+              21.1649562,
+              42.6653045
+            ],
+            [
+              21.1649401,
+              42.6653616
+            ],
+            [
+              21.1648999,
+              42.6654358
+            ],
+            [
+              21.1644607,
+              42.6654305
+            ],
+            [
+              21.1644601,
+              42.6654579
+            ],
+            [
+              21.1642324,
+              42.6654551
+            ],
+            [
+              21.1642389,
+              42.665164
+            ],
+            [
+              21.1642838,
+              42.6651645
+            ],
+            [
+              21.1642871,
+              42.6650173
+            ],
+            [
+              21.1642933,
+              42.6647413
+            ],
+            [
+              21.1641563,
+              42.6647396
+            ],
+            [
+              21.1641551,
+              42.6647917
+            ],
+            [
+              21.1640672,
+              42.6647907
+            ],
+            [
+              21.1640701,
+              42.6646609
+            ],
+            [
+              21.1641516,
+              42.6646619
+            ],
+            [
+              21.1641594,
+              42.664311
+            ],
+            [
+              21.1643286,
+              42.664313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125494498",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "addr:street": "Fehmi Agani",
+        "building": "yes",
+        "government": "tax",
+        "name": "Administrata Tatimore e Kosovës - Prishtinë",
+        "office": "government",
+        "id": "way/125494498"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1564312,
+              42.6649068
+            ],
+            [
+              21.1560979,
+              42.664327
+            ],
+            [
+              21.1562422,
+              42.6642822
+            ],
+            [
+              21.1565755,
+              42.6648619
+            ],
+            [
+              21.1564312,
+              42.6649068
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125540861",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "addr:street": "Nëna Terezë",
+        "building": "yes",
+        "name": "Administrata Tatimore e Kosovës - Prishtinë",
+        "office": "government",
+        "id": "way/125540861"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1627319,
+              42.6634922
+            ],
+            [
+              21.163072,
+              42.6633487
+            ],
+            [
+              21.1631266,
+              42.6634214
+            ],
+            [
+              21.1631779,
+              42.6634004
+            ],
+            [
+              21.1634098,
+              42.6637055
+            ],
+            [
+              21.1632807,
+              42.6637598
+            ],
+            [
+              21.1630327,
+              42.6638598
+            ],
+            [
+              21.1630177,
+              42.6638662
+            ],
+            [
+              21.1629288,
+              42.6637527
+            ],
+            [
+              21.1627319,
+              42.6634922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125541028",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "addr:street": "UÇK",
+        "building": "yes",
+        "building:levels": "8",
+        "country": "EU",
+        "diplomatic": "embassy",
+        "email": "delegation-kosovo@eeas.europa.eu",
+        "embassy": "yes",
+        "government": "int",
+        "name": "Zyra e Bashkimit Evropian në Kosovë",
+        "name:en": "European Union Office in Kosovo",
+        "name:sq": "Zyra e Bashkimit Evropian në Kosovë",
+        "name:sr": "Канцеларија Европске уније на Косову",
+        "name:sr-Latn": "Kancelarija Evropske unije na Kosovu",
+        "office": "diplomatic",
+        "phone": "+383 38 5131 200",
+        "target": "EU",
+        "website": "https://eeas.europa.eu/delegations/kosovo_en",
+        "id": "way/125541028"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1638233,
+              42.6649296
+            ],
+            [
+              21.1638081,
+              42.6652657
+            ],
+            [
+              21.1637267,
+              42.6652637
+            ],
+            [
+              21.1637238,
+              42.6653273
+            ],
+            [
+              21.1635482,
+              42.665323
+            ],
+            [
+              21.1635541,
+              42.6651926
+            ],
+            [
+              21.1636376,
+              42.6651947
+            ],
+            [
+              21.1636466,
+              42.6649954
+            ],
+            [
+              21.1636497,
+              42.6649254
+            ],
+            [
+              21.1638233,
+              42.6649296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125541064",
+      "properties": {
+        "building": "public",
+        "government": "ministry",
+        "office": "government",
+        "id": "way/125541064"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1625887,
+              42.661697
+            ],
+            [
+              21.1625171,
+              42.6616258
+            ],
+            [
+              21.1626138,
+              42.6615741
+            ],
+            [
+              21.1622233,
+              42.6611709
+            ],
+            [
+              21.1621085,
+              42.661232
+            ],
+            [
+              21.162054,
+              42.6611723
+            ],
+            [
+              21.1622886,
+              42.6610481
+            ],
+            [
+              21.16235,
+              42.6611086
+            ],
+            [
+              21.1623222,
+              42.6611251
+            ],
+            [
+              21.1624409,
+              42.6612415
+            ],
+            [
+              21.1624812,
+              42.6612218
+            ],
+            [
+              21.1624623,
+              42.6611999
+            ],
+            [
+              21.1625309,
+              42.6611599
+            ],
+            [
+              21.1625864,
+              42.6611949
+            ],
+            [
+              21.1627224,
+              42.6613293
+            ],
+            [
+              21.1626479,
+              42.661366
+            ],
+            [
+              21.1626116,
+              42.6613271
+            ],
+            [
+              21.1625591,
+              42.6613601
+            ],
+            [
+              21.1627074,
+              42.6615168
+            ],
+            [
+              21.1627605,
+              42.6614892
+            ],
+            [
+              21.1628385,
+              42.661567
+            ],
+            [
+              21.1625887,
+              42.661697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128635637",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housename": "Ministria e Shëndetësisë",
+        "addr:housenumber": "60",
+        "addr:postcode": "10000",
+        "addr:street": "Zagrebi",
+        "building": "yes",
+        "email": "msh.info@rks-gov.net",
+        "government": "ministry",
+        "int_name": "Ministry of Health",
+        "name": "Ministria e Shëndetësisë (MSH)",
+        "name:de": "Gesundheitsministerium der Republik Kosovo",
+        "name:en": "Ministry of Health",
+        "name:sq": "Ministria e Shëndetësisë (MSH)",
+        "name:sr-Latn": "Ministarstvo Zdravlja",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 38 200 24 131",
+        "website": "http://www.msh-ks.org",
+        "id": "way/128635637"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1560324,
+              42.6671342
+            ],
+            [
+              21.1562387,
+              42.6669994
+            ],
+            [
+              21.1567308,
+              42.6674066
+            ],
+            [
+              21.1565331,
+              42.6675358
+            ],
+            [
+              21.1563549,
+              42.6673884
+            ],
+            [
+              21.1562754,
+              42.6674403
+            ],
+            [
+              21.1561606,
+              42.6673453
+            ],
+            [
+              21.1562315,
+              42.6672989
+            ],
+            [
+              21.1560324,
+              42.6671342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146604917",
+      "properties": {
+        "addr:city": "Mitrovicë",
+        "addr:street": "Agim Hajrizi",
+        "building": "yes",
+        "name": "Administrata Tatimore e Kosovës - Mitrovic",
+        "office": "government",
+        "id": "way/146604917"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8679713,
+              42.8896459
+            ],
+            [
+              20.8678175,
+              42.8894151
+            ],
+            [
+              20.8679039,
+              42.8893853
+            ],
+            [
+              20.8679586,
+              42.8893685
+            ],
+            [
+              20.8679977,
+              42.889411
+            ],
+            [
+              20.8681882,
+              42.8893406
+            ],
+            [
+              20.8682911,
+              42.8895403
+            ],
+            [
+              20.8679713,
+              42.8896459
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147128514",
+      "properties": {
+        "building": "yes",
+        "name": "Dogana",
+        "office": "government",
+        "id": "way/147128514"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8727693,
+              42.8953192
+            ],
+            [
+              20.8727827,
+              42.8951695
+            ],
+            [
+              20.8736615,
+              42.8952116
+            ],
+            [
+              20.8736481,
+              42.8953613
+            ],
+            [
+              20.8727693,
+              42.8953192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150550542",
+      "properties": {
+        "building": "office",
+        "name": "KOSTT",
+        "office": "government",
+        "id": "way/150550542"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1580972,
+              42.6551037
+            ],
+            [
+              21.1580197,
+              42.6548477
+            ],
+            [
+              21.1583466,
+              42.6547941
+            ],
+            [
+              21.1584242,
+              42.6550502
+            ],
+            [
+              21.1580972,
+              42.6551037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173078001",
+      "properties": {
+        "addr:city": "Prizren",
+        "addr:postcode": "20000",
+        "addr:street": "Remzi Ademaj",
+        "building": "yes",
+        "government": "legislative",
+        "name": "Kuvendi Komunal",
+        "office": "government",
+        "id": "way/173078001"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.7363424,
+              42.2106746
+            ],
+            [
+              20.7362834,
+              42.2106448
+            ],
+            [
+              20.7361555,
+              42.2106926
+            ],
+            [
+              20.7361167,
+              42.2106355
+            ],
+            [
+              20.7360323,
+              42.210667
+            ],
+            [
+              20.7358263,
+              42.2103647
+            ],
+            [
+              20.7362941,
+              42.2101898
+            ],
+            [
+              20.7364363,
+              42.2102097
+            ],
+            [
+              20.7364926,
+              42.2102633
+            ],
+            [
+              20.7363424,
+              42.2106746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184899213",
+      "properties": {
+        "name": "Terminali Doganor",
+        "name:de": "Zollamt",
+        "name:en": "Customs Terminal",
+        "office": "government",
+        "id": "way/184899213"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.132885,
+              42.6456297
+            ],
+            [
+              21.132885,
+              42.6447224
+            ],
+            [
+              21.1334798,
+              42.6447296
+            ],
+            [
+              21.1334652,
+              42.6456225
+            ],
+            [
+              21.132885,
+              42.6456297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184899229",
+      "properties": {
+        "building": "yes",
+        "name": "Terminali Doganor",
+        "name:de": "Zollamt",
+        "name:en": "Customs Terminal",
+        "office": "government",
+        "id": "way/184899229"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1342131,
+              42.6476022
+            ],
+            [
+              21.1343604,
+              42.6472717
+            ],
+            [
+              21.1348896,
+              42.6474094
+            ],
+            [
+              21.1347149,
+              42.6477307
+            ],
+            [
+              21.1345551,
+              42.6476848
+            ],
+            [
+              21.1345302,
+              42.6477399
+            ],
+            [
+              21.1343554,
+              42.6476958
+            ],
+            [
+              21.1343704,
+              42.6476371
+            ],
+            [
+              21.1342131,
+              42.6476022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204066394",
+      "properties": {
+        "addr:city": "Fushë Kosovë",
+        "addr:housenumber": "49",
+        "addr:postcode": "10000",
+        "addr:street": "Rruga e Llapit",
+        "building": "yes",
+        "email": "Infomkk.mzp.mcr@rks-gov.net",
+        "government": "ministry",
+        "name": "Ministria për Komunitete dhe Kthim (MKK)",
+        "name:en": "Ministry of Communities and Return (MCR)",
+        "name:sq": "Ministria për Komunitete dhe Kthim (MKK)",
+        "name:sr-Latn": "Ministarstvo za Zajednice i Povratak (MZP)",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 38 552 045",
+        "website": "http://mzp-rks.org/al/",
+        "id": "way/204066394"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0821844,
+              42.6360448
+            ],
+            [
+              21.0821853,
+              42.6356785
+            ],
+            [
+              21.0823767,
+              42.6356787
+            ],
+            [
+              21.0823758,
+              42.6360451
+            ],
+            [
+              21.0821844,
+              42.6360448
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221901052",
+      "properties": {
+        "addr:city": "Gjakova",
+        "addr:postcode": "50000",
+        "addr:street": "Ismail Qemali",
+        "building": "yes",
+        "name": "Agjencia Shtetërore e Arkivave – Arkivi Ndër Komunal",
+        "name:en": "Municipal Archive",
+        "office": "government",
+        "id": "way/221901052"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4276073,
+              42.3832938
+            ],
+            [
+              20.4276007,
+              42.3832281
+            ],
+            [
+              20.4277869,
+              42.3832178
+            ],
+            [
+              20.4277935,
+              42.3832835
+            ],
+            [
+              20.4276073,
+              42.3832938
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221904062",
+      "properties": {
+        "addr:city": "Gjakovë",
+        "addr:postcode": "50000",
+        "addr:street": "Fan Stilian Noli",
+        "building": "yes",
+        "name": "Drejtoria e Arsimit",
+        "office": "government",
+        "id": "way/221904062"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4290101,
+              42.3820104
+            ],
+            [
+              20.4289323,
+              42.381844
+            ],
+            [
+              20.4291388,
+              42.3817786
+            ],
+            [
+              20.4292249,
+              42.381943
+            ],
+            [
+              20.4290101,
+              42.3820104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223846750",
+      "properties": {
+        "addr:city": "Hani i Elezit",
+        "building": "yes",
+        "government": "customs",
+        "name": "Terminali Doganor",
+        "name:de": "Zollamt",
+        "name:en": "Customs Terminal",
+        "office": "government",
+        "id": "way/223846750"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.2988771,
+              42.1447605
+            ],
+            [
+              21.3000772,
+              42.142572
+            ],
+            [
+              21.3006959,
+              42.1427374
+            ],
+            [
+              21.2995066,
+              42.1449498
+            ],
+            [
+              21.2988771,
+              42.1447605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230082196",
+      "properties": {
+        "addr:city": "Prizren",
+        "addr:postcode": "20000",
+        "addr:street": "Tahir Sinani",
+        "building": "yes",
+        "government": "tax",
+        "name": "Administrata Tatimore e Kosovës - Prizren",
+        "office": "government",
+        "id": "way/230082196"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.7210432,
+              42.2059542
+            ],
+            [
+              20.7211729,
+              42.2057639
+            ],
+            [
+              20.721375,
+              42.2058395
+            ],
+            [
+              20.7212453,
+              42.2060297
+            ],
+            [
+              20.7210432,
+              42.2059542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/252617012",
+      "properties": {
+        "addr:city": "Lipjan",
+        "addr:housenumber": "28",
+        "addr:postcode": "14000",
+        "addr:street": "Shqipëria",
+        "amenity": "townhall",
+        "building": "yes",
+        "email": "infokomuna.lipjan@rks-gov.net",
+        "government": "yes",
+        "name": "Komuna e Lipjanit",
+        "name:en": "Lipljan Municipality",
+        "name:sr": "Општина Липљан",
+        "phone": "038 200 41 508",
+        "townhall:type": "municipality",
+        "id": "way/252617012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1229074,
+              42.5197803
+            ],
+            [
+              21.1231093,
+              42.5199371
+            ],
+            [
+              21.1233483,
+              42.5201226
+            ],
+            [
+              21.1232226,
+              42.5202105
+            ],
+            [
+              21.123044,
+              42.5200719
+            ],
+            [
+              21.1228988,
+              42.5201734
+            ],
+            [
+              21.1228092,
+              42.5201039
+            ],
+            [
+              21.122941,
+              42.5200117
+            ],
+            [
+              21.1227683,
+              42.5198776
+            ],
+            [
+              21.1229074,
+              42.5197803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307933909",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "addr:street": "Arbënor e Astrit Dehari",
+        "building": "yes",
+        "government": "ministry",
+        "name": "Ministria e Industrisë, Ndërmarrësisë dhe Tregtisë (MINT)",
+        "name:en": "Ministry of Industry, Entrepreneurship and Trade",
+        "name:sq": "Ministria e Industrisë, Ndërmarrësisë dhe Tregtisë (MINT)",
+        "name:sr-Latn": "Ministarstvo Industrije, Poduzetništva i Trgovine",
+        "name_1": "MTI",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 (0) 38 200 36  543",
+        "website": "https://mint.rks-gov.net/",
+        "id": "way/307933909"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1679021,
+              42.6466934
+            ],
+            [
+              21.1673562,
+              42.6469195
+            ],
+            [
+              21.1671121,
+              42.646598
+            ],
+            [
+              21.1675569,
+              42.6464285
+            ],
+            [
+              21.1676477,
+              42.6463939
+            ],
+            [
+              21.1679021,
+              42.6466934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318353925",
+      "properties": {
+        "building": "house",
+        "name": "Instituti i Kosoves per Mbrojtjen e Monumenteve",
+        "name:en": "Kosovo Institute for the Protection of Monuments",
+        "office": "government",
+        "id": "way/318353925"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1684511,
+              42.6658346
+            ],
+            [
+              21.168517,
+              42.6657002
+            ],
+            [
+              21.1687148,
+              42.6657527
+            ],
+            [
+              21.1686489,
+              42.6658871
+            ],
+            [
+              21.1684511,
+              42.6658346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/326454981",
+      "properties": {
+        "building": "yes",
+        "name": "Agjencia e Kosovës për Inteligjencë",
+        "name:de": "Geheimdienst des Kosovo",
+        "name:en": "Kosovo Intelligence Agency",
+        "office": "government",
+        "id": "way/326454981"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1344237,
+              42.6504018
+            ],
+            [
+              21.1343871,
+              42.6503934
+            ],
+            [
+              21.1343564,
+              42.6504388
+            ],
+            [
+              21.1342386,
+              42.6504283
+            ],
+            [
+              21.134242,
+              42.650338
+            ],
+            [
+              21.134303,
+              42.6503269
+            ],
+            [
+              21.1342934,
+              42.650291
+            ],
+            [
+              21.1342334,
+              42.6502955
+            ],
+            [
+              21.1341811,
+              42.6502174
+            ],
+            [
+              21.1342962,
+              42.6501796
+            ],
+            [
+              21.1343325,
+              42.6502096
+            ],
+            [
+              21.1343604,
+              42.6501909
+            ],
+            [
+              21.1343338,
+              42.6501569
+            ],
+            [
+              21.1343988,
+              42.650075
+            ],
+            [
+              21.1344953,
+              42.6501334
+            ],
+            [
+              21.1344835,
+              42.6501715
+            ],
+            [
+              21.1345232,
+              42.6501814
+            ],
+            [
+              21.1345487,
+              42.6501461
+            ],
+            [
+              21.1346804,
+              42.6501445
+            ],
+            [
+              21.1346603,
+              42.6502343
+            ],
+            [
+              21.1346034,
+              42.6502484
+            ],
+            [
+              21.1346113,
+              42.6502754
+            ],
+            [
+              21.1346743,
+              42.6502776
+            ],
+            [
+              21.134738,
+              42.6503528
+            ],
+            [
+              21.1346286,
+              42.650393
+            ],
+            [
+              21.1345744,
+              42.6503622
+            ],
+            [
+              21.1345469,
+              42.6503811
+            ],
+            [
+              21.1345865,
+              42.6504233
+            ],
+            [
+              21.134513,
+              42.6504981
+            ],
+            [
+              21.1344037,
+              42.6504513
+            ],
+            [
+              21.1344237,
+              42.6504018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/380097587",
+      "properties": {
+        "building": "yes",
+        "government": "agency",
+        "name": "AShNa - Agjencia e Shërbimeve të Navigacionit Ajror",
+        "office": "government",
+        "id": "way/380097587"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.029455,
+              42.5780724
+            ],
+            [
+              21.0295187,
+              42.5773734
+            ],
+            [
+              21.0297661,
+              42.5773856
+            ],
+            [
+              21.0297023,
+              42.5780846
+            ],
+            [
+              21.029455,
+              42.5780724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/380977831",
+      "properties": {
+        "addr:city": "Pejë",
+        "building": "public",
+        "government": "tax",
+        "name": "Administrata Tatimore e Kosovës - Pejë",
+        "name:en": "Tax Administration of Kosovo - Peja",
+        "name:sq": "Administrata Tatimore e Kosovës - Pejë",
+        "name:sr-Latn": "Poreska administracija Kosovo - Peć",
+        "office": "government",
+        "id": "way/380977831"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.2888305,
+              42.659821
+            ],
+            [
+              20.288818,
+              42.6595979
+            ],
+            [
+              20.2889966,
+              42.6595925
+            ],
+            [
+              20.2890092,
+              42.6598156
+            ],
+            [
+              20.2888305,
+              42.659821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/409057475",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "addr:street": "Luan Haradinaj",
+        "building": "yes",
+        "building:levels": "7",
+        "email": "zip-mpb@rks-gov.net",
+        "government": "ministry",
+        "name": "Ministria e Punëve të Brendshme (MPB)",
+        "name:en": "Ministry of Internal Affairs",
+        "name:sq": "Ministria e Punëve të Brendshme",
+        "name:sr-Latn": "Ministarstvo Unutrašnjih Poslova",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 38 521 033",
+        "website": "http://mpb.rks-gov.net",
+        "id": "way/409057475"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1585011,
+              42.6623372
+            ],
+            [
+              21.158731,
+              42.6622767
+            ],
+            [
+              21.1588093,
+              42.6622561
+            ],
+            [
+              21.1588422,
+              42.6623237
+            ],
+            [
+              21.1589187,
+              42.6623036
+            ],
+            [
+              21.1589486,
+              42.662365
+            ],
+            [
+              21.1589216,
+              42.6623721
+            ],
+            [
+              21.1589463,
+              42.6624228
+            ],
+            [
+              21.1589766,
+              42.6624149
+            ],
+            [
+              21.1590084,
+              42.6624804
+            ],
+            [
+              21.1586604,
+              42.6625718
+            ],
+            [
+              21.1586252,
+              42.6624993
+            ],
+            [
+              21.1586423,
+              42.6624948
+            ],
+            [
+              21.1586228,
+              42.6624547
+            ],
+            [
+              21.1585992,
+              42.6624609
+            ],
+            [
+              21.1585677,
+              42.662396
+            ],
+            [
+              21.158534,
+              42.6624049
+            ],
+            [
+              21.1585011,
+              42.6623372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/416994709",
+      "properties": {
+        "building": "yes",
+        "name": "Terminali Doganor",
+        "name:de": "Zollamt",
+        "name:en": "Customs Terminal",
+        "office": "government",
+        "id": "way/416994709"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.7269499,
+              42.2535712
+            ],
+            [
+              20.726924,
+              42.2530878
+            ],
+            [
+              20.727128,
+              42.2530818
+            ],
+            [
+              20.7271538,
+              42.2535653
+            ],
+            [
+              20.7269499,
+              42.2535712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/451316609",
+      "properties": {
+        "addr:city": "Gjakova",
+        "addr:postcode": "50000",
+        "addr:street": "Tirana",
+        "building": "public",
+        "building:levels": "1",
+        "name": "Drejtoria per Gjeodezi, Kadastës dhe Pronë- Gjakovë",
+        "office": "government",
+        "id": "way/451316609"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4354168,
+              42.3867457
+            ],
+            [
+              20.4351694,
+              42.3870144
+            ],
+            [
+              20.4350557,
+              42.3869573
+            ],
+            [
+              20.4353032,
+              42.3866887
+            ],
+            [
+              20.4354168,
+              42.3867457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/451368637",
+      "properties": {
+        "building": "yes",
+        "government": "customs",
+        "name": "Terminali Doganor",
+        "name:de": "Zollamt",
+        "name:en": "Customs Terminal",
+        "office": "government",
+        "id": "way/451368637"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0824114,
+              42.6193774
+            ],
+            [
+              21.0815235,
+              42.6193341
+            ],
+            [
+              21.0815584,
+              42.6189477
+            ],
+            [
+              21.0824463,
+              42.6189912
+            ],
+            [
+              21.0824114,
+              42.6193774
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/460317382",
+      "properties": {
+        "addr:postcode": "60000",
+        "addr:street": "Marie Shllaku",
+        "building": "public",
+        "building:levels": "2",
+        "name": "Agjencia e Regjistimit Civil (MPB)",
+        "name:en": "Civil Registration Agency (MIA)",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "website": "https://mpb.rks-gov.net/",
+        "id": "way/460317382"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4797277,
+              42.47069
+            ],
+            [
+              21.4798313,
+              42.4706119
+            ],
+            [
+              21.4799128,
+              42.4706706
+            ],
+            [
+              21.4799304,
+              42.4706573
+            ],
+            [
+              21.4800333,
+              42.4707316
+            ],
+            [
+              21.4800137,
+              42.4707464
+            ],
+            [
+              21.4800533,
+              42.4707749
+            ],
+            [
+              21.4799516,
+              42.4708516
+            ],
+            [
+              21.4797277,
+              42.47069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/472684066",
+      "properties": {
+        "building": "yes",
+        "name": "Drejtoria e Arsimit",
+        "office": "government",
+        "id": "way/472684066"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.7392068,
+              42.2079816
+            ],
+            [
+              20.7391059,
+              42.2080629
+            ],
+            [
+              20.7390227,
+              42.2079882
+            ],
+            [
+              20.7391378,
+              42.2079069
+            ],
+            [
+              20.7392068,
+              42.2079816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/491118647",
+      "properties": {
+        "addr:city": "Gjakovë",
+        "addr:housenumber": "489",
+        "addr:postcode": "50000",
+        "addr:street": "Nënë Tereza",
+        "building": "yes",
+        "government": "tax",
+        "name": "Administrata Tatimore e Kosovës - Gjakovë",
+        "office": "government",
+        "id": "way/491118647"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.4311097,
+              42.3798171
+            ],
+            [
+              20.4311085,
+              42.3797067
+            ],
+            [
+              20.4314095,
+              42.379703
+            ],
+            [
+              20.4314107,
+              42.37981
+            ],
+            [
+              20.4311097,
+              42.3798171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/510699308",
+      "properties": {
+        "addr:city": "Gjilan",
+        "addr:postcode": "60000",
+        "addr:street": "Bulevardi i Pavarësisë",
+        "building": "public",
+        "building:levels": "3",
+        "government": "tax",
+        "name": "Administrata Tatimore e Kosovës - Gjilan",
+        "name:en": "Tax Administration of Kosovo - Gjilan",
+        "name:sq": "Administrata Tatimore e Kosovës - Gjilan",
+        "name:sr-Latn": "Poreska Administracija Kosovo - Gnjilane",
+        "office": "government",
+        "id": "way/510699308"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4688977,
+              42.4622992
+            ],
+            [
+              21.4690068,
+              42.4622475
+            ],
+            [
+              21.4691019,
+              42.4623567
+            ],
+            [
+              21.4689934,
+              42.4624081
+            ],
+            [
+              21.4690092,
+              42.4624263
+            ],
+            [
+              21.4688843,
+              42.4624855
+            ],
+            [
+              21.4687384,
+              42.4623179
+            ],
+            [
+              21.4688627,
+              42.462259
+            ],
+            [
+              21.4688977,
+              42.4622992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/597795543",
+      "properties": {
+        "addr:city": "Prishtina",
+        "addr:postcode": "10000",
+        "building": "yes",
+        "government": "tax",
+        "name": "Administrata Tatimore e Kosovës - Head Office",
+        "office": "government",
+        "id": "way/597795543"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.159049,
+              42.6552875
+            ],
+            [
+              21.1590182,
+              42.6551617
+            ],
+            [
+              21.1593109,
+              42.6551175
+            ],
+            [
+              21.1593478,
+              42.6552467
+            ],
+            [
+              21.159049,
+              42.6552875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/608981133",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "building": "yes",
+        "building_1": "office",
+        "email": "informimi.mfsk@gmail.com",
+        "government": "ministry",
+        "name": "Ministria e Mbrojtjes (MM)",
+        "name:en": "Ministry of Defence",
+        "name:sr": "Ministartsvo Odbrane",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 38 554 063",
+        "website": "https://mksf-ks.org/",
+        "id": "way/608981133"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1392355,
+              42.6553096
+            ],
+            [
+              21.1388117,
+              42.6549426
+            ],
+            [
+              21.139316,
+              42.6545915
+            ],
+            [
+              21.1397612,
+              42.65499
+            ],
+            [
+              21.1392355,
+              42.6553096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/645171851",
+      "properties": {
+        "building": "yes",
+        "name": "Qendra e Regjistrimit",
+        "office": "government",
+        "id": "way/645171851"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.8319256,
+              42.3620784
+            ],
+            [
+              20.8317286,
+              42.3619504
+            ],
+            [
+              20.8318787,
+              42.3618243
+            ],
+            [
+              20.8320757,
+              42.3619523
+            ],
+            [
+              20.8319256,
+              42.3620784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/657612959",
+      "properties": {
+        "addr:city": "Obiliq",
+        "addr:housenumber": "21",
+        "addr:postcode": "15000",
+        "addr:street": "Adem Jashari",
+        "building": "yes",
+        "building:levels": "2",
+        "government": "register_office",
+        "name": "Zyra e Gjendjes Civile",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "smoking": "outside",
+        "id": "way/657612959"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0698109,
+              42.6866127
+            ],
+            [
+              21.0696986,
+              42.6864476
+            ],
+            [
+              21.0700028,
+              42.6863358
+            ],
+            [
+              21.0701151,
+              42.6865009
+            ],
+            [
+              21.0698109,
+              42.6866127
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/714930067",
+      "properties": {
+        "building": "yes",
+        "name": "Zyra e Gjendjes Civile - Shalë",
+        "office": "government",
+        "id": "way/714930067"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.9184407,
+              42.5075835
+            ],
+            [
+              20.9185641,
+              42.5077031
+            ],
+            [
+              20.9184555,
+              42.5077644
+            ],
+            [
+              20.9183281,
+              42.5076398
+            ],
+            [
+              20.9183733,
+              42.5076172
+            ],
+            [
+              20.9184407,
+              42.5075835
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/729402125",
+      "properties": {
+        "addr:city": "Deçan",
+        "addr:housenumber": "3",
+        "addr:postcode": "51000",
+        "addr:street": "Jashar Salihu",
+        "amenity": "townhall",
+        "building": "public",
+        "government": "yes",
+        "name": "Komuna e Deçanit",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "townhall:type": "municipality",
+        "website": "https://kk.rks-gov.net/decan/",
+        "id": "way/729402125"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.2872548,
+              42.5398191
+            ],
+            [
+              20.2874452,
+              42.5395664
+            ],
+            [
+              20.2877918,
+              42.5397082
+            ],
+            [
+              20.2876014,
+              42.5399609
+            ],
+            [
+              20.2872548,
+              42.5398191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/731598635",
+      "properties": {
+        "addr:city": "Gjilan",
+        "addr:postcode": "60000",
+        "addr:street": "Ibrahim Rugova",
+        "building": "public",
+        "building:levels": "3",
+        "government": "administrative",
+        "name": "Drejtoria e Administratës Komunale",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "way/731598635"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4682539,
+              42.4620071
+            ],
+            [
+              21.4681358,
+              42.4618709
+            ],
+            [
+              21.4682958,
+              42.4617953
+            ],
+            [
+              21.4683209,
+              42.4618242
+            ],
+            [
+              21.4683705,
+              42.4618007
+            ],
+            [
+              21.4683472,
+              42.4617738
+            ],
+            [
+              21.4683857,
+              42.4617556
+            ],
+            [
+              21.4683591,
+              42.461725
+            ],
+            [
+              21.4684862,
+              42.461665
+            ],
+            [
+              21.4685609,
+              42.4617512
+            ],
+            [
+              21.4684991,
+              42.4617803
+            ],
+            [
+              21.4685448,
+              42.4618331
+            ],
+            [
+              21.4684014,
+              42.4619007
+            ],
+            [
+              21.468424,
+              42.4619268
+            ],
+            [
+              21.4682539,
+              42.4620071
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/735475459",
+      "properties": {
+        "building": "yes",
+        "government": "administrative",
+        "name": "Instituti i Kosovës për Administratë Publike - IKAP",
+        "office": "government",
+        "id": "way/735475459"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1801625,
+              42.6332853
+            ],
+            [
+              21.1800719,
+              42.6332732
+            ],
+            [
+              21.1794543,
+              42.6331906
+            ],
+            [
+              21.1795241,
+              42.6329084
+            ],
+            [
+              21.1802242,
+              42.6330011
+            ],
+            [
+              21.1801625,
+              42.6332853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/735475460",
+      "properties": {
+        "building": "construction",
+        "name": "Komisioni i Pavarur për Media - KPM",
+        "office": "government",
+        "id": "way/735475460"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1809349,
+              42.6332043
+            ],
+            [
+              21.1808169,
+              42.633003
+            ],
+            [
+              21.1811602,
+              42.6329044
+            ],
+            [
+              21.1812568,
+              42.6331174
+            ],
+            [
+              21.1809349,
+              42.6332043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/735475461",
+      "properties": {
+        "building": "construction",
+        "name": "Komisioni i Pavarur për Miniera dhe Minerale & Agjencioni i Kosovës për Mbrojtjen e Mjedisit - KPMM & AKMM",
+        "office": "government",
+        "id": "way/735475461"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1809617,
+              42.6327782
+            ],
+            [
+              21.1804092,
+              42.6326874
+            ],
+            [
+              21.1804468,
+              42.6325019
+            ],
+            [
+              21.18101,
+              42.6325966
+            ],
+            [
+              21.1809617,
+              42.6327782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/735475462",
+      "properties": {
+        "building": "construction",
+        "name": "Shërbimi Gjeologjik & Agjencioni i Kosovës për Mbrojtje nga Rrëzatimi - SHGJK & AKMRr",
+        "office": "government",
+        "id": "way/735475462"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.180141,
+              42.6326617
+            ],
+            [
+              21.1796153,
+              42.6325551
+            ],
+            [
+              21.1796904,
+              42.6323578
+            ],
+            [
+              21.1802161,
+              42.6324643
+            ],
+            [
+              21.180141,
+              42.6326617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/735475463",
+      "properties": {
+        "building": "construction",
+        "name": "Agjencioni Kadastral i Kosovës - AKK",
+        "office": "government",
+        "id": "way/735475463"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1794651,
+              42.6325275
+            ],
+            [
+              21.1789394,
+              42.632421
+            ],
+            [
+              21.1790145,
+              42.6322236
+            ],
+            [
+              21.1795402,
+              42.6323302
+            ],
+            [
+              21.1794651,
+              42.6325275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/735475464",
+      "properties": {
+        "building": "construction",
+        "name": "Qendra për Vlerësim dhe Standarde - QVS",
+        "office": "government",
+        "id": "way/735475464"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1787777,
+              42.6324671
+            ],
+            [
+              21.1782552,
+              42.6323847
+            ],
+            [
+              21.1782916,
+              42.6321815
+            ],
+            [
+              21.1788394,
+              42.632268
+            ],
+            [
+              21.1787777,
+              42.6324671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/735475465",
+      "properties": {
+        "building": "construction",
+        "level": "3",
+        "name": "Akademia e Drejtësisë së Kosovës - ADK",
+        "office": "government",
+        "id": "way/735475465"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1793765,
+              42.6329133
+            ],
+            [
+              21.1788508,
+              42.6328264
+            ],
+            [
+              21.1788991,
+              42.6326331
+            ],
+            [
+              21.1794301,
+              42.6327239
+            ],
+            [
+              21.1793765,
+              42.6329133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/742185925",
+      "properties": {
+        "building": "yes",
+        "name": "Qendra Komunale e Regjistrimit të Automjeteve (QKRA)",
+        "office": "government",
+        "id": "way/742185925"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0454513,
+              42.4298701
+            ],
+            [
+              21.0454513,
+              42.4296901
+            ],
+            [
+              21.0456651,
+              42.4296901
+            ],
+            [
+              21.0456651,
+              42.4298701
+            ],
+            [
+              21.0454513,
+              42.4298701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/758816561",
+      "properties": {
+        "addr:city": "Podujevë",
+        "addr:housenumber": "49",
+        "addr:postcode": "11000",
+        "addr:street": "Nuhi Gashi",
+        "building": "yes",
+        "government": "legislative",
+        "name": "Kuvendi Komunal i Podujeves",
+        "office": "government",
+        "id": "way/758816561"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1923104,
+              42.9114254
+            ],
+            [
+              21.1921439,
+              42.9113861
+            ],
+            [
+              21.192218,
+              42.9112327
+            ],
+            [
+              21.1921906,
+              42.9112253
+            ],
+            [
+              21.1922576,
+              42.9110949
+            ],
+            [
+              21.1922863,
+              42.9111022
+            ],
+            [
+              21.1923794,
+              42.9109121
+            ],
+            [
+              21.1925525,
+              42.910962
+            ],
+            [
+              21.1924571,
+              42.9111516
+            ],
+            [
+              21.1925421,
+              42.9111753
+            ],
+            [
+              21.1924778,
+              42.9113025
+            ],
+            [
+              21.1923844,
+              42.9112766
+            ],
+            [
+              21.1923104,
+              42.9114254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/778792998",
+      "properties": {
+        "addr:city": "Prishtinë: Kosovë",
+        "addr:housenumber": "7",
+        "addr:postcode": "10000",
+        "addr:street": "Tringë Smajli",
+        "building": "yes",
+        "building:levels": "3",
+        "email": "zkp.mf@rks-gov.net",
+        "government": "ministry",
+        "height": "18",
+        "name": "Ministria i Financave, Punës dhe Transfereve (MFPT)",
+        "name:de": "Ministerium der Finanzen, Arbeit und Transfers",
+        "name:en": "Ministry of Finance, Labour and Transfers (MFLT)",
+        "name:sq": "Ministria i Financave, Punës dhe Transfereve (MFPT)",
+        "name:sr-Latn": "Ministarstvo za Finansije, Rada i Transfere (MFRT)",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 38 20034008",
+        "website": "https://mf.rks-gov.net/",
+        "wikidata": "Q65315322",
+        "wikipedia": "sq:Ministria e Financave e Kosovës",
+        "id": "way/778792998"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1654501,
+              42.6621364
+            ],
+            [
+              21.1654448,
+              42.6619482
+            ],
+            [
+              21.1656656,
+              42.6619494
+            ],
+            [
+              21.1656627,
+              42.6621359
+            ],
+            [
+              21.1654501,
+              42.6621364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/802062565",
+      "properties": {
+        "building": "yes",
+        "government": "register_office",
+        "office": "government",
+        "id": "way/802062565"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.717672,
+              42.2067044
+            ],
+            [
+              20.7178131,
+              42.2063614
+            ],
+            [
+              20.7179035,
+              42.2063823
+            ],
+            [
+              20.7177529,
+              42.2067002
+            ],
+            [
+              20.7177435,
+              42.2067225
+            ],
+            [
+              20.717672,
+              42.2067044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/860099465",
+      "properties": {
+        "building": "yes",
+        "name": "Instituti Bujqësor i Kosovës",
+        "office": "government",
+        "id": "way/860099465"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.3030696,
+              42.6660764
+            ],
+            [
+              20.302922,
+              42.6659599
+            ],
+            [
+              20.3032738,
+              42.6657188
+            ],
+            [
+              20.3033325,
+              42.6657652
+            ],
+            [
+              20.3030898,
+              42.6659314
+            ],
+            [
+              20.3031787,
+              42.6660016
+            ],
+            [
+              20.3030696,
+              42.6660764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/867763547",
+      "properties": {
+        "addr:postcode": "30000",
+        "addr:street": "KONGRESI I MANASTIRIT",
+        "building": "yes",
+        "description": "Peja Office",
+        "name": "UNHCR",
+        "office": "government",
+        "id": "way/867763547"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.2965331,
+              42.6537999
+            ],
+            [
+              20.2964769,
+              42.653675
+            ],
+            [
+              20.2966593,
+              42.6536306
+            ],
+            [
+              20.2967155,
+              42.6537556
+            ],
+            [
+              20.2965331,
+              42.6537999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/875147121",
+      "properties": {
+        "building": "yes",
+        "government": "register_office",
+        "office": "government",
+        "id": "way/875147121"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1446991,
+              42.9028865
+            ],
+            [
+              21.1446189,
+              42.9027949
+            ],
+            [
+              21.1447254,
+              42.9027449
+            ],
+            [
+              21.1448056,
+              42.9028365
+            ],
+            [
+              21.1446991,
+              42.9028865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/919825323",
+      "properties": {
+        "addr:city": "Vushtrri",
+        "addr:postcode": "42000",
+        "addr:street": "Daut Imeri",
+        "building": "yes",
+        "government": "public_service",
+        "name": "Ariani Company",
+        "office": "government",
+        "opening_hours": "sunrise-sunset",
+        "id": "way/919825323"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.9804476,
+              42.8198671
+            ],
+            [
+              20.9802491,
+              42.819724
+            ],
+            [
+              20.9803638,
+              42.8196384
+            ],
+            [
+              20.9805623,
+              42.8197815
+            ],
+            [
+              20.9804476,
+              42.8198671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/929242481",
+      "properties": {
+        "addr:city": "Muçivërc",
+        "addr:housenumber": "15",
+        "addr:postcode": "62070",
+        "addr:street": "Veteranët e UÇK-së",
+        "building": "yes",
+        "government": "register_office",
+        "name": "Qendra e Regjistrimit Civil Muçivërc",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "way/929242481"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.6585142,
+              42.5594761
+            ],
+            [
+              21.6584776,
+              42.5594385
+            ],
+            [
+              21.658485,
+              42.5594162
+            ],
+            [
+              21.6584576,
+              42.5594112
+            ],
+            [
+              21.6584718,
+              42.5593684
+            ],
+            [
+              21.6585003,
+              42.5593735
+            ],
+            [
+              21.6585111,
+              42.5593407
+            ],
+            [
+              21.6585538,
+              42.5593173
+            ],
+            [
+              21.6585876,
+              42.5593506
+            ],
+            [
+              21.6585782,
+              42.5593842
+            ],
+            [
+              21.658597,
+              42.5593911
+            ],
+            [
+              21.6585849,
+              42.5594306
+            ],
+            [
+              21.658564,
+              42.5594311
+            ],
+            [
+              21.6585648,
+              42.5594494
+            ],
+            [
+              21.6585142,
+              42.5594761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1142771563",
+      "properties": {
+        "int_name": "Transportation and Railway Authority",
+        "name": "Railway Regulatory Authority",
+        "office": "government",
+        "id": "node/1142771563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1677395,
+          42.6606788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420936222",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housename": "Ministria e Drejtësisë",
+        "addr:postcode": "10000",
+        "addr:street": "Ndërtesa e ish Rilindjes Kati IX, Zyra 905 - Rruga. Pasko Vasha",
+        "email": "zkp.md@rks-gov.net",
+        "government": "ministry",
+        "int_name": "Ministry of Justice",
+        "name": "Ministria e Drejtësisë (MD)",
+        "name:en": "Ministry of Justice",
+        "name:sq": "Ministria e Drejtësisë (MD)",
+        "name:sr": "Министарство правде",
+        "name:sr-Latn": "Ministarstvo pravde",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 800 10010",
+        "website": "www.md-ks.org",
+        "id": "node/1420936222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1561067,
+          42.6596367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420940216",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housename": "Presidenca",
+        "addr:postcode": "10000",
+        "addr:street": "Ndërtesa e Kuvendit, Sheshi “ Nëna Terezë - Rruga Agim Ramadani",
+        "government": "yes",
+        "int_name": "President Office",
+        "name": "Zyra e Presidentit të Kosovës",
+        "name:de": "Büro des Präsidenten der Republik Kosovo",
+        "name:en": "Office of the President of the Republic of Kosovo",
+        "name:fr": "Bureau du Président de la République du Kosovo",
+        "name:sq": "Zyra e Presidentit të Kosovës",
+        "name:sr": "Кабинет председника Косова",
+        "name:sr-Latn": "Kabinet predsednika Kosova",
+        "office": "government",
+        "website": "https://www.president-ksgov.net/",
+        "id": "node/1420940216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1646911,
+          42.6647296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420984996",
+      "properties": {
+        "addr:city": "Prishtinë: Kosovë",
+        "addr:housename": "Ministria e Administrimit të Pushtetit Lokal",
+        "addr:postcode": "10000",
+        "addr:street": "Ndërtesa e Ish Rilindjes -Rruga Pashko Vasa",
+        "email": "info.mapl@rks-gov.net",
+        "government": "ministry",
+        "name": "Ministria e Administrimit të Pushtetit Lokal (MAPL)",
+        "name:en": "Ministry of Local Government Administration",
+        "name:sq": "Ministria e Administrimit të Pushtetit Lokal (MAPL)",
+        "name:sr": "Министарство администрације локалне самоуправе (МАЛС)",
+        "name:sr-Latn": "Ministarstvo administracije lokalne samouprave (MALS)",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+3833820035567",
+        "website": "https://mapl.rks-gov.net/",
+        "id": "node/1420984996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1559944,
+          42.6593045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1421032344",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "addr:street": "Sheshi Nënë Tereza",
+        "email": "info@mkrs-ks.org",
+        "government": "ministry",
+        "int_name": "Ministry of Culture, Youth and Sports",
+        "name": "Ministria e Kulturës, Rinisë dhe Sportit (MKRS)",
+        "name:en": "Ministry of Culture, Youth and Sport",
+        "name:sq": "Ministria e Kulturës, Rinisë dhe Sportit (MKRS)",
+        "name:sr": "Министарство културе, омладине и спорта7",
+        "name:sr-Latn": "Ministarstvo kulture, omladine i sporta",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 38 211 637",
+        "website": "https://www.mkrs-ks.org/",
+        "id": "node/1421032344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.162658,
+          42.6615426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1421041089",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housenumber": "35",
+        "addr:postcode": "10000",
+        "addr:street": "Nëna Terezë",
+        "email": "mbpzhr@rks-gov.net",
+        "government": "ministry",
+        "int_name": "Ministry of Agriculture, Forestry and Rural Development",
+        "name": "Ministria e Bujqësisë, Pylltarisë dhe Zhvillimit Rural (MBPZhR)",
+        "name:en": "Ministry of Agriculture, Forestry and Rural Development",
+        "name:sq": "Ministria e Bujqësisë, Pylltarisë dhe Zhvillimit Rural (MBPZhR)",
+        "name:sr": "Министарство пољопривреде, шумарства и руралног развоја",
+        "name:sr-Latn": "Ministarstvo poljoprivrede, šumarstva i ruralnog razvoja",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 38 211 821",
+        "website": "https://www.mbpzhr-ks.net/sq",
+        "id": "node/1421041089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1622477,
+          42.6611402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1699683862",
+      "properties": {
+        "name": "Këshilli Prokurorial i Kosovës - KPK",
+        "office": "government",
+        "id": "node/1699683862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1604786,
+          42.6644689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1699730116",
+      "properties": {
+        "name": "Komisioni Qendror i Zgjedhjeve - KQZ",
+        "office": "government",
+        "id": "node/1699730116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1604768,
+          42.6643356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164150691",
+      "properties": {
+        "name": "Departamenti për Shtetësi, Azil dhe Migracion",
+        "name:en": "Department for Citizenship, Asylum and Migration",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:30-15:00",
+        "id": "node/2164150691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1589137,
+          42.6619516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2185508856",
+      "properties": {
+        "boundary": "civil",
+        "name": "Komisioni Rregullativ i Prokurimit Publik",
+        "name:sr": "Регулаторна комисија за јавне набавке",
+        "name:sr-Latn": "Regulatorna komisija za javne nabavke",
+        "note": "04-MAR-13 4:01:51AM",
+        "office": "government",
+        "id": "node/2185508856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.162241,
+          42.6644134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2449401842",
+      "properties": {
+        "name": "Zyra e Gjendjes Civile - Shalë",
+        "office": "government",
+        "id": "node/2449401842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9184587,
+          42.5076361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2854174582",
+      "properties": {
+        "addr:street": "Aziz Abrashi",
+        "government": "election_commission",
+        "name": "Qendra e Numerimit dhe Rezultateve",
+        "office": "government",
+        "website": "http://www.kqz-ks.org/",
+        "id": "node/2854174582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1155995,
+          42.6463264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3129165521",
+      "properties": {
+        "name": "Bashkësia Lokale VI",
+        "office": "government",
+        "opening_hours": "08:00-12:00,13:00-16:00",
+        "id": "node/3129165521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1681624,
+          42.6523906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4292818891",
+      "properties": {
+        "addr:housenumber": "32 / 102",
+        "addr:postcode": "10000",
+        "addr:street": "Luan Haradinaj",
+        "email": "diplomatic.academy@rks-gov.net",
+        "name": "The Diplomatic Academy of the Republic of Kosovo",
+        "name:sq": "Akademia Diplomatike e Republikës së Kosovës",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+3833820077150",
+        "website": "http://www.mfa-ks.net/ad",
+        "id": "node/4292818891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.159685,
+          42.6606244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4292840290",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housenumber": "32",
+        "addr:postcode": "10000",
+        "addr:street": "Luan Haradinaj",
+        "name": "Ministria e Punëve të Jashtme dhe Diasporës (MPJD)",
+        "name:en": "Ministry of Foreign Affairs and Diaspora",
+        "name:sq": "Ministria e Punëve të Jashtme dhe Diasporës (MPJD)",
+        "name:sr-Latn": "Ministarstvo Inostranih Poslova i Dijaspore",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+3833820077087",
+        "website": "http://www.mfa-ks.net",
+        "id": "node/4292840290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1598499,
+          42.6608008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4358654590",
+      "properties": {
+        "addr:postcode": "40000",
+        "addr:street": "Rr. Mbreteresha Teute",
+        "email": "info@pak-ks.org",
+        "name": "Agjencia Kosovare e Privatizimit",
+        "name:en": "Privatization Agency of Kosovo",
+        "name:sq": "Agjencia Kosovare e Privatizimit",
+        "name:sr": "Kosovska Agencija za Privatizaciju",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+38328534690",
+        "website": "http://www.pak-ks.org",
+        "id": "node/4358654590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8679408,
+          42.8907638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4376085290",
+      "properties": {
+        "addr:street": "Rr. Murat Mehmeti",
+        "name": "US Aid",
+        "office": "government",
+        "id": "node/4376085290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.160872,
+          42.6675496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4452595491",
+      "properties": {
+        "name": "Bashkësia Lokale IV",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "node/4452595491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1679002,
+          42.6594504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4511197089",
+      "properties": {
+        "addr:postcode": "51000",
+        "addr:street": "Mentor Tolaj",
+        "name": "Qendra e Regjistrimit Civil (MPB)",
+        "name:sq": "Qendra e Regjistrimit Civil (MPB)",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "node/4511197089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2884239,
+          42.5391827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4570052691",
+      "properties": {
+        "addr:street": "Ibrahim Lutfiu",
+        "name": "Arkivi Komunal i Prishtinës",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "node/4570052691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1684292,
+          42.6676751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4595873908",
+      "properties": {
+        "name": "Qendra për Azilkërkues",
+        "name:ar": "مركز لطالبي اللجوء",
+        "name:de": "Zentrum für Asylsuchende",
+        "name:en": "Center for Asylum Seekers",
+        "name:sq": "Qendra për Azilkërkues",
+        "office": "government",
+        "id": "node/4595873908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0076096,
+          42.5372173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4666716090",
+      "properties": {
+        "addr:postcode": "70000",
+        "addr:street": "Ramadan Rexhepi",
+        "name": "Qendra e Kulturës",
+        "name:sq": "Qendra e Kultures",
+        "office": "government",
+        "phone": "+38344855624",
+        "id": "node/4666716090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1454136,
+          42.3733183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4692447891",
+      "properties": {
+        "addr:postcode": "51010",
+        "name": "Zyra e Komunes - Dega Strellc",
+        "name:sq": "Zyra e Komunes - Dega Strellc",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "node/4692447891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2940284,
+          42.5794047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4695590492",
+      "properties": {
+        "name": "Trusti i Kursimeve Pensionale",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "node/4695590492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1644233,
+          42.6628876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4722317890",
+      "properties": {
+        "name": "DTC Zyra per Kthim",
+        "name:sq": "DTC Zyra per Kthim",
+        "office": "government",
+        "id": "node/4722317890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.875043,
+          42.8884483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4805660880",
+      "properties": {
+        "addr:city": "Prishtina",
+        "addr:housenumber": "25",
+        "addr:postcode": "10000",
+        "addr:street": "ÇLIRIMI",
+        "name": "Agjencia e Arkivave të Kosovës",
+        "office": "government",
+        "opening_hours": "08:00-16:00",
+        "id": "node/4805660880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1685337,
+          42.6463085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4861987321",
+      "properties": {
+        "addr:street": "Bajram Kelmendi",
+        "name": "Bashkësia Islame e Kosovës",
+        "name:en": "Bashkësia Islame e Kosovës",
+        "name:sq": "Bashkësia Islame e Kosovës",
+        "office": "government",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "id": "node/4861987321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1700021,
+          42.6649212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4908061621",
+      "properties": {
+        "addr:street": "Zija Shemsiu",
+        "name": "Bashkësia Lokale",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "id": "node/4908061621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.158692,
+          42.6504625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4955124223",
+      "properties": {
+        "name": "Zyra e vëndit",
+        "office": "government",
+        "id": "node/4955124223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8335396,
+          42.7746638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4982637723",
+      "properties": {
+        "addr:street": "Lidhja e Pejës",
+        "name": "ABB ENERGY",
+        "name:sq": "ABB ENERGY",
+        "office": "government",
+        "opening_hours": "Mo-Sa 08:00-16:00",
+        "id": "node/4982637723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1151628,
+          42.6443682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5039274721",
+      "properties": {
+        "name": "AKI",
+        "name:en": "Inteligence Service",
+        "name:sq": "AKI",
+        "office": "government",
+        "id": "node/5039274721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3002554,
+          42.6293113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5039986722",
+      "properties": {
+        "addr:street": "Nëna Tereza",
+        "name": "Agjencia e Ushqimit dhe e Veterinarise",
+        "name:sq": "Agjencia e Ushqimit dhe e Veterinarise",
+        "office": "government",
+        "website": "http://www.auv-ks.net",
+        "id": "node/5039986722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1197055,
+          42.6438204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5039986723",
+      "properties": {
+        "addr:street": "Aziz Abrashi",
+        "name": "Agjencia e Ushqimit dhe e Veterinarise /Sektori i Identifkimit dhe Regjistrimit te Kafsheve",
+        "name:sq": "Agjencia e Ushqimit dhe e Veterinarise /Sektori i Identifkimit dhe Regjistrimit te Kafsheve",
+        "office": "government",
+        "id": "node/5039986723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.115033,
+          42.6461735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5304094624",
+      "properties": {
+        "addr:postcode": "60000",
+        "addr:street": "Marie Shllaku",
+        "email": "info@pak-ks.org",
+        "name": "Agjencia Kosovare e Privatizimit AKP",
+        "name:en": "Privatization Agency of Kosovo PAK",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383038500400",
+        "website": "http://www.pak-ks.org",
+        "id": "node/5304094624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.485274,
+          42.4722007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5387984423",
+      "properties": {
+        "name": "Zyrja per dokumente",
+        "office": "government",
+        "id": "node/5387984423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7796624,
+          42.9013958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5649431462",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "email": "mi.info@rks-gov.net",
+        "government": "ministry",
+        "name": "Ministria e Mjedisit, Planifikimit Hapësinor dhe Infrastrukturës (MMPHI)",
+        "name:en": "Ministry of Environment, Spatial Planning and Infrastructure",
+        "name:sr-Latn": "Ministarstvo Zivotne Sredine, Prostornog Planiranja i Infrastrukture",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "website": "http://mi-ks.net/",
+        "id": "node/5649431462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1562509,
+          42.6595123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5768612670",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:postcode": "10000",
+        "addr:street": "Nëna Terezë",
+        "email": "zkp.zkm@rks-gov.net",
+        "government": "ministry",
+        "name": "Zyra e Kryeministrit",
+        "name:en": "The Prime Minister Office",
+        "name:sr": "Kancelarija Premijera",
+        "office": "government",
+        "phone": "+383 (0)38 201 14 803",
+        "website": "http://kryeministri-ks.net",
+        "id": "node/5768612670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1636574,
+          42.6643025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5812302982",
+      "properties": {
+        "government": "register_office",
+        "name": "Departamenti i Regjistrimit dhe Gjendjes Civile - MPB",
+        "office": "government",
+        "operator": "Ministria e Punëve të Brendshme",
+        "id": "node/5812302982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0895428,
+          42.6362631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6096019883",
+      "properties": {
+        "addr:city": "Prishtina",
+        "addr:housenumber": "21",
+        "addr:street": "Migjeni",
+        "email": "info.oik@oik-rks.org",
+        "government": "agency",
+        "name": "Institucioni i Avokatit të Popullit",
+        "name:en": "Ombudsperson Institution",
+        "name:sq": "Institucioni i Avokatit të Popullit",
+        "name:sr": "Institucija Ombudsmana",
+        "office": "government",
+        "phone": "+383 38 223 782",
+        "website": "https://oik-rks.org",
+        "id": "node/6096019883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1604735,
+          42.6640811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6211570390",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housenumber": "1",
+        "addr:postcode": "10000",
+        "addr:street": "Anton Çetta",
+        "email": "giz-kosovo-buero@giz.de",
+        "government": "yes",
+        "name": "GIZ-Büro Kosovo",
+        "name:en": "GIZ Office Kosovo",
+        "name:sq": "Zyra e GIZ në Kosovë",
+        "office": "government",
+        "phone": "+383 38 233 002 100",
+        "phone_1": "+383 38 233 002 172",
+        "website": "https://www.giz.de/de/weltweit/298.html",
+        "id": "node/6211570390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1652189,
+          42.6570088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6390816913",
+      "properties": {
+        "name": "ZRRE",
+        "office": "government",
+        "id": "node/6390816913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1721689,
+          42.6543378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6412072285",
+      "properties": {
+        "addr:postcode": "40000",
+        "addr:street": "Bulevardi Mbretëresha Teutë",
+        "email": "waloonn@live.com",
+        "name": "D.P.T Valoni",
+        "office": "government",
+        "opening_hours": "24/7",
+        "id": "node/6412072285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.866017,
+          42.8797431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6657223834",
+      "properties": {
+        "government": "employment_agency",
+        "name": "Mitrovice Employment Office",
+        "office": "government",
+        "id": "node/6657223834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8689603,
+          42.8880698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6790937586",
+      "properties": {
+        "addr:street": "Hilë Mosi",
+        "name:en": "Bashkësia Lokale",
+        "office": "government",
+        "id": "node/6790937586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1749341,
+          42.667451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7376840325",
+      "properties": {
+        "name": "Drejtoria e Përgjithshme e Policisë",
+        "office": "government",
+        "id": "node/7376840325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1588293,
+          42.6624065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7502253808",
+      "properties": {
+        "addr:city": "Prizren",
+        "addr:postcode": "20000",
+        "government": "register_office",
+        "name": "RE-HA N.T.P",
+        "office": "government",
+        "id": "node/7502253808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7177567,
+          42.2065561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8100313523",
+      "properties": {
+        "government": "healthcare",
+        "name": "Fondi i Sigurimeve Shëndetësore",
+        "name:en": "Health Insurance Fund",
+        "office": "government",
+        "phone": "038 200 80 703",
+        "website": "https://fssh.rks-gov.net/",
+        "id": "node/8100313523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1531359,
+          42.6552176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8183911794",
+      "properties": {
+        "name": "RHQ UNMIK Mitrovica",
+        "office": "government",
+        "id": "node/8183911794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8762108,
+          42.8933778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8191189656",
+      "properties": {
+        "name": "MHQ UNMIK",
+        "office": "government",
+        "id": "node/8191189656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1148576,
+          42.6424961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8434883372",
+      "properties": {
+        "addr:city": "Prishtinë",
+        "addr:housenumber": "22",
+        "addr:postcode": "10000",
+        "addr:street": "Zejnel Salihu",
+        "name": "Autoriteti i Aviacionit Civil",
+        "name:en": "Civil Aviation Authority",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+383 38 248 629",
+        "smoking": "no",
+        "website": "http://caa-ks.org",
+        "wikidata": "Q5124416",
+        "wikipedia": "en:Civil Aviation Authority of Kosovo",
+        "id": "node/8434883372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1661819,
+          42.6653399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8434883373",
+      "properties": {
+        "name": "Agjencia e Statistikave të Kosovës",
+        "name:sr": "Агенција за статистику Косова",
+        "name:sr-Latn": "Agencija za statistiku Kosova",
+        "office": "government",
+        "id": "node/8434883373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1659228,
+          42.6652584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8454020834",
+      "properties": {
+        "government": "agriculture",
+        "name": "Agjencia për Zhvillimin e Bujqësisë (AZHB)",
+        "name:en": "Agriculture Development Agency",
+        "name:sq": "Agjencia për Zhvillimin e Bujqësisë (AZHB)",
+        "name:sr-Latn": "Agencija za Razvoj Poljoprivrede",
+        "office": "government",
+        "operator": "Ministria e Bujqësisë, Pylltarisë dhe Zhvillimit Rural",
+        "website": "https://www.azhb-ks.net/sq/ballina",
+        "id": "node/8454020834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1533897,
+          42.6583921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8483788393",
+      "properties": {
+        "name": "Qendra për Dokumentim të Kosovës (QDK)",
+        "office": "government",
+        "id": "node/8483788393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1553342,
+          42.6527688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8638860114",
+      "properties": {
+        "name": "Shtepia e Kultures",
+        "office": "government",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "opening_hours:covid19": "open",
+        "id": "node/8638860114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0691813,
+          42.6871993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9017570891",
+      "properties": {
+        "name": "Agjencia Kosovare për Krahasim dhe Verifikim të Pronës",
+        "name:en": "Kosovo Property Comparison and Verification Agency",
+        "name:sq": "Agjencia Kosovare për Krahasim dhe Verifikim të Pronës",
+        "name:sr-Latn": "Kosovska Agencija za Upoređivanje i Verifikaciju Imovine",
+        "office": "government",
+        "id": "node/9017570891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2905351,
+          42.6601004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9158327576",
+      "properties": {
+        "addr:street": "Safet Latifi",
+        "government": "register_office",
+        "name": "Zyra e Gjendjes Civile",
+        "office": "government",
+        "id": "node/9158327576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.538263,
+          42.4111907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9635342677",
+      "properties": {
+        "addr:housenumber": "40",
+        "name": "Drejtoria Komunale e Arsimit - Komuna e Prishtines",
+        "office": "government",
+        "id": "node/9635342677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1622441,
+          42.6652453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9679169937",
+      "properties": {
+        "name": "Oda Ekonomike e Kosovës",
+        "name:en": "Kosova Chamber of Commerce",
+        "office": "government",
+        "id": "node/9679169937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1628137,
+          42.6627135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9803837797",
+      "properties": {
+        "name": "Prishtina Parking",
+        "office": "government",
+        "phone": "038 224 228",
+        "website": "https://prishtinaparking.net/",
+        "id": "node/9803837797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1585085,
+          42.6614403
+        ]
+      }
+    }
+  ]
+}
