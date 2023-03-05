@@ -1,13 +1,13 @@
 # mundo-maps
 
-### What?
+## What?
 
 - MUNDO is an acronym for "Model United Nations Development and Operations"
 - MUNDO is a Model United Nations focusing on UN peacekeeping operations and the UNDP
 - mundo-maps is focusing simulates the development and operation of geospatial information systems in the United Nations
 - mundo-maps is based on OpenStreetMap, ReliefWeb and other Open Data
 
-### Why?
+## Why?
 
 - The United Nations actively promotes the development of open source software
 - However, much of the actual data from the UN is confidential and not publicly available
@@ -15,7 +15,7 @@
 - Therefore, MUNDO explores the requirements of the UN by conducting a Model UN based on Open Data
 - The goal is to develop more useful OSS through these simulations
 
-### How?
+## How?
 
 - mundo-maps retrieves OpenStreetMap data through the Overpass API
   - You can define your concerns in a YAML file to retrieve data from OpenStreetMap
