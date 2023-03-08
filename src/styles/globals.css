@@ -101,7 +101,9 @@ a {
   text-decoration: none;
 }
 
-h3 a {
+h3 a,
+.titleText {
+  color: rgba(0, 0, 0, 1) !important;
   color: inherit;
 }
 

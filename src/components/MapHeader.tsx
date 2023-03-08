@@ -100,28 +100,20 @@ export const MapHeader: React.FC<{
               verticalAlign: "middle",
             }}
             alt="UN Open GIS logo"
-            src="/Small_Flag_of_the_United_Nations_ZP.svg"
-            width={80}
-            height={80}
-          />
-          <Image
-            style={{
-              display: "inline-block",
-              verticalAlign: "middle",
-            }}
-            alt="UN Open GIS logo"
-            src="Logo_of_the_United_Nations.svg"
-            width={80}
-            height={80}
+            src="/Logo_of_the_United_Nations.svg"
+            width={110}
+            height={50}
           />
         </Link>
       </div>
       <div className={styles.titleWrap}>
         <h3 className={`${inter.className} ${styles.title}`}>
           {missionName ? (
-            <span>{missionName}</span>
+            <span className="titleText">{missionName}</span>
           ) : (
-            <Link href={"/"}>MUNDO Maps</Link>
+            <Link className="titleText" href={"/"}>
+              MUNDO Maps
+            </Link>
           )}
         </h3>
       </div>
@@ -159,6 +151,7 @@ export const MapHeader: React.FC<{
                 whiteSpace: "nowrap",
                 paddingLeft: "15px",
                 fontFamily: "sans-serif, emoji",
+                color: "rgba(0, 0, 0, 0.9",
               }}
             >
               <input

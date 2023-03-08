@@ -10,7 +10,7 @@
   max-width: 100%;
   overflow-x: auto;
   overflow-y: hidden;
-  background-color: rgba(0, 158, 219, 1);
+  background-color: rgba(255, 2550, 255, 1);
   backdrop-filter: blur(4px);
   z-index: 10000;
   font-family: "sans-serif, emoji";
@@ -19,6 +19,8 @@
 .logoWrap {
   padding-left: 10px;
   text-align: center;
+  padding-right: 10px;
+  border-right: 2px solid gray;
 }
 
 .titleWrap {
