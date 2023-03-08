@@ -100,9 +100,19 @@ export const MapHeader: React.FC<{
               verticalAlign: "middle",
             }}
             alt="UN Open GIS logo"
-            src="/unopengis_logo.png"
-            width={40}
-            height={40}
+            src="/Small_Flag_of_the_United_Nations_ZP.svg"
+            width={80}
+            height={80}
+          />
+          <Image
+            style={{
+              display: "inline-block",
+              verticalAlign: "middle",
+            }}
+            alt="UN Open GIS logo"
+            src="Logo_of_the_United_Nations.svg"
+            width={80}
+            height={80}
           />
         </Link>
       </div>
