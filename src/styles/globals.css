@@ -86,8 +86,8 @@ body {
 }
 
 body {
-  color: rgba(var(--foreground-rgba));
-  background-color: rgba(0, 0, 0, 0.1);
+  color: white;
+  background-color: rgba(0, 158, 219);
   backdrop-filter: blue(2px);
 }
 
@@ -96,8 +96,13 @@ h2 {
 }
 
 a {
-  color: rgba(var(--foreground-rgba));
+  color: white;
+  font-weight: bold;
   text-decoration: none;
+}
+
+h3 a {
+  color: inherit;
 }
 
 @font-face {

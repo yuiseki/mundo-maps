@@ -107,7 +107,7 @@ export const MapHeader: React.FC<{
         </Link>
       </div>
       <div className={styles.titleWrap}>
-        <h3 className={inter.className}>
+        <h3 className={`${inter.className} ${styles.title}`}>
           {missionName ? (
             <span>{missionName}</span>
           ) : (
