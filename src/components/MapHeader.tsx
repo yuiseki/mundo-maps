@@ -108,12 +108,14 @@ export const MapHeader: React.FC<{
       </div>
       <div className={styles.titleWrap}>
         <h3 className={`${inter.className} ${styles.title}`}>
-          {missionName ? (
-            <span className="titleText">{missionName}</span>
-          ) : (
-            <Link className="titleText" href={"/"}>
-              MUNDO Maps
-            </Link>
+          <Link className="titleText" href={"/"}>
+            MUNDO Maps
+          </Link>
+          {missionName && (
+            <>
+              <span className="titleText">{" | "}</span>
+              <span className="titleText">{missionName}</span>
+            </>
           )}
         </h3>
       </div>
