@@ -39,7 +39,7 @@ export const GeoJSONToMarkers: React.FC<{
     [map]
   );
 
-  if (geojson === undefined) {
+  if (geojson === undefined || geojson.features === undefined) {
     return null;
   }
 
