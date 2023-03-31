@@ -1,5 +1,4 @@
-import Image from "next/image";
-
+/* eslint-disable @next/next/no-img-element */
 import styles from "@/styles/MapHeader.module.css";
 import Link from "next/link";
 import React, { useCallback, useEffect, useState } from "react";
@@ -94,7 +93,7 @@ export const MapHeader: React.FC<{
     <div className={styles.header}>
       <div className={styles.logoWrap}>
         <Link href={"/"}>
-          <Image
+          <img
             style={{
               display: "inline-block",
               verticalAlign: "middle",
