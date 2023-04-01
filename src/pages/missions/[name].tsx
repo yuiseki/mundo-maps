@@ -37,22 +37,26 @@ const Mission = () => {
   const countryBoundaryDataUrl = missionName
     ? `/data/${missionName}/boundary.geojson`
     : undefined;
-  const { data: boundaryGeoJSON } = useSWR(countryBoundaryDataUrl, fetcher);
+  const { data: boundaryGeoJSON, error: boundaryGeoJSONError } = useSWR(countryBoundaryDataUrl, fetcher);
+  console.log(boundaryGeoJSONError);
 
   // 初回のみ地図をデータにあわせる
   useEffect(() => {
     setTimeout(() => {
       if (!mapRef || !mapRef.current) return;
       if (!boundaryGeoJSON) return;
-      const [minLng, minLat, maxLng, maxLat] = turf.bbox(boundaryGeoJSON);
+      try {
+        console.log(bundaryGeoJSON);
+        const [minLng, minLat, maxLng, maxLat] = turf.bbox(boundaryGeoJSON);
 
-      mapRef.current.fitBounds(
-        [
-          [minLng, minLat],
-          [maxLng, maxLat],
-        ],
-        { padding: 40, duration: 1000 }
-      );
+        mapRef.current.fitBounds(
+          [
+            [minLng, minLat],
+            [maxLng, maxLat],
+          ],
+          { padding: 40, duration: 1000 }
+        );
+      } catch (e) { console.error(e); }
     }, 500);
   }, [boundaryGeoJSON]);
 
