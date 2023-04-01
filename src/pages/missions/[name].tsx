@@ -38,15 +38,16 @@ const Mission = () => {
     ? `/data/${missionName}/boundary.geojson`
     : undefined;
   const { data: boundaryGeoJSON, error: boundaryGeoJSONError } = useSWR(countryBoundaryDataUrl, fetcher);
+  console.log(boundaryGeoJSON);
   console.log(boundaryGeoJSONError);
 
   // 初回のみ地図をデータにあわせる
   useEffect(() => {
     setTimeout(() => {
       if (!mapRef || !mapRef.current) return;
-      if (!boundaryGeoJSON) return;
+      if (boundaryGeoJSON === undefined) return;
       try {
-        console.log(bundaryGeoJSON);
+        console.log(boundaryGeoJSON);
         const [minLng, minLat, maxLng, maxLat] = turf.bbox(boundaryGeoJSON);
 
         mapRef.current.fitBounds(
@@ -56,7 +57,9 @@ const Mission = () => {
           ],
           { padding: 40, duration: 1000 }
         );
-      } catch (e) { console.error(e); }
+      } catch (e) {
+        console.error(e);
+      }
     }, 500);
   }, [boundaryGeoJSON]);
 
