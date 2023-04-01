@@ -7,7 +7,7 @@ export const BaseMapStyleOptions = () => {
         🗺 OSM JP bright (vector)
       </option>
       <option value={"/maps/HOT/style.json"}>🗺 OSM HOT (raster)</option>
-      <option value={"http://localhost/vector-tile/style.json"}>
+      <option value={"http://raspberrypi.local/style.json"}>
         🗺 localhost tilemaker (vector)
       </option>
       <option value={"/maps/ArcGIS/World_Imagery/style.json"}>

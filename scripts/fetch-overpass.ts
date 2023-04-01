@@ -36,10 +36,9 @@ out geom;
 const fetchAndSaveAdminBoundary = async (
   adminRelationId: number,
   areaLevel: number,
-  saveDir: string
+  saveFilePath: string
 ) => {
-  const geojsonFilePath = `${saveDir}/boundary.geojson`;
-  if (!existsSync(geojsonFilePath)) {
+  if (!existsSync(saveFilePath)) {
     const res = await fetch("https://overpass-api.de/api/interpreter", {
       method: "POST",
       body: adminBoundaryQuery(adminRelationId, areaLevel),
@@ -47,7 +46,7 @@ const fetchAndSaveAdminBoundary = async (
     const boundaryJson = await res.json();
     const boundaryGeojson = osmtogeojson(boundaryJson);
     writeFileSync(
-      geojsonFilePath,
+      saveFilePath,
       JSON.stringify(boundaryGeojson, undefined, 2)
     );
   }
@@ -137,7 +136,7 @@ const configFilePaths = globSync(`./missions/**/overpass.yml`);
 if (configFilePaths.length > 0) {
   for await (const configFilePath of configFilePaths) {
     console.log("configFilePath: ", configFilePath);
-    const missionName = configFilePath.split("/")[2];
+    const missionName = configFilePath.split("/")[1];
     console.log("missionName: ", missionName);
     const missionDataDir = `public/data/${missionName}/`;
     const config = load(readFileSync(configFilePath, "utf8")) as any;
@@ -152,10 +151,12 @@ if (configFilePaths.length > 0) {
     console.log("area relation id: ", areaRelationId);
     console.log("level: ", areaLevel);
     if (areaRelationId && areaLevel) {
+      const boundaryFilePath = `${missionDataDir}/boundary.geojson`;
+      console.log(boundaryFilePath);
       await fetchAndSaveAdminBoundary(
         areaRelationId,
         areaLevel,
-        missionDataDir
+        boundaryFilePath
       );
     }
 

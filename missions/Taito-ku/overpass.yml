@@ -12,3 +12,9 @@ layers:
   - name: police
     nwr:
       - amenity: police
+  - name: refugee_site
+    nwr:
+      - amenity: shelter
+      - amenity: refugee_site
+      - emergency: assembly_point
+      - social_facility: shelter
