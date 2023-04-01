@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/72463705",
+      "properties": {
+        "addr:block_number": "16",
+        "addr:housenumber": "20",
+        "addr:neighbourhood": "1丁目",
+        "addr:quarter": "上野",
+        "amenity": "school",
+        "emergency": "assembly_point",
+        "name": "台東区立 黒門小学校",
+        "name:en": "Kuromon Elementary School",
+        "name:es": "Escuela de primaria de Kuromon",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.taitocity.net/kuromon-es/",
+        "wheelchair": "yes",
+        "wikidata": "Q11411963",
+        "wikipedia": "ja:台東区立黒門小学校",
+        "id": "way/72463705"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7705773,
+              35.7071693
+            ],
+            [
+              139.7705539,
+              35.7068554
+            ],
+            [
+              139.7705402,
+              35.7066712
+            ],
+            [
+              139.7710337,
+              35.7066382
+            ],
+            [
+              139.7710227,
+              35.706528
+            ],
+            [
+              139.7710603,
+              35.7065246
+            ],
+            [
+              139.7711013,
+              35.7065209
+            ],
+            [
+              139.7711137,
+              35.7066343
+            ],
+            [
+              139.7714972,
+              35.7066096
+            ],
+            [
+              139.7715027,
+              35.706654
+            ],
+            [
+              139.7715206,
+              35.7067987
+            ],
+            [
+              139.7715426,
+              35.7069742
+            ],
+            [
+              139.7715584,
+              35.707101
+            ],
+            [
+              139.7711004,
+              35.7071329
+            ],
+            [
+              139.7711119,
+              35.707251
+            ],
+            [
+              139.7710393,
+              35.7072567
+            ],
+            [
+              139.7709958,
+              35.7072598
+            ],
+            [
+              139.7708332,
+              35.7072716
+            ],
+            [
+              139.7708207,
+              35.7071532
+            ],
+            [
+              139.7705773,
+              35.7071693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208679264",
+      "properties": {
+        "access": "yes",
+        "bicycle": "no",
+        "emergency": "assembly_point",
+        "leisure": "playground",
+        "name": "黒門児童遊園",
+        "name:en": "Kuromon childrens' park",
+        "name:ja_kana": "くろもんじどうゆうえん",
+        "shelter_type:en": "Temporary natural disaster evacuation area",
+        "shelter_type:ja": "一時避難場所",
+        "smoking": "no",
+        "source": "survey",
+        "surface": "paving_stones",
+        "id": "way/208679264"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7721793,
+              35.706654
+            ],
+            [
+              139.772173,
+              35.7066043
+            ],
+            [
+              139.7721578,
+              35.7064852
+            ],
+            [
+              139.7721738,
+              35.706483
+            ],
+            [
+              139.7722141,
+              35.7064776
+            ],
+            [
+              139.7722808,
+              35.7065887
+            ],
+            [
+              139.772311,
+              35.706639
+            ],
+            [
+              139.7721793,
+              35.706654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/506172684",
+      "properties": {
+        "amenity": "shelter",
+        "shelter_type": "gazebo",
+        "id": "way/506172684"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7711906,
+              35.7118664
+            ],
+            [
+              139.7712995,
+              35.7118903
+            ],
+            [
+              139.7712681,
+              35.7119848
+            ],
+            [
+              139.7711592,
+              35.7119609
+            ],
+            [
+              139.7711906,
+              35.7118664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/506195088",
+      "properties": {
+        "amenity": "shelter",
+        "name": "サーラータイ",
+        "shelter_type": "pavilion",
+        "id": "way/506195088"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.772053,
+              35.7166489
+            ],
+            [
+              139.7720605,
+              35.7166255
+            ],
+            [
+              139.7720685,
+              35.7166008
+            ],
+            [
+              139.7720932,
+              35.716606
+            ],
+            [
+              139.7721177,
+              35.7166112
+            ],
+            [
+              139.7721099,
+              35.7166356
+            ],
+            [
+              139.7721023,
+              35.7166594
+            ],
+            [
+              139.7720765,
+              35.7166539
+            ],
+            [
+              139.772053,
+              35.7166489
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/586171549",
+      "properties": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter",
+        "id": "way/586171549"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7840372,
+              35.7057933
+            ],
+            [
+              139.7840438,
+              35.7058045
+            ],
+            [
+              139.7840411,
+              35.7058167
+            ],
+            [
+              139.7840301,
+              35.7058253
+            ],
+            [
+              139.7840149,
+              35.7058269
+            ],
+            [
+              139.7840015,
+              35.7058211
+            ],
+            [
+              139.7839948,
+              35.7058099
+            ],
+            [
+              139.7839975,
+              35.7057977
+            ],
+            [
+              139.7840086,
+              35.7057891
+            ],
+            [
+              139.7840237,
+              35.7057874
+            ],
+            [
+              139.7840372,
+              35.7057933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087617621",
+      "properties": {
+        "amenity": "shelter",
+        "building": "yes",
+        "id": "way/1087617621"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.8034094,
+              35.7177743
+            ],
+            [
+              139.8034884,
+              35.7176805
+            ],
+            [
+              139.8035259,
+              35.7177026
+            ],
+            [
+              139.8034465,
+              35.717795
+            ],
+            [
+              139.8034094,
+              35.7177743
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5525436410",
+      "properties": {
+        "emergency": "assembly_point",
+        "name": "柳北公園 一時集合場所",
+        "id": "node/5525436410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7831791,
+          35.6997024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5592737110",
+      "properties": {
+        "emergency": "assembly_point",
+        "name": "一時集合場所",
+        "id": "node/5592737110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7785775,
+          35.7032883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5602363696",
+      "properties": {
+        "emergency": "assembly_point",
+        "id": "node/5602363696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7835391,
+          35.705554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10219741801",
+      "properties": {
+        "emergency": "assembly_point",
+        "source": "survey",
+        "id": "node/10219741801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7739073,
+          35.7038519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10219741802",
+      "properties": {
+        "emergency": "assembly_point",
+        "id": "node/10219741802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7722473,
+          35.7065527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10219741803",
+      "properties": {
+        "emergency": "assembly_point",
+        "source": "survey",
+        "id": "node/10219741803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7890157,
+          35.7039933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10248569878",
+      "properties": {
+        "emergency": "assembly_point",
+        "name": "NBK浅草橋ビル前周辺 一時集合場所",
+        "id": "node/10248569878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7824249,
+          35.7019696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10613392558",
+      "properties": {
+        "emergency": "assembly_point",
+        "source": "survey",
+        "id": "node/10613392558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7892136,
+          35.7004498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10680972840",
+      "properties": {
+        "emergency": "assembly_point",
+        "source": "survey",
+        "id": "node/10680972840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7780509,
+          35.7019724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10773558185",
+      "properties": {
+        "emergency": "assembly_point",
+        "source": "survey",
+        "id": "node/10773558185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7803058,
+          35.7055788
+        ]
+      }
+    }
+  ]
+}
