@@ -15,7 +15,7 @@
     "@turf/turf": "^6.5.0",
     "@types/node": "18.16.1",
     "@types/react": "18.2.0",
-    "@types/react-dom": "18.2.0",
+    "@types/react-dom": "18.2.1",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.1",
     "mapbox-gl": "npm:empty-npm-package@^1.0.0",
