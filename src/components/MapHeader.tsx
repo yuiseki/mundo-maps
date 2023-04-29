@@ -11,6 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 const ConcernLayers = [
   { layerName: "military", displayName: "Military", emoji: "🪖" },
+  { layerName: "concern", displayName: "Concern", emoji: "🪖" },
   { layerName: "police", displayName: "Police", emoji: "👮" },
   { layerName: "hospital", displayName: "Hospital", emoji: "🏥" },
   { layerName: "incidents", displayName: "Incidents", emoji: "⚠️" },
