@@ -1,8 +1,8 @@
 import { load } from "js-yaml";
 import { existsSync, readFileSync, writeFileSync } from "fs";
 import { globSync } from "glob";
-import osmtogeojson from "osmtogeojson";
 import { basename, parse } from "path";
+import osmtogeojson from "osmtogeojson";
 import { FeatureCollection } from "geojson";
 
 const convertOverpassTag = (nwr: any) => {
@@ -45,10 +45,7 @@ const fetchAndSaveAdminBoundary = async (
     });
     const boundaryJson = await res.json();
     const boundaryGeojson = osmtogeojson(boundaryJson);
-    writeFileSync(
-      saveFilePath,
-      JSON.stringify(boundaryGeojson, undefined, 2)
-    );
+    writeFileSync(saveFilePath, JSON.stringify(boundaryGeojson, undefined, 2));
   }
 };
 
