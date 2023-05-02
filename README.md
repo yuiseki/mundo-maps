@@ -5,7 +5,7 @@
 - `mundo-maps` is part of the MUNDO project.
   - MUNDO is developed by the Smart Maps team of the UN Open GIS Initiative's Domain Working Group 7.
 - MUNDO stands for "Model United Nations Development and Operations".
-  - MUNDO is a simulation of the United Nations focusing on UN peacekeeping and development programs.
+  - MUNDO is a model United Nations focusing on UN peacekeeping and development programs.
 - MUNDO aims to enhance situational awareness in geospatial contexts for UN peacekeeping and development programs through OSS development.
 - `mundo-maps` specifically focuses on simulating the development and operation of geospatial information systems in the UN.
 - `mundo-maps` is based on open data sources such as OpenStreetMap and ReliefWeb.
@@ -15,7 +15,7 @@
 - The United Nations actively encourages the development of open-source software (OSS).
 - However, much of the actual data within the UN is managed and not generally available to the public.
 - Additionally, it is not always clear what software or data the UN is seeking.
-- Therefore, MUNDO aims to explore the requirements for software and data within the UN by conducting a simulated UN based on open data.
+- Therefore, MUNDO aims to explore the requirements for software and data within the UN by conducting a model UN based on open data.
 - Through these simulations, the goal is to develop more useful OSS.
 
 ## What can MUNDO do?
@@ -23,7 +23,7 @@
 - `mundo-maps` is a software that operates based on very simple mechanisms and rules.
 - By using `mundo-maps`, you can quickly create digital maps that highlight any geospatial concerns in a specific area.
   - This enhances situational awareness perception, such as "where is someone now," "what is in a certain location," and "what is happening there now."
-  - `mundo-maps` can be used not only by the United Nations but also by local governments and NGOs to enhance geographical situational awareness.
+  - `mundo-maps` can be used not only by the United Nations but also by local governments and NGOs to enhance geospatial situational awareness.
 - Check out the specific examples of `mundo-maps`'s use in UNMISS (United Nations Mission in South Sudan) through the following URL and screenshots.
 
 ### https://mundo.yuiseki.net/missions/UNMISS
@@ -38,7 +38,7 @@
 
 [![Image from Gyazo](https://i.gyazo.com/e1c0df4e6532a7900d8e7816fa9ad922.png)](https://gyazo.com/e1c0df4e6532a7900d8e7816fa9ad922)
 
-### 南スーダン共和国における通行止めの道路を表示する
+### Display closed roads in Republic of South Sudan
 
 [![Image from Gyazo](https://i.gyazo.com/a16fec8372618629e3af70696faced6a.png)](https://gyazo.com/a16fec8372618629e3af70696faced6a)
 
@@ -95,12 +95,12 @@
 
 [![Image from Gyazo](https://i.gyazo.com/9dd1613b4753695c98c286e945d5f676.png)](https://gyazo.com/9dd1613b4753695c98c286e945d5f676)
 
-### Handling of Classified Data in Mundo Maps
+### Handling of Classified Data
 
-- Mundo Maps is capable of handling classified data, in addition to other types of data.
-  - For example, Mundo Maps can display several types of vector tile maps that are built for internal use within the United Nations as base maps.
+- `mundo-map` is capable of handling classified data, in addition to other types of data.
+  - For example, `mundo-maps` can display several types of vector tile maps that are built for internal use within the United Nations as base maps.
   - These maps are restricted and can only be accessed by users who are connected to the UN intranet and have the appropriate viewing permissions.
-- Similarly, Mundo Maps has the technical capability to restrict access to sensitive information and display it only to a limited number of users.
+- Similarly, `mundo-maps` has the technical capability to restrict access to sensitive information and display it only to a limited number of users.
 
 [![Image from Gyazo](https://i.gyazo.com/46a523018154f49ef5fef215102fb67e.png)](https://gyazo.com/46a523018154f49ef5fef215102fb67e)
 
