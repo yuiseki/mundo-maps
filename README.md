@@ -22,7 +22,7 @@
 
 - `mundo-maps` is a software that operates based on very simple mechanisms and rules.
 - By using `mundo-maps`, you can quickly create digital maps that highlight any geospatial concerns in a specific area.
-  - This enhances situational awareness perception, such as "where is someone now," "what is in a certain location," and "what is happening there now."
+  - This enhances geospatial situational awareness, such as "where is someone now," "what is in a certain location," and "what is happening there now."
   - `mundo-maps` can be used not only by the United Nations but also by local governments and NGOs to enhance geospatial situational awareness.
 - Check out the specific examples of `mundo-maps`'s use in UNMISS (United Nations Mission in South Sudan) through the following URL and screenshots.
 
