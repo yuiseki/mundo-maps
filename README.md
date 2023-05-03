@@ -68,7 +68,7 @@ You can stop dev server by `Ctrl + C`.
 
 ### Display military and UN-related facilities in the Republic of South Sudan.
 
-[![Image from Gyazo](https://i.gyazo.com/1c951a512b4d5d55a7c4a066d81e055a.png)](https://gyazo.com/1c951a512b4d5d55a7c4a066d81e055a)
+[![Image from Gyazo](https://i.gyazo.com/374a1d7c3b05621aa9ddc873e7c11048.png)](https://gyazo.com/374a1d7c3b05621aa9ddc873e7c11048)
 
 [![Image from Gyazo](https://i.gyazo.com/048d9a4332d0f764a733787c165deb8b.png)](https://gyazo.com/048d9a4332d0f764a733787c165deb8b)
 
