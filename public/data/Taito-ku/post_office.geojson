@@ -1,0 +1,819 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/229757631",
+      "properties": {
+        "addr:block_number": "15",
+        "addr:city": "台東区",
+        "addr:housenumber": "6",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "111-0051",
+        "addr:province": "東京都",
+        "addr:quarter": "蔵前",
+        "amenity": "post_office",
+        "building": "yes",
+        "name": "蔵前郵便局",
+        "name:en": "Kuramae Post Office",
+        "name:ja": "蔵前郵便局",
+        "name:zh": "藏前郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "日本郵政",
+        "source": "GSI/KIBAN 25000;NARO;KSJ2",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN",
+        "website": "http://map.japanpost.jp/p/search/dtl/300100265000/",
+        "id": "way/229757631"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7939341,
+              35.7042937
+            ],
+            [
+              139.7940696,
+              35.7042357
+            ],
+            [
+              139.7940949,
+              35.7042747
+            ],
+            [
+              139.7939595,
+              35.7043327
+            ],
+            [
+              139.7939341,
+              35.7042937
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/543019009",
+      "properties": {
+        "addr:block_number": "23",
+        "addr:neighbourhood": "1丁目",
+        "addr:quarter": "台東",
+        "amenity": "post_office",
+        "building": "yes",
+        "name": "台東一郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "way/543019009"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.7791148,
+              35.7017362
+            ],
+            [
+              139.7789676,
+              35.7017517
+            ],
+            [
+              139.7789518,
+              35.7016524
+            ],
+            [
+              139.7790989,
+              35.7016369
+            ],
+            [
+              139.7791148,
+              35.7017362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420763966",
+      "properties": {
+        "FIXME:ja": "移転",
+        "amenity": "post_office",
+        "name": "くらまえ橋郵便局",
+        "name:en": "Kuramaebashi Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420763966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7895417,
+          35.7007215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765896",
+      "properties": {
+        "amenity": "post_office",
+        "name": "上野七郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779875,
+          35.715262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765919",
+      "properties": {
+        "amenity": "post_office",
+        "name": "上野郵便局",
+        "name:en": "Ueno Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11360471",
+        "wikipedia": "ja:上野郵便局 (東京都)",
+        "id": "node/1420765919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781097,
+          35.718928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765920",
+      "properties": {
+        "amenity": "post_office",
+        "name": "上野駅前郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes",
+        "id": "node/1420765920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775959,
+          35.710651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765921",
+      "properties": {
+        "amenity": "post_office",
+        "level": "0",
+        "name": "上野黒門郵便局",
+        "name:ja_kana": "うえのくろもんゆうびんきょく",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "limited",
+        "id": "node/1420765921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772834,
+          35.70513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765957",
+      "properties": {
+        "amenity": "post_office",
+        "name": "下谷三郵便局",
+        "name:en": "Shita-ya Post Office",
+        "name:ja": "下谷三郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "日本郵便",
+        "operator:en": "Japan Post",
+        "operator:ja": "日本郵便",
+        "operator:wikidata": "Q11509260",
+        "operator:wikipedia": "ja:日本郵便",
+        "short_name:en": "JP",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7892297,
+          35.7273986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420765958",
+      "properties": {
+        "KSJ2:ADS": "東上野3-29-8",
+        "KSJ2:AdminArea": "東京都台東区",
+        "KSJ2:PubFacAdmin": "その他",
+        "amenity": "post_office",
+        "name": "下谷神社前郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420765958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781098,
+          35.710679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420766898",
+      "properties": {
+        "amenity": "post_office",
+        "name": "仲御徒町郵便局",
+        "name:en": "Naka-Okachimachi Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420766898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7753294,
+          35.7056591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420767101",
+      "properties": {
+        "amenity": "post_office",
+        "name": "元浅草郵便局",
+        "name:en": "Motoasakusa Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420767101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7827471,
+          35.7071111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771087",
+      "properties": {
+        "KSJ2:ADS": "三筋2-7-11",
+        "KSJ2:AdminArea": "東京都台東区",
+        "KSJ2:PubFacAdmin": "その他",
+        "amenity": "post_office",
+        "name": "台東三筋郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.785293,
+          35.70493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771092",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東入谷郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78492,
+          35.720543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771109",
+      "properties": {
+        "KSJ2:ADS": "千束1-16-9",
+        "KSJ2:AdminArea": "東京都台東区",
+        "KSJ2:PubFacAdmin": "その他",
+        "amenity": "post_office",
+        "name": "台東千束郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.791969,
+          35.719445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771116",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東日本堤郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.796956,
+          35.725983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771118",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東松が谷郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7873593,
+          35.7111265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771125",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東根岸三郵便局",
+        "name:en": "Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q1372543",
+        "id": "node/1420771125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7823364,
+          35.7220765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771126",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東根岸二郵便局",
+        "name:en": "Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q1372543",
+        "id": "node/1420771126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7781318,
+          35.7248597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771129",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東桜木郵便局",
+        "name:en": "Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769728,
+          35.72024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771130",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東清川郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8046259,
+          35.7262007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771131",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東竜泉郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.792267,
+          35.7247153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771134",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東聖天前郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.801235,
+          35.718429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771135",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東花川戸郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.799207,
+          35.714623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420771141",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東谷中郵便局",
+        "name:en": "Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420771141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.764519,
+          35.7213303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420782417",
+      "properties": {
+        "amenity": "post_office",
+        "name": "東上野六郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420782417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7845214,
+          35.714757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420785928",
+      "properties": {
+        "amenity": "post_office",
+        "name": "東浅草郵便局",
+        "name:en": "Higashi Asakusa Post Office",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420785928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.801158,
+          35.722685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420787959",
+      "properties": {
+        "amenity": "post_office",
+        "name": "浅草四郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420787959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7964972,
+          35.7187056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788000",
+      "properties": {
+        "amenity": "post_office",
+        "name": "浅草橋郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420788000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7807114,
+          35.6998846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420788073",
+      "properties": {
+        "amenity": "post_office",
+        "name": "浅草郵便局",
+        "name:en": "Asakusa Post Office",
+        "name:zh": "浅草郵局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11557241",
+        "id": "node/1420788073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7909079,
+          35.7100312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420797856",
+      "properties": {
+        "KSJ2:ADS": "西浅草3-12-1",
+        "KSJ2:AdminArea": "東京都台東区",
+        "KSJ2:PubFacAdmin": "その他",
+        "amenity": "post_office",
+        "name": "西浅草郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420797856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.790375,
+          35.714984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420800498",
+      "properties": {
+        "amenity": "post_office",
+        "name": "鳥越神社前郵便局",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "id": "node/1420800498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7850676,
+          35.7016125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2959554433",
+      "properties": {
+        "amenity": "post_office",
+        "name": "台東三郵便局",
+        "id": "node/2959554433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77671,
+          35.704263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5011381798",
+      "properties": {
+        "amenity": "post_office",
+        "name": "雷門郵便局",
+        "name:en": "Kaminarimon Post Office",
+        "id": "node/5011381798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7971518,
+          35.7095605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5989387368",
+      "properties": {
+        "amenity": "post_office",
+        "level": "0",
+        "name": "上野三郵便局",
+        "source": "survey",
+        "start_date": "2018",
+        "wheelchair": "yes",
+        "id": "node/5989387368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7736897,
+          35.7071931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8230395207",
+      "properties": {
+        "amenity": "post_office",
+        "atm": "yes",
+        "level": "0",
+        "name": "上野三郵便局",
+        "source": "survey",
+        "id": "node/8230395207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7739375,
+          35.706221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10314143247",
+      "properties": {
+        "amenity": "post_office",
+        "check_date": "2023-01-08",
+        "level": "0",
+        "name": "佐川急便",
+        "name:ja": "佐川急便",
+        "operator": "佐川急便",
+        "operator:en": "Sagawa Express",
+        "operator:ja": "佐川急便",
+        "operator:wikidata": "Q7399082",
+        "id": "node/10314143247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7974512,
+          35.7128407
+        ]
+      }
+    }
+  ]
+}

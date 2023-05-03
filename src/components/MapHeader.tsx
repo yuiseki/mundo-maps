@@ -6,22 +6,9 @@ import { EmojiLayer } from "@/types/layer";
 import { Inter } from "next/font/google";
 import { useLocalStorage } from "@/hooks/localStorage";
 import { BaseMapStyleOptions } from "./BaseMapStyleOptions";
+import { ConcernLayerList } from "@/const/ConcernLayerList";
 
 const inter = Inter({ subsets: ["latin"] });
-
-const ConcernLayers = [
-  { layerName: "military", displayName: "Military", emoji: "🪖" },
-  { layerName: "concern", displayName: "Concern", emoji: "🪖" },
-  { layerName: "police", displayName: "Police", emoji: "👮" },
-  { layerName: "hospital", displayName: "Hospital", emoji: "🏥" },
-  { layerName: "incidents", displayName: "Incidents", emoji: "⚠️" },
-  { layerName: "road_closed", displayName: "Road Closed", emoji: "🚧" },
-  { layerName: "government", displayName: "Government", emoji: "🏢" },
-  { layerName: "refugee_site", displayName: "Refugee site", emoji: "✅" },
-  { layerName: "water", displayName: "Water", emoji: "🚰" },
-  { layerName: "power", displayName: "Power", emoji: "💡" },
-  { layerName: "toilets", displayName: "Toilet", emoji: "🚽" },
-];
 
 export const MapHeader: React.FC<{
   missionName?: string;
@@ -50,7 +37,7 @@ export const MapHeader: React.FC<{
   useEffect(() => {
     if (onChangeConcernLayer) {
       onChangeConcernLayer(
-        ConcernLayers.filter((item) =>
+        ConcernLayerList.filter((item) =>
           selectedConcernLayerNames.includes(item.layerName)
         )
       );
@@ -77,7 +64,7 @@ export const MapHeader: React.FC<{
       }
       setSelectedConcernLayerNames(newSelectedLayerNames);
       if (onChangeConcernLayer) {
-        const newSelectedLayers = ConcernLayers.filter((item) =>
+        const newSelectedLayers = ConcernLayerList.filter((item) =>
           newSelectedLayerNames.includes(item.layerName)
         );
         onChangeConcernLayer(newSelectedLayers);
@@ -144,7 +131,7 @@ export const MapHeader: React.FC<{
         </div>
       )}
       {missionName &&
-        ConcernLayers.map((concernLayerOption) => {
+        ConcernLayerList.map((concernLayerOption) => {
           return (
             <div
               key={concernLayerOption.layerName}

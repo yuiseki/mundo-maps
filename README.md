@@ -1,5 +1,43 @@
 # mundo-maps
 
+## Getting Started
+
+- `mundo-maps` is a software that operates based on very simple mechanisms and rules.
+- By using `mundo-maps`, you can quickly create digital maps that highlight any geospatial concerns in a specific area.
+
+### Requirements
+
+- Node.js v18 or v20
+- npm
+
+That is all you need!
+
+### Let's launch the `mundo-maps` now!
+
+Running `mundo-maps` is really, really easy!
+Seeing is believing!
+
+```bash
+npm run ci
+npm run dev
+```
+
+Run above commands, then open http://localhost:3000/
+
+You should see `mundo-maps` is working on your machine!
+
+You can stop dev server by `Ctrl + C`.
+
+### Quick example - Let's do it now!
+
+- YAML file `missions/Taito-ku/overpass.yml` is a demonstration and trial purpose
+- This YAML file define contents of the http://localhost:3000/missions/Taito-ku
+- For example,
+  - Remove `toilets` definition
+  - Append `post_office` definition
+  - After modifying or adding the `overpass.yml` file, run the `npm run fetch-overpass` command
+  - When append newer concern definition, you need to edit `src/const/ConcernLayerList.ts` file
+
 ## What is this?
 
 - `mundo-maps` is part of the MUNDO project.
