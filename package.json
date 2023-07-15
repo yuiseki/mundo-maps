@@ -16,7 +16,7 @@
     "@types/node": "18.16.19",
     "@types/react": "18.2.15",
     "@types/react-dom": "18.2.7",
-    "eslint": "8.43.0",
+    "eslint": "8.45.0",
     "eslint-config-next": "13.4.10",
     "mapbox-gl": "npm:empty-npm-package@^1.0.0",
     "maplibre-gl": "^3.0.0",
